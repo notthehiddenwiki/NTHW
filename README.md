@@ -73,9 +73,9 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 
 **Here you will find information about the NTWH's achievements**
 
-   12.12.2023 - **The NTHW is online**
-   13.12.2023 - 250 links on NTHW
-   19.12.2023 - 500 links on NTHW
-   27.12.2023 - Official Twitter [profile](https://twitter.com/NotHiddenWiki) was created
-   29.12.2023 - 1000 links on NTHW
-   11.01.2024 - We are on GitHub
+1. **12.12.2023** - **The NTHW is online**
+2. **13.12.2023** - 250 links on NTHW
+3. **19.12.2023** - 500 links on NTHW
+4. **27.12.2023** - Official Twitter [profile](https://twitter.com/NotHiddenWiki) was created
+5. **29.12.2023** - 1000 links on NTHW
+6. **11.01.2024** - We are on GitHub
