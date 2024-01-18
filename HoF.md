@@ -6,7 +6,7 @@
 1. **miblak** -  [Linkedin](https://www.linkedin.com/in/michal-blaszczak/) / [Discord](https://discordapp.com/users/854806814573985853) / [HTB](https://app.hackthebox.com/profile/1246594)
 2. **d4xc** - [Mail](mailto:d4xc@airmail.cc) / [Website](https://dcwikla.pl/)
 3. **NOMAD** - [Linkedin]( https://pl.linkedin.com/in/marcinmotwicki) / [Website](https://marcinmotwicki.com/)
-4. **M.Kucharskov** - [Website](https://kucharskov.pl/)
+4. **M. Kucharskov** - [Website](https://kucharskov.pl/) / [GitHub](https://github.com/Kucharskov)
 5. **OtterSec** - [Linkedin](https://www.linkedin.com/in/riccardo-miani/)
 6. **Lasq** - [Linkedin](https://www.linkedin.com/in/lukasz-lamparski/) / [Website](https://malfind.com/)
 7. **Neonito** - [GitHub](https://github.com/NEONITO) / [Website](https://pastebin.com/Qg0a2jKC)
