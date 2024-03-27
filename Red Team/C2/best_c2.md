@@ -13,3 +13,7 @@
 8. C3 - [link](https://github.com/WithSecureLabs/C3)
 9. Awesome Command & Control - [link](https://github.com/tcostam/awesome-command-control)
 10. Villain: Command & Control Framework - [link](https://github.com/t3l3machus/Villain)
+11. TrevorC2 - [link](https://github.com/trustedsec/trevorc2)
+12. GmailC2 - [link](https://github.com/machine1337/gmailc2)
+13. Ninja - [link](https://github.com/ahmedkhlief/Ninja)
+14. Kubesploit - [link](https://github.com/cyberark/kubesploit)

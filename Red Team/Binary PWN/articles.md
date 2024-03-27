@@ -10,3 +10,7 @@
 5. PWN methodology - Linux - [link](https://karol-mazurek95.medium.com/pwn-methodolodgy-linux-5c8355a8c9c2?sk=v2%2Fb6109671-63d7-4cfa-8f09-bf4c5326712b)
 6. PWN Tips && Tricks - Linux - [link](https://karol-mazurek95.medium.com/pwn-tips-tricks-linux-d10186e8580e?sk=v2%2F5b1de360-1cb7-4740-bcc3-0ccef9a86733)
 7. OSED Tips - EXP Dev x86 - [link](https://karol-mazurek95.medium.com/osed-tips-exp-dev-x86-d00c4a5ca006?sk=v2%2F78aff4c9-c266-4125-b81f-c63d0c148d55)
+8. Journey into Windows Kernel Exploitation: The Basics - [link](https://blog.neuvik.com/journey-into-windows-kernel-exploitation-the-basics-fff72116ca33)
+9. Understanding the Glibc Heap Implementation: Part 1 - [link](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
+10. Understanding the GLIBC Heap Implementation: Part 2 - [link](https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/)
+11. Heap Exploit Development - [link](https://azeria-labs.com/heap-exploit-development-part-1/)

@@ -12,3 +12,4 @@
 7. Masks - [link](https://github.com/trustedsec/hate_crack/blob/master/masks/pathwell.hcmask)
 8. Generate smart and powerful wordlists - [link](https://github.com/r3nt0n/bopscrk)
 9. All around cracking wordlist - [link](https://github.com/Karmaz95/crimson_cracking)
+10. Weak Pass - [link](https://weakpass.com/wordlist/1950)

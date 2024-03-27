@@ -45,7 +45,7 @@
 40. DNS Dumpster - [link](https://dnsdumpster.com/)
 41. Dork search - [link](https://dorksearch.com/)
 42. Global cyberspace mapping - [link](https://en.fofa.info/)
-43. Search public buckets - [link](https://buckets.grayhatwarfare.com/)
+43. Never ever ever use pixelation as a redaction technique - [link](https://github.com/BishopFox/unredacter)
 44. Forum about CVE - [link](https://attackerkb.com/)
 45. Search engine and leaks - [link](https://leakix.net/)
 46. Internet Scanner - [link](https://netlas.io/)
@@ -62,3 +62,4 @@
 57. Site scan - [link](https://securityheaders.com/)
 58. Sitelookup - [link](https://sitelookup.mcafee.com/) 
 59. Pastebin for hackers - [link](https://pastes.sh/)
+60. Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance - [](https://github.com/subat0mik/Misconfiguration-Manager)

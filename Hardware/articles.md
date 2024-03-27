@@ -19,3 +19,5 @@
 14. IoT Printers Research - [link](https://wootcloud.com/wp-content/uploads/2020/04/IOT-Printer-Research.pdf)
 15. IoT Bug Bounty - [link](https://bugprove.com/knowledge-hub/iot-bug-bounty-hunting-using-bug-prove)
 16. Hacking Printers - [link](http://hacking-printers.net/wiki/index.php/Main_Page)
+17. Some CircuitPython tricks, mostly reminders to myself - [link](https://github.com/todbot/circuitpython-tricks)
+18. The best hacker's gadgets for Red Team pentesters and security researchers - [link](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)

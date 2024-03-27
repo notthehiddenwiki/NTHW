@@ -43,3 +43,7 @@
 38. Automation of the reconnaissance phase during Web Application Penetration Testing I - [link](https://karol-mazurek95.medium.com/automation-of-the-reconnaissance-phase-during-web-application-penetration-testing-i-574fd9dce53e?sk=v2%2F6ea16a44-edc9-4018-86d1-70430ec55f6e)
 39. Automation of the reconnaissance phase during Web Application Penetration Testing II - [link](https://karol-mazurek95.medium.com/automation-of-the-reconnaissance-phase-during-web-application-penetration-testing-ii-4336bd4ca73b?sk=v2%2F40f883ed-400a-4978-89ba-32f8c7cf2615)
 40. Automation of the reconnaissance phase during Web Application Penetration Testing III - [link](https://karol-mazurek95.medium.com/automation-of-the-reconnaissance-phase-during-web-application-penetration-testing-iii-2823b16f38cc?sk=v2%2Ff4b521a8-ab9b-4b02-b39c-8fa1a501b39e)
+41. Notes about attacking Jenkins servers - [link](https://github.com/gquere/pwn_jenkins)
+42. The cheat sheet about Java Deserialization vulnerabilities - [link](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
+43. All about bug bounty (bypasses, payloads, and etc) - [link](https://github.com/daffainfo/AllAboutBugBounty)
+44. A GitHub repository providing an extensive cheat sheet for advanced SQL Injection techniques - [link](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)

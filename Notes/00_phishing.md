@@ -1,19 +1,9 @@
 # Not The Hidden Wiki
 
----
-weight: 999
-title: "Phishing"
-description: "GoPhish: From zero to phishing master"
-icon: "phishing"
-date: "2023-12-31T15:36:45+01:00"
-lastmod: "2023-12-31T15:36:45+01:00"
-draft: false
-toc: true
----
+-----
 
-{{< alert context="info" text="The author of this document is <strong>miblak</strong>." />}}
+The author of this document is <strong>miblak</strong>.
 
-<br>
 
 ## What is Phishing?
 Phishing is a fraud method that involves impersonating a trusted institution or person (e.g. a bank, courier company or public figure) in order to persuade the victim to perform an action for the benefit of the attacker, e.g. providing login details or downloading a malicious file. Most phishing attacks use social engineering. Through it, the attacker tries to make us fear (e.g. information about legal problems in the event of non-payment of an invoice), embarrassment (e.g. news that someone has gained access to our private information) or euphoria (e.g. a message informing us about big win).
@@ -51,7 +41,7 @@ Additionally, to ensure that our phishing messages do not fall into spam and tha
 
 <br>
 
-{{< alert context="success" text="Enough theory! Let's start preparing the best phishing environment you've ever seen! On the following pages, I will guide you through the entire process of creating a phishing. We will start with purchasing a domain, VPS, and finish with sending the first campaign! It is important that you know at least the basics of Linux." />}}
+Enough theory! Let's start preparing the best phishing environment you've ever seen! On the following pages, I will guide you through the entire process of creating a phishing. We will start with purchasing a domain, VPS, and finish with sending the first campaign! It is important that you know at least the basics of Linux.
 
 <br>
 
@@ -80,11 +70,10 @@ Go to the VPS panel, then go to **DNS -> press "Manage" next to your domain**. A
 
 <br>
 
-<div style="width:60%; margin: auto;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/dns.png">
+</p>
 
-![link](./.github/notes/phishing/dns.png)
-
-</div>
 
 <br>
 
@@ -125,7 +114,7 @@ cd /opt/gophish
 chmod +x gophish
 ```
 <br>
-{{< alert context="danger" text="Don't launch GoPhish yet! The whole thing will run on localhost as a web application, so you won't be able to connect to the application through the console. Additionally, a password for the panel is generated when you first start it, so hold off for a moment!" />}}
+Don't launch GoPhish yet! The whole thing will run on localhost as a web application, so you won't be able to connect to the application through the console. Additionally, a password for the panel is generated when you first start it, so hold off for a moment!
 
 To be able to manage GoPhish, it must redirect port 3333 (GoPhish's default port) from the VPS to our local machine also to port 3333. Importantly, GoPhish runs on the localhost, so we cannot connect to it like a standard web application. So let's create an SSH tunnel that will work according to our assumptions. In the new console window (you can close the old one), enter:
 <br>
@@ -137,19 +126,15 @@ ssh -L 3333:127.0.0.1:3333 root@<ip> -p <port>
 
 Now if you run GoPhish `./opt/gophish` in the console you will see your password for the admin panel (you will have to change it the first time you log in - the default login is admin)
 
-<div style="width:60%; margin: auto;">
-
-![link](./.github/notes/phishing/gophish_password.png)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/gophish_password.png">
+</p>
 
 Now type https://127.0.0.1:3333 in your browser to see the GoPhish panel which looks like this:
 
-<div style="width:60%; margin: auto;">
-
-![link](./.github/notes/phishing/gophish_panel.png)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/gophish_panel.png">
+</p>
 
 Change your password and look around the panel if you want. Once you're done, we'll move on to the next point.
 <br>
@@ -174,7 +159,7 @@ cp "/etc/letsencrypt/live/$DOMAIN/fullchain.pem" /opt/gophish/ssl_keys/key.crtâ€
 ```
 <br>
 
-{{< alert context="info" text="The certificate itself can also be purchased. However, this guide does not describe this procedure" />}}
+The certificate itself can also be purchased. However, this guide does not describe this procedure.
 
 ### 7. Further configuration of GoPhish
 
@@ -309,11 +294,9 @@ However, before we move on to further configuration, we need to go through some 
 
 If we already know that it is SPF, DMARC and DKIM, we can proceed to further configuration. To generate SPF, go to [https://www.spfwizard.net/](https://www.spfwizard.net/) and set the option according to the following example:
 
-<div style="width:60%; margin: auto;">
-
-![link](./.github/notes/phishing/spf.png)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/spf.png">
+</p>
 
 After generating the value, create a new TXT record in your DNS. To set DMARC, just create a TXT record in DNS called `_dmarc.domain.pl` with the value `v=DMARC1; p=none`
 
@@ -479,7 +462,7 @@ mail@<domain> mail._domainkey.<domain>
 ```
 <br>
 
-{{< alert context="danger" text="The e-mail address you provide in this file will be used to send our messages, so you can use e.g. noreply@domain.pl, support@domain.pl etc. You can change the address at any time." />}}
+The e-mail address you provide in this file will be used to send our messages, so you can use e.g. noreply@domain.pl, support@domain.pl etc. You can change the address at any time.
 
 ### 10. Public and private key generation
 
@@ -512,11 +495,9 @@ mail._domainkey IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQ
 
 All you need to do is add a TXT record to your DNS with the value you have in the file. Below you will find an example of what it should look like:
 
-<div style="width:60%; margin: auto;">
-
-![link](./.github/notes/phishing/dkim.png)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/dkim.png">
+</p>
 
 Now all you need to do is restart the appropriate services.
 
@@ -602,11 +583,9 @@ Add two headers:
 
 Ultimately it should look something like this:
 
-<div style="width:60%; margin: auto;">
-
-![link](./.github/notes/phishing/sending_profile.png)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/sending_profile.png">
+</p>
 
 <br>
 
@@ -616,11 +595,10 @@ If you want, you can send a test message to your mailbox at this point to see th
 
 To add groups that we will attack, select `Users&Groups` from the menu on the left. Here we need to define the group of people to whom we will send messages. If you think about it, you may come to the conclusion that it is good to have a list of our goals divided into groups, e.g. management, IT, HR, etc. In the case of spear phishing, for example, we may want to send a message to a specific group of people.
 
-<div style="width:60%; margin: auto;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/group.png">
+</p>
 
-![link](./.github/notes/phishing/group.png)
-
-</div>
 
 <br>
 
@@ -634,11 +612,10 @@ To create a template, go to `Landing Pages`. Here we prepare a website template 
 
 After setting, everything should look like this:
 
-<div style="width:60%; margin: auto;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/landing_page.png">
+</p>
 
-![link](./.github/notes/phishing/landing_page.png)
-
-</div>
 
 ### 15. Creating a message template
 
@@ -648,11 +625,9 @@ Before we start our campaign, we need to take one more step. Go to `Email Templa
 
 Here you can also edit the message code or add malicious attachments. The whole thing should look something like this:
 
-<div style="width:60%; margin: auto;">
-
-![link](./.github/notes/phishing/email_template.png)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/email_template.png">
+</p>
 
 For more information on creating templates and landing pages, please refer to the GoPhish documentation available at: [https://getgophish.com/documentation/](https://getgophish.com/documentation/)
 
@@ -662,22 +637,18 @@ For more information on creating templates and landing pages, please refer to th
 
 This is where we create all phishing campaigns and soon we will see all statistics and entered passwords here. Without waiting any longer, press `New Campaign` and select your message template, landing page, sending profile and the group to which you want to send the messages. In the `URL` field, enter your domain address.
 
-<div style="width:60%; margin: auto;">
-
-![link](./.github/notes/phishing/campaign.png)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/campaign.png">
+</p>
 
 If you are ready, press the appropriate `Launch` button to start sending. At this point, we have no choice but to wait until our victims see our message, visit the link provided and provide their data. For the purposes of this guide, I will simulate such a victim. Depending on the actions taken by victims, our dashboard will change. Additionally, after the victim enters their data on the phishing website, we will see them expanding the details for a specific person. The whole thing looks like this:
 
-<div style="width:60%; margin: auto;">
-
-![link](./.github/notes/phishing/dashboard.png)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/dashboard.png">
+</p>
 
 **TIP** Before sending the campaign, it is worth spending some time sending messages to your various email addresses (preferably to those that already have some history). What for? Despite all the configurations we have made, mailboxes still "do not trust" you as the sender. The more people (there may be one person with many mailboxes) open e-mails, click on links and do not simply ignore the e-mails or delete them immediately, the greater the reputation of the sender, which will also make our messages more trusted. Additionally, if it happens that your message ends up in spam, it is worth clicking that it is not SPAM and moving the message to the main folder.
 
 <br><br>
 
-{{< alert context="danger" text="The article was written for educational purposes. I am not responsible for using the knowledge collected here in an unethical or illegal way." />}}
+**The article was written for educational purposes. I am not responsible for using the knowledge collected here in an unethical or illegal way.**
