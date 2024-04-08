@@ -80,3 +80,7 @@
 75. ERNW's GitHub repository containing a collection of statically compiled tools such as Nmap and Socat. - [link](https://github.com/ernw/static-toolbox)
 76. A GitHub repository by andrew-d featuring various Unix tools built as statically-linked binaries. - [link](https://github.com/andrew-d/static-binaries/)
 77. A comprehensive cheatsheet for offensive security, covering a wide range of topics and tools - [link](https://cheatsheet.haax.fr/)
+78. w4cky Blog - [link](https://blaszczakm.blogspot.com/)
+79. Public Pentesting Reports - [link](https://github.com/juliocesarfort/public-pentesting-reports)
+80. Pentesting Reporting Tool - [link](https://github.com/micro-joan/BlackStone)
+81. How to report your findings - [link](https://csbygb.gitbook.io/pentips/reporting/pentest-report)

@@ -9,3 +9,5 @@
 4. Android Application Pentesting - Mystikcon 2020 - [link](https://www.youtube.com/watch?v=NrxTBcjAL8A)
 5. Breaking "DRM" in Polish trains - [link](https://media.ccc.de/v/37c3-12142-breaking_drm_in_polish_trains#t=1867)
 6. Ghidra Reversing Tutorials - [link](https://www.youtube.com/playlist?list=PLHJns8WZXCdu6kPwPpBhA0mfdB4ZuWy6M)
+7. Reverse Engineering Basics - [link](https://www.youtube.com/watch?v=a2EkORFcSZo)
+8. Tutorial: Introduction to Reverse Engineering - Mike Anderson - [link](https://www.youtube.com/watch?v=7v7UaMsgg_c)

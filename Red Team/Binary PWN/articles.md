@@ -14,3 +14,6 @@
 9. Understanding the Glibc Heap Implementation: Part 1 - [link](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
 10. Understanding the GLIBC Heap Implementation: Part 2 - [link](https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/)
 11. Heap Exploit Development - [link](https://azeria-labs.com/heap-exploit-development-part-1/)
+12. Getting Started with Exploit Development - [link](https://dayzerosec.com/blog/2021/02/02/getting-started.html)
+13. Resources for learning about Exploit Development - [link](https://github.com/wtsxDev/Exploit-Development/tree/master)
+14. Awesome Exploit Development - [link](https://github.com/CyberSecurityUP/Awesome-Exploit-Development#readme)

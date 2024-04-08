@@ -86,3 +86,5 @@
 81. Compass Security BloodHound Resources - [link](https://github.com/CompassSecurity/BloodHoundQueries)
 82. Kerberoast attack - pure python - [link](https://github.com/skelsec/kerberoast)
 83. Powershell tool to automate Active Directory enumeration - [link](https://github.com/61106960/adPEAS)
+84. Moduły PowerShell – wsparcie leniwego admina czy szwajcarski scyzoryk hakera - część 1 - [link](https://techblog.ing.pl/blog/moduly-powershell-wsparcie-leniwego-admina-czy-szwajcarski-scyzoryk-hakera-czesc1)
+85. Moduły PowerShell – wsparcie leniwego admina czy szwajcarski scyzoryk hakera - część 2 - [link](https://techblog.ing.pl/blog/moduly-powershell-wsparcie-leniwego-admina-czy-szwajcarski-scyzoryk-hakera-czesc2)

@@ -15,3 +15,4 @@
 10. Bug Bounty Course - [link](https://www.youtube.com/watch?v=TTw-EY7F1rM)
 11. Hacking Google Series - [link](https://www.youtube.com/watch?v=5nEyjYn9_LI&list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H&index=3)
 12. What's New with SAST + DAST - [link](https://www.youtube.com/watch?v=_2U2h7NQPkk)
+13. How To Write a Penetration Testing Report - [link](https://www.youtube.com/watch?v=J34DnrX7dTo)

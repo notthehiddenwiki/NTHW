@@ -28,6 +28,7 @@
 * **Mrufkojat**
 * **Bryan McNulty** - [Linkedin](https://www.linkedin.com/in/bryanmcnulty/) / [Website](https://bryanmcnulty.com/)
 * **7Rocky** - [Linkedin](https://www.linkedin.com/in/roberto-gesteira-minarro/) / [Website](https://7rocky.github.io/en/) / [GitHub](https://github.com/7Rocky)
+* **Bug Bounty Reports Explained** - [YouTube](https://www.youtube.com/@BugBountyReportsExplained) / [Twitter](https://twitter.com/gregxsunday) / [Instagram](https://www.instagram.com/gregxsunday/)
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)

@@ -22,3 +22,4 @@
 17. SC Magazine - [link](https://www.scmagazine.com/)
 18. Mandiant - [link](https://www.mandiant.com/)
 19. Bad Sector Labs - [link](https://blog.badsectorlabs.com/)
+20. InfoSec / Cybersecurity News - [link](https://allinfosecnews.com/)

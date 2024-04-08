@@ -15,3 +15,4 @@
 10. Google Bug Hunters - [link](https://bughunters.google.com/)
 11. 0-Day Hunting (Chaining Bugs/Methodology) - [link](https://blog.riotsecurityteam.com/0day-chains)
 12. KingOfBugBounty Project: Our main goal is to share tips from some well-known bughunters - [link](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
+13. Directory of ethical hacking writeups including bug bounty - [link](https://pentester.land/writeups/)

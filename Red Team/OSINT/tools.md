@@ -81,3 +81,5 @@
 76. Slack Enumeration and Extraction Tool - [link](https://github.com/emtunc/SlackPirate)
 77. GooFuzz is a tool to perform fuzzing with an OSINT - [link](https://github.com/m3n0sd0n4ld/GooFuzz)
 78. OSINT Tool: Generate username lists for companies on LinkedIn - [link](https://github.com/initstring/linkedin2username)
+79. Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain - [link](https://github.com/chiasmod0n/chiasmodon)
+80. DetectDee: Hunt down social media accounts by username, email or phone across social networks - [link](https://github.com/piaolin/DetectDee)

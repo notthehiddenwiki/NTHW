@@ -8,3 +8,4 @@
 3. Kubernetes Pentest Methodology Part 1 - [link](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1)
 4. Kubernetes Pentest Methodology Part 2 - [link](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-2)
 5. Kubernetes Pentest Methodology Part 3 - [link](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-3)
+6. Kubernetes Security Checklist - [link](https://kubernetes.io/docs/concepts/security/security-checklist/)

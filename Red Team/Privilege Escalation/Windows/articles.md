@@ -12,4 +12,4 @@
 7. Windows Credentials Dumping - [link](https://karol-mazurek95.medium.com/windows-credentials-dumping-5898d896d048?sk=v2%2Ff651c3bb-0f84-4864-a0d9-1809f3acad9f)
 8. Red Team Local Privilege Escalation – Writable SYSTEM Path Privilege Escalation - [link](https://www.praetorian.com/blog/red-team-local-privilege-escalation-writable-system-path-privilege-escalation-part-1/)
 9. A detailed guide on Windows local privilege escalation techniques and hardening measures - [link](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation)
-10.  A resource offering various methods for privilege escalation in Windows environments - [link](https://www.thehacker.recipes/infra/privilege-escalation/windows)
+10. A resource offering various methods for privilege escalation in Windows environments - [link](https://www.thehacker.recipes/infra/privilege-escalation/windows)

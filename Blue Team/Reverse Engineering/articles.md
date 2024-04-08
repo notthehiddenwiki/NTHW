@@ -47,3 +47,4 @@
 42. Breaking Protocol (Buffers): Reverse Engineering gRPC Binaries - [link](https://labs.ioactive.com/2021/07/breaking-protocol-buffers-reverse.html)
 43. Sometimes static analysis of shellcode is annoying or infeasible, And what you really want to do is debug it, I'll show you how - [link](https://twitter.com/notareverser/status/1479456627363401730)
 44. Reverse Engineering PsExec for fun and knowledge - [link](https://cybergeeks.tech/reverse-engineering-psexec-for-fun-and-knowledge/)
+45. Malware and Reverse Engineering Complete Collection by Joas - [link](https://github.com/CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering)

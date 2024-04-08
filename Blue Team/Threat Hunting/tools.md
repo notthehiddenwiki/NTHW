@@ -68,3 +68,4 @@
 63. machiane: A tool for collecting intelligence from public sites and feeds about threath intelligence related data - [link](https://github.com/HurricaneLabs/machinae)
 64. omnibus: An interactive command-line application for collecting and managing IOCs and artifacts - [link](https://github.com/InQuest/omnibus)
 65. ThreathTracer: A script for monitoring and generating alerts based on given sets of IOCs - [link](https://github.com/michael-yip/ThreatTracker)
+66. Suricata rules for network anomaly detection - [link](https://github.com/travisbgreen/hunting-rules)
