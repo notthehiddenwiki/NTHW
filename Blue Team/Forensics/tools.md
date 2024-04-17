@@ -79,3 +79,4 @@
 74. LeechCore: Physical Memory Acquisition Library & The LeechAgent Remote Memory Acquisition Agent. - [link](https://github.com/ufrisk/LeechCore)
 75. PCILeech: Direct Memory Access (DMA) Attack Software. - [link](https://github.com/ufrisk/pcileech)
 76. Static analysis powered security scanner for your terraform code - [link](https://github.com/liamg/tfsec)
+77. Awesome Forensics - [link](https://github.com/cugu/awesome-forensics)

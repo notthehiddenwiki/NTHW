@@ -16,3 +16,5 @@
 11. Auditor Wiodący Systemu Zarządzania Bezpieczeństwem Informacji wg ISO/IEC 27001:2022 - [link](https://www.bsigroup.com/pl-PL/ISO-IEC-27001-Bezpieczenstwo-Informacji/Szkolenia-dla-ISO-IEC-27001/Auditor-wiodacy/)
 12. Auditor Wewnętrzny Systemu Zarządzania Bezpieczeństwem Informacji wg ISO/IEC 27001:2022 - [link](https://www.bsigroup.com/pl-PL/ISO-IEC-27001-Bezpieczenstwo-Informacji/Szkolenia-dla-ISO-IEC-27001/Auditor-Wewnetrzny/)
 13. AI Devs - [link](https://www.aidevs.pl/)
+14. Cyfrowe Ataki: Jak nie dać się oszukać - [link](https://sklep.szurek.tv/cyfrowe-ataki)
+15. Bezpieczny Programista: Odkryj tajemnice bezpieczeństwa aplikacji webowych! - [link](https://sklep.szurek.tv/bezpieczny-programista)

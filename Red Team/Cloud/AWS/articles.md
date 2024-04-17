@@ -10,3 +10,4 @@
 5. AWS Organizations Defaults & Pivoting - [link](https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/)
 6. AWS penetration testing: a step-by-step guide - [link](https://www.hackthebox.com/blog/aws-pentesting-guide)
 7. Amazon Web Services (AWS) CLI Tool Cheatsheet - [link](https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/AWS.md)
+8. Awesome AWS Security - [link](https://github.com/jassics/awesome-aws-security)

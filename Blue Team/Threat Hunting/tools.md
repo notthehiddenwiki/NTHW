@@ -69,3 +69,4 @@
 64. omnibus: An interactive command-line application for collecting and managing IOCs and artifacts - [link](https://github.com/InQuest/omnibus)
 65. ThreathTracer: A script for monitoring and generating alerts based on given sets of IOCs - [link](https://github.com/michael-yip/ThreatTracker)
 66. Suricata rules for network anomaly detection - [link](https://github.com/travisbgreen/hunting-rules)
+67. Awesome Threat Intelligence - [link](https://github.com/hslatman/awesome-threat-intelligence/blob/main/README.md)

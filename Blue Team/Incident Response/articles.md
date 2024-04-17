@@ -23,3 +23,4 @@
 18. The features all Incident Response Plans need to have - [link](https://blog.talosintelligence.com/2021/11/the-features-of-incident-response-plan.html)
 19. Malware web and phishing investigation - [link](https://decentsecurity.com/#/malware-web-and-phishing-investigation/)
 20. Incident Response Methodologies 2022 - [link](https://github.com/certsocietegenerale/IRM)
+21. A collection of sources of documentation, as well as field best practices, to build/run a SOC - [link](https://github.com/cyb3rxp/awesome-soc)

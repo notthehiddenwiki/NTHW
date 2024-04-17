@@ -4,6 +4,7 @@
 -----
 
 * **miblak** -  [Linkedin](https://www.linkedin.com/in/michal-blaszczak/) / [Discord](https://discordapp.com/users/854806814573985853) / [HTB](https://app.hackthebox.com/profile/1246594)
+* **k0aziu: NTHW FE DEV** - [Linkedin](https://www.linkedin.com/in/micha%C5%82-kazienko-39abb52aa/) / [GitHub](https://github.com/k0aziu)
 * **d4xc** - [Mail](mailto:d4xc@airmail.cc) / [Website](https://dcwikla.pl/)
 * **NOMAD** - [Linkedin]( https://pl.linkedin.com/in/marcinmotwicki) / [Website](https://marcinmotwicki.com/)
 * **M. Kucharskov** - [Website](https://kucharskov.pl/) / [GitHub](https://github.com/Kucharskov)
@@ -29,6 +30,7 @@
 * **Bryan McNulty** - [Linkedin](https://www.linkedin.com/in/bryanmcnulty/) / [Website](https://bryanmcnulty.com/)
 * **7Rocky** - [Linkedin](https://www.linkedin.com/in/roberto-gesteira-minarro/) / [Website](https://7rocky.github.io/en/) / [GitHub](https://github.com/7Rocky)
 * **Bug Bounty Reports Explained** - [YouTube](https://www.youtube.com/@BugBountyReportsExplained) / [Twitter](https://twitter.com/gregxsunday) / [Instagram](https://www.instagram.com/gregxsunday/)
+* **LloOzy** - [HTB](https://app.hackthebox.com/users/activity/1615089)
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)

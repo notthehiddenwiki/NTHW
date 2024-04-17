@@ -39,3 +39,4 @@
 34. New Attack Paths? AS Requested Service Tickets - [link](https://www.semperis.com/blog/new-attack-paths-as-requested-sts/)
 35. Abusing Windows’ tokens to compromise Active Directory without touching LSASS - [link](https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/)
 36. A notes page focusing on quick wins in Active Directory for red team activities. - [link](https://notes.vulndev.io/wiki/redteam/active-directory/quick-wins)
+37. Active Directory Pentest - [link](https://github.com/geeksniper/active-directory-pentest)

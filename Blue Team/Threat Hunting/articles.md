@@ -22,3 +22,5 @@
 17. Cloud Threat Hunting: Attack & Investigation Series- Lateral Movement – Under the Radar - [link](https://blog.checkpoint.com/2021/01/13/cloud-threat-hunting-attack-investigation-series-lateral-movement-under-the-radar/)
 18. A Top 10 Reading List if You’re Getting Started in Cyber Threat Intelligence - [link](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798)
 19. Insider Threat Hunting - [link](http://findingbad.blogspot.com/2020/07/insider-threat-hunting.html)
+20. Threat Intelligence Feeds - [link](https://start.me/p/wMPxqX/cyber-threat-intelligence)
+21. Threat Hunting Playbook - [link](https://threathunterplaybook.com/intro.html)

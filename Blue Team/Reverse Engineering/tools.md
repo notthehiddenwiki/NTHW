@@ -62,4 +62,5 @@
 57. The HT Editor: A file editor/viewer/analyzer for executables. - [link](https://github.com/sebastianbiallas/ht)
 58. panda: Platform for Architecture-Neutral Dynamic Analysis. - [link](https://github.com/panda-re/panda)
 59. miasm: Reverse engineering framework in Python - [link](https://github.com/cea-sec/miasm)
-60. rehex: Reverse Engineers' Hex Editor. - [link](https://github.com/solemnwarning/rehex)
+60. rehex: Reverse Engineers' Hex Editor - [link](https://github.com/solemnwarning/rehex)
+61. Awesome Reversing - [link](https://github.com/tylerha97/awesome-reversing)

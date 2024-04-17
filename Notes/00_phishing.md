@@ -71,7 +71,7 @@ Go to the VPS panel, then go to **DNS -> press "Manage" next to your domain**. A
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/dns.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/dns.png">
 </p>
 
 
@@ -127,13 +127,13 @@ ssh -L 3333:127.0.0.1:3333 root@<ip> -p <port>
 Now if you run GoPhish `./opt/gophish` in the console you will see your password for the admin panel (you will have to change it the first time you log in - the default login is admin)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/gophish_password.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/gophish_password.png">
 </p>
 
 Now type https://127.0.0.1:3333 in your browser to see the GoPhish panel which looks like this:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/gophish_panel.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/gophish_panel.png">
 </p>
 
 Change your password and look around the panel if you want. Once you're done, we'll move on to the next point.
@@ -295,7 +295,7 @@ However, before we move on to further configuration, we need to go through some 
 If we already know that it is SPF, DMARC and DKIM, we can proceed to further configuration. To generate SPF, go to [https://www.spfwizard.net/](https://www.spfwizard.net/) and set the option according to the following example:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/spf.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/spf.png">
 </p>
 
 After generating the value, create a new TXT record in your DNS. To set DMARC, just create a TXT record in DNS called `_dmarc.domain.pl` with the value `v=DMARC1; p=none`
@@ -496,7 +496,7 @@ mail._domainkey IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQ
 All you need to do is add a TXT record to your DNS with the value you have in the file. Below you will find an example of what it should look like:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/dkim.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/dkim.png">
 </p>
 
 Now all you need to do is restart the appropriate services.
@@ -584,7 +584,7 @@ Add two headers:
 Ultimately it should look something like this:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/sending_profile.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/sending_profile.png">
 </p>
 
 <br>
@@ -596,7 +596,7 @@ If you want, you can send a test message to your mailbox at this point to see th
 To add groups that we will attack, select `Users&Groups` from the menu on the left. Here we need to define the group of people to whom we will send messages. If you think about it, you may come to the conclusion that it is good to have a list of our goals divided into groups, e.g. management, IT, HR, etc. In the case of spear phishing, for example, we may want to send a message to a specific group of people.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/group.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/group.png">
 </p>
 
 
@@ -613,7 +613,7 @@ To create a template, go to `Landing Pages`. Here we prepare a website template 
 After setting, everything should look like this:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/landing_page.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/landing_page.png">
 </p>
 
 
@@ -626,7 +626,7 @@ Before we start our campaign, we need to take one more step. Go to `Email Templa
 Here you can also edit the message code or add malicious attachments. The whole thing should look something like this:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/email_template.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/email_template.png">
 </p>
 
 For more information on creating templates and landing pages, please refer to the GoPhish documentation available at: [https://getgophish.com/documentation/](https://getgophish.com/documentation/)
@@ -638,13 +638,13 @@ For more information on creating templates and landing pages, please refer to th
 This is where we create all phishing campaigns and soon we will see all statistics and entered passwords here. Without waiting any longer, press `New Campaign` and select your message template, landing page, sending profile and the group to which you want to send the messages. In the `URL` field, enter your domain address.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/campaign.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/campaign.png">
 </p>
 
 If you are ready, press the appropriate `Launch` button to start sending. At this point, we have no choice but to wait until our victims see our message, visit the link provided and provide their data. For the purposes of this guide, I will simulate such a victim. Depending on the actions taken by victims, our dashboard will change. Additionally, after the victim enters their data on the phishing website, we will see them expanding the details for a specific person. The whole thing looks like this:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/notes/phishing/dashboard.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/phishing/dashboard.png">
 </p>
 
 **TIP** Before sending the campaign, it is worth spending some time sending messages to your various email addresses (preferably to those that already have some history). What for? Despite all the configurations we have made, mailboxes still "do not trust" you as the sender. The more people (there may be one person with many mailboxes) open e-mails, click on links and do not simply ignore the e-mails or delete them immediately, the greater the reputation of the sender, which will also make our messages more trusted. Additionally, if it happens that your message ends up in spam, it is worth clicking that it is not SPAM and moving the message to the main folder.

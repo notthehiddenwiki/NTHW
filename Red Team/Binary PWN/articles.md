@@ -17,3 +17,4 @@
 12. Getting Started with Exploit Development - [link](https://dayzerosec.com/blog/2021/02/02/getting-started.html)
 13. Resources for learning about Exploit Development - [link](https://github.com/wtsxDev/Exploit-Development/tree/master)
 14. Awesome Exploit Development - [link](https://github.com/CyberSecurityUP/Awesome-Exploit-Development#readme)
+15. Binary Exploitation Tutorials - [link](https://0xxyc.gitbook.io/hacking_methodology/binary-exploitation)

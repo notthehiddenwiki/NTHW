@@ -88,3 +88,4 @@
 83. Powershell tool to automate Active Directory enumeration - [link](https://github.com/61106960/adPEAS)
 84. Moduły PowerShell – wsparcie leniwego admina czy szwajcarski scyzoryk hakera - część 1 - [link](https://techblog.ing.pl/blog/moduly-powershell-wsparcie-leniwego-admina-czy-szwajcarski-scyzoryk-hakera-czesc1)
 85. Moduły PowerShell – wsparcie leniwego admina czy szwajcarski scyzoryk hakera - część 2 - [link](https://techblog.ing.pl/blog/moduly-powershell-wsparcie-leniwego-admina-czy-szwajcarski-scyzoryk-hakera-czesc2)
+86. winPEAS, but for Active Directory - [link](https://github.com/ajm4n/adPEAS)

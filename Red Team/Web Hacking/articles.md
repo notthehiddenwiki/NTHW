@@ -47,3 +47,5 @@
 42. The cheat sheet about Java Deserialization vulnerabilities - [link](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
 43. All about bug bounty (bypasses, payloads, and etc) - [link](https://github.com/daffainfo/AllAboutBugBounty)
 44. A GitHub repository providing an extensive cheat sheet for advanced SQL Injection techniques - [link](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
+45. Awesome API Security - [link](https://github.com/arainho/awesome-api-security)
+46. Anatomy Of A File Upload Attack - [link](https://secops.group/anatomy-of-a-file-upload-attack/)
