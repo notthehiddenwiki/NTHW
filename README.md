@@ -31,11 +31,12 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
   - Web Application Pentester: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/web_application_pentester.md) 
   - Incident Response Analyst: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/incident_response_analyst.md) 
 - **Academy**:
-  - Awareness: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Awareness/articles.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AcademyAwareness/videos.md)
+  - Awareness: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Awareness/articles.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Awareness/videos.md)
   - Certificates:
     - Certificates List: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Certificates_List.md)
     - Notes
       - OSCP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/OSCP.md)
+      - eJPT: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/eJPT.md)
   - Compliance:
     - GDPR: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/GDPR.md)
   - Courses:
