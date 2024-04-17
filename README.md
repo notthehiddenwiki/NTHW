@@ -29,6 +29,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 - **Notes**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/main/Notes)
 - **Learning Paths**:
   - Web Application Pentester: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/web_application_pentester.md) 
+  - Incident Response Analyst: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/incident_response_analyst.md) 
 - **Academy**:
   - Awareness: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Awareness/articles.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AcademyAwareness/videos.md)
   - Certificates:
