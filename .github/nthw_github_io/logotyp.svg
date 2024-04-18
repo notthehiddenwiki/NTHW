@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_2" data-name="Warstwa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 505.63 148.78">
+  <g id="Find_Job_-_Hero_Header" data-name="Find Job - Hero Header" isolation="isolate">
+    <g id="Text">
+      <g>
+        <g>
+          <path d="M0,45.01h25.42v17.29l17.29-17.29h33.55l23.13,23.13v80.64h-27.5v-73.14l-7.08-7.29h-17.5l-19.79,20v60.43H0V45.01Z" fill="#fff" stroke-width="0"/>
+          <path d="M130.65,127.52v-59.39h-18.75v-23.13h19.17V11.25h27.09v33.76h31.67v23.34h-31.67v50.22l7.08,6.88h24.59v23.34h-37.71l-21.46-21.25Z" fill="#fff" stroke-width="0"/>
+          <path d="M207.54,0h27.51v61.05l16.04-16.04h33.13l23.13,23.13v80.64h-27.5v-73.14l-7.08-7.29h-17.92l-19.79,20v60.43h-27.51V0Z" fill="#fff" stroke-width="0"/>
+          <path d="M320.89,45.01h27.92l11.88,65.43h.83l18.75-65.43h25l17.29,65.43h.83l13.13-65.43h27.92l-26.88,103.77h-25.63l-19.17-70.01h-.83l-20.42,70.01h-25.63l-25-103.77Z" fill="#fff" stroke-width="0"/>
+        </g>
+        <path d="M478.54,148.78v-28.34h27.09v28.34h-27.09Z" fill="#ef4511" stroke-width="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

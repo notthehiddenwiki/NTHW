@@ -7,7 +7,7 @@
 2. Cobalt Strike - [link](https://www.cobaltstrike.com/)
 3. Havoc - [link](https://havocframework.com/)
 4. Merlin - [link](https://github.com/Ne0nd0g/merlin)
-5. Silver - [link](https://github.com/BishopFox/sliver)
+5. Sliver - [link](https://github.com/BishopFox/sliver)
 6. Mythic - [link](https://github.com/its-a-feature/Mythic)
 7. Caldera - [link](https://github.com/mitre/caldera)
 8. C3 - [link](https://github.com/WithSecureLabs/C3)
