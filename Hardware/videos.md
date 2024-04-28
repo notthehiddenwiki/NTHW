@@ -3,4 +3,4 @@
 ## Hardware
 -----
 
-It's empty here for now. Come back in a while and if you have links, let me know!
+1.  Arduino Course for Everybody - [link](https://www.youtube.com/watch?v=DPqiIzK97K0)

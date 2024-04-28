@@ -31,6 +31,7 @@
 * **7Rocky** - [Linkedin](https://www.linkedin.com/in/roberto-gesteira-minarro/) / [Website](https://7rocky.github.io/en/) / [GitHub](https://github.com/7Rocky)
 * **Bug Bounty Reports Explained** - [YouTube](https://www.youtube.com/@BugBountyReportsExplained) / [Twitter](https://twitter.com/gregxsunday) / [Instagram](https://www.instagram.com/gregxsunday/)
 * **LloOzy** - [HTB](https://app.hackthebox.com/users/activity/1615089)
+* **xtk** - [LinkedIn](https://www.linkedin.com/in/tomas-kral-3322989/) / [GitHub](https://github.com/x746b) / [HTB](https://app.hackthebox.com/users/480556)
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)

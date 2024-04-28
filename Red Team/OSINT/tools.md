@@ -84,3 +84,5 @@
 79. Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain - [link](https://github.com/chiasmod0n/chiasmodon)
 80. DetectDee: Hunt down social media accounts by username, email or phone across social networks - [link](https://github.com/piaolin/DetectDee)
 81. Nixintel's OSINT Resource List - [link](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
+82. BizRaport: Sprawozdania finansowe KRS - [link](https://www.bizraport.pl/)
+83. Sagemode: Track and Unveil Online identities across social media platforms - [link](https://github.com/senran101604/sagemode/)

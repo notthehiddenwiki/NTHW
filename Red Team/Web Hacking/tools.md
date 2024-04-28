@@ -83,3 +83,4 @@
 78. pp-finder: Prototype pollution finder tool for javascript - [link](https://github.com/yeswehack/pp-finder)
 79. subfinder: Tool to find subdomains - [link](https://github.com/projectdiscovery/subfinder)
 80. Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3 - [link](https://github.com/defparam/smuggler)
+81. Burp Suite alternative - [link](https://caido.io/)

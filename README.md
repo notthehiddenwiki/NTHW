@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 1842 links on our wiki!**
+**There are already 1899 links on our wiki!**
 
 💥 Intro
 -----
@@ -72,7 +72,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 - **Black Team**:
   - Radio Frequency: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/tools.md) / [Schemats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/schemats.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/videos.md)
 - **Programming**:
-  - Asembler: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Asembler/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Asembler/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Asembler/videos.md)
+  - Assembler: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/videos.md)
   - C++: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/C%2B%2B/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/C%2B%2B/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/C%2B%2B/videos.md)
   - Go: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Go/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Go/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Go/videos.md)
   - Java: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Java/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Java/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Java/videos.md)
@@ -86,6 +86,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 - **CTF Platforms**: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/CTF%20Platforms/links.md)
 - **Bug Bounty**: [Platforms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/platforms.md) / [Misc](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/misc.md)
 - **Artificial Intelligence**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AI/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AI/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AI/videos.md)
+- **Cryptography**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/videos.md)
 
 🚀 Milestones
 -----

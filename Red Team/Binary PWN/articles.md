@@ -20,3 +20,4 @@
 15. Binary Exploitation Tutorials - [link](https://0xxyc.gitbook.io/hacking_methodology/binary-exploitation)
 16. Linux Heap exploitation Cheatsheet - [link](https://github.com/tin-z/heapwn_Cheatsheet)
 17. Bypassing the upcoming Safe Linking mitigation - [link](https://www.researchinnovations.com/post/bypassing-the-upcoming-safe-linking-mitigation)
+18. x86 / x64 syscalls manual with registers value - [link](https://syscalls.w3challs.com/)

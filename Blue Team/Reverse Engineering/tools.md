@@ -64,3 +64,5 @@
 59. miasm: Reverse engineering framework in Python - [link](https://github.com/cea-sec/miasm)
 60. rehex: Reverse Engineers' Hex Editor - [link](https://github.com/solemnwarning/rehex)
 61. Awesome Reversing - [link](https://github.com/tylerha97/awesome-reversing)
+62. The Z3 Theorem Prover - [link](https://github.com/Z3Prover/z3)
+63. Pin is a dynamic binary instrumentation framework for the IA-32 and x86-64 - [link](https://www.aldeid.com/wiki/Pin)
