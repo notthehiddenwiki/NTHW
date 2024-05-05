@@ -13,3 +13,4 @@
 8. Introduction to RSA - [link](https://medium.com/@c0D3M/introduction-to-rsa-e8cb39af508e)
 9. A curated list of cryptography papers, articles, tutorials and howtos - [link](https://github.com/pFarb/awesome-crypto-papers)
 10. Awesome Cryptography - [link](https://github.com/sobolevn/awesome-cryptography)
+11. CryptoBook: a resource for people to learn cryptography - [link](https://cryptohack.gitbook.io/cryptobook)

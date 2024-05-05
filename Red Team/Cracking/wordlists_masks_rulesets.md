@@ -13,3 +13,4 @@
 8. Generate smart and powerful wordlists - [link](https://github.com/r3nt0n/bopscrk)
 9. All around cracking wordlist - [link](https://github.com/Karmaz95/crimson_cracking)
 10. Weak Pass - [link](https://weakpass.com/wordlist/1950)
+11. One rule to crack all passwords. or atleast we hope so - [link](https://github.com/NotSoSecure/password_cracking_rules)

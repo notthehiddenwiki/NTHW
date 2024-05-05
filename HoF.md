@@ -32,6 +32,7 @@
 * **Bug Bounty Reports Explained** - [YouTube](https://www.youtube.com/@BugBountyReportsExplained) / [Twitter](https://twitter.com/gregxsunday) / [Instagram](https://www.instagram.com/gregxsunday/)
 * **LloOzy** - [HTB](https://app.hackthebox.com/users/activity/1615089)
 * **xtk** - [LinkedIn](https://www.linkedin.com/in/tomas-kral-3322989/) / [GitHub](https://github.com/x746b) / [HTB](https://app.hackthebox.com/users/480556)
+* **iamJayDee** - [LinkedIn](https://www.linkedin.com/in/jakub-domaradzki-sec/) / [Website](https://domaradzki.net)
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)

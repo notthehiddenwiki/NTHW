@@ -4,13 +4,13 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 1899 links on our wiki!**
+**There are already 1917 links on our wiki!**
 
 💥 Intro
 -----
 We believe that knowledge should be **free**! So we collected many valuable links from various specialists in their fields and created this wiki. Regardless of whether you are just starting your adventure with cybersecurity or you have been in this world for a long time, you will definitely find something for yourself on this wiki.
 
-This wiki cannot exist without you! So if you want to contribute to expanding the database of links with useful knowledge (these may be tools, publications, recordings, etc.), send the list to: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc) or write to me on Discord (@miblak). The wiki will be constantly developed. If a category doesn’t exist, it doesn’t mean it won’t exist! Contact us at the address provided earlier and we will definitely add a new category! 
+This wiki cannot exist without you! So if you want to contribute to expanding the database of links with useful knowledge (these may be tools, publications, recordings, etc.), send the list to: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com) or write to me on Discord (@miblak). The wiki will be constantly developed. If a category doesn’t exist, it doesn’t mean it won’t exist! Contact us at the address provided earlier and we will definitely add a new category! 
 
 As a thank you, you will be added to the [Hall of Fame](https://github.com/notthehiddenwiki/NTHW/blob/nthw/HoF.md) list where, apart from your nickname, I can link your social media/website or whatever you think is appropriate!
 
@@ -36,6 +36,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
     - Certificates List: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Certificates_List.md)
     - Notes
       - OSCP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/OSCP.md)
+      - OSED: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/OSED.md)
       - eJPT: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/eJPT.md)
   - Compliance:
     - GDPR: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/GDPR.md)

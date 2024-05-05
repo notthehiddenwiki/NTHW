@@ -75,3 +75,4 @@
 70. Vulnerable test websites for Vulnerability Scanners - [link](http://vulnweb.com/)
 71. A collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers - [link](https://github.com/kargisimos/offensive-bookmarks)
 72. How to launch Command Prompt and powershell from MS Paint - [link](https://tzusec.com/how-to-launch-command-prompt-and-powershell-from-ms-paint/)
+73. Webhook.site | Test, process and transform emails and HTTP requests (BURP Collab alternative) - [link](https://webhook.site/)

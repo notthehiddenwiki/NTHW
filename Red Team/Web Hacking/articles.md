@@ -49,3 +49,4 @@
 44. A GitHub repository providing an extensive cheat sheet for advanced SQL Injection techniques - [link](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 45. Awesome API Security - [link](https://github.com/arainho/awesome-api-security)
 46. Anatomy Of A File Upload Attack - [link](https://secops.group/anatomy-of-a-file-upload-attack/)
+47. 1001 ways to PWN prod - [link](https://docs.google.com/presentation/d/1bkrkAJLuDjfZfsf-9A62rygWe6zR_uiOq_Yd_8X_NGY/edit#slide=id.p)

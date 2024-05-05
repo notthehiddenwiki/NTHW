@@ -71,4 +71,6 @@
 66. Suricata rules for network anomaly detection - [link](https://github.com/travisbgreen/hunting-rules)
 67. Awesome Threat Intelligence - [link](https://github.com/hslatman/awesome-threat-intelligence/blob/main/README.md)
 68. The Community Driven Cyber Threat Intelligence Library - [link](https://orkl.eu/)
-69. Tracking Ransomwares - [linkl](https://ransomware.live/#/)
+69. Tracking Ransomwares - [link](https://ransomware.live/#/)
+70. Daily feed of bad IPs (with blacklist hit scores) - [link](https://github.com/stamparm/ipsum)
+71. Ransomlook - [link](https://www.ransomlook.io/)

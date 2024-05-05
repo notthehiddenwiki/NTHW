@@ -66,3 +66,6 @@
 61. Awesome Reversing - [link](https://github.com/tylerha97/awesome-reversing)
 62. The Z3 Theorem Prover - [link](https://github.com/Z3Prover/z3)
 63. Pin is a dynamic binary instrumentation framework for the IA-32 and x86-64 - [link](https://www.aldeid.com/wiki/Pin)
+64. ytisf/theZoo | A repository of LIVE malwares for your own joy and pleasure. - [link](https://github.com/ytisf/theZoo)
+65. Collection of malware source code for a variety of platforms in an array of different programming languages. - [link](https://github.com/vxunderground/MalwareSourceCode)
+66. Zeltser | Free Malware Sample Sources for Researchers - [link](https://zeltser.com/malware-sample-sources/)

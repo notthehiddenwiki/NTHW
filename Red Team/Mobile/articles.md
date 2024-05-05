@@ -16,3 +16,4 @@
 11. Spoofed SMS - [link](https://null-byte.wonderhowto.com/how-to/hacks-mr-robot-send-spoofed-sms-text-message-0163331/)
 12. My F*cking GSM bilbe - [link](https://www.mdsec.co.uk/wp-content/uploads/2019/11/44con-greedyBTS.pdf)
 13. The Mobile Application Security Testing Guide (MASTG) - [link](https://github.com/OWASP/owasp-mastg)
+14. MOBISEC | Mobile Security Course - [link](https://mobisec.reyammer.io/slides)
