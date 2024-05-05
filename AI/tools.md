@@ -10,3 +10,4 @@
 5. Build and modify web apps with prompts and deploy to the cloud with one click - [link](https://www.getlazy.ai/)
 6. DeepL Write is a tool that helps you perfect your writing - [link](https://write.deepl.com/)
 7. Awesome AI Tools - [link](https://github.com/mahseema/awesome-ai-tools)
+8. Discover, download, and run local LLMs - [link](https://lmstudio.ai/)

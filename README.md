@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 1917 links on our wiki!**
+**There are already 1919 links on our wiki!**
 
 💥 Intro
 -----
@@ -13,6 +13,8 @@ We believe that knowledge should be **free**! So we collected many valuable link
 This wiki cannot exist without you! So if you want to contribute to expanding the database of links with useful knowledge (these may be tools, publications, recordings, etc.), send the list to: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com) or write to me on Discord (@miblak). The wiki will be constantly developed. If a category doesn’t exist, it doesn’t mean it won’t exist! Contact us at the address provided earlier and we will definitely add a new category! 
 
 As a thank you, you will be added to the [Hall of Fame](https://github.com/notthehiddenwiki/NTHW/blob/nthw/HoF.md) list where, apart from your nickname, I can link your social media/website or whatever you think is appropriate!
+
+Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [Twitter](https://twitter.com/NotHiddenWiki)
 
 **I am not responsible for using the knowledge provided on this website in an unethical way**
 
