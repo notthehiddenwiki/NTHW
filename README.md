@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 1919 links on our wiki!**
+**There are already 1939 links on our wiki!**
 
 💥 Intro
 -----
@@ -40,8 +40,11 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
       - OSCP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/OSCP.md)
       - OSED: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/OSED.md)
       - eJPT: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/eJPT.md)
+      - BSCP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/BSCP.md)
   - Compliance:
     - GDPR: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/GDPR.md)
+    - ISO 27001: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/ISO27001.md)
+    - Other: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/other.md)
   - Courses:
     - PL Courses: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Courses/PL.md)
     - EN Courses: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Courses/EN.md)

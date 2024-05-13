@@ -74,3 +74,4 @@
 69. Tracking Ransomwares - [link](https://ransomware.live/#/)
 70. Daily feed of bad IPs (with blacklist hit scores) - [link](https://github.com/stamparm/ipsum)
 71. Ransomlook - [link](https://www.ransomlook.io/)
+72. Telegram bot to get all messages real-time - [link](https://github.com/sabber-slt/telegram-real-time)

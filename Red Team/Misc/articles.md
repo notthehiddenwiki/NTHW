@@ -83,3 +83,4 @@
 78. Pentesting Reporting Tool - [link](https://github.com/micro-joan/BlackStone)
 79. How to report your findings - [link](https://csbygb.gitbook.io/pentips/reporting/pentest-report)
 80. Awesome Shodan queries - [link](https://github.com/jakejarvis/awesome-shodan-queries)
+81. Introducing Misconfig Mapper - [link](https://blog.intigriti.com/2024/04/29/introducing-misconfig-mapper/?cn-reloaded=1)

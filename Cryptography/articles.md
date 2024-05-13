@@ -14,3 +14,4 @@
 9. A curated list of cryptography papers, articles, tutorials and howtos - [link](https://github.com/pFarb/awesome-crypto-papers)
 10. Awesome Cryptography - [link](https://github.com/sobolevn/awesome-cryptography)
 11. CryptoBook: a resource for people to learn cryptography - [link](https://cryptohack.gitbook.io/cryptobook)
+12. Cryptography Guidelines - [link](https://github.com/samuel-lucas6/Cryptography-Guidelines)

@@ -10,3 +10,4 @@
 5. Hacker Proof - [link](https://hackenproof.com/programs)
 6. Open Bug Bounty - [link](https://www.openbugbounty.org/bugbounty-list/) 
 7. Bug Bounty Project Discovery - [link](https://chaos.projectdiscovery.io/#/)
+8. HACKYX - [link](https://hackyx.io/)

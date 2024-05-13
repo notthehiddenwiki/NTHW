@@ -81,3 +81,4 @@
 76. Webhacking.kr - [link](https://webhacking.kr/)
 77. Damn Vulnerable Restaurant - [link](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game)
 78. Reverse Engineering challenges - [link](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)
+79. HackMyVM - [link](https://hackmyvm.eu)

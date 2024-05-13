@@ -23,3 +23,4 @@
 18. Mandiant - [link](https://www.mandiant.com/)
 19. Bad Sector Labs - [link](https://blog.badsectorlabs.com/)
 20. InfoSec / Cybersecurity News - [link](https://allinfosecnews.com/)
+21. KapitanHack - [link](https://kapitanhack.pl)

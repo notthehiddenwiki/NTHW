@@ -50,3 +50,4 @@
 45. Awesome API Security - [link](https://github.com/arainho/awesome-api-security)
 46. Anatomy Of A File Upload Attack - [link](https://secops.group/anatomy-of-a-file-upload-attack/)
 47. 1001 ways to PWN prod - [link](https://docs.google.com/presentation/d/1bkrkAJLuDjfZfsf-9A62rygWe6zR_uiOq_Yd_8X_NGY/edit#slide=id.p)
+48. Setting Up an Environment for Web Hacking - [link](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)

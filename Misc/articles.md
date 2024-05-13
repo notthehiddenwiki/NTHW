@@ -9,5 +9,5 @@
 4. Security Certification Roadmap - [link](https://pauljerimy.com/security-certification-roadmap/)
 5. The Cyber Plumber's Handbook - [link](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 6. Darknet Diaries - [link](https://darknetdiaries.com/)
-7. Master programming by recreating your favorite technologies from scratch.- [link](https://github.com/codecrafters-io/build-your-own-x)
-8. Cryptography Guidelines - [link](https://github.com/samuel-lucas6/Cryptography-Guidelines)
+7. Master programming by recreating your favorite technologies from scratch - [link](https://github.com/codecrafters-io/build-your-own-x)
+8. Patch management vs. vulnerability management: Key differences - [link](https://www.techtarget.com/searchenterprisedesktop/tip/Patch-management-vs-vulnerability-management-Key-differences)

@@ -16,3 +16,4 @@
 11. 0-Day Hunting (Chaining Bugs/Methodology) - [link](https://blog.riotsecurityteam.com/0day-chains)
 12. KingOfBugBounty Project: Our main goal is to share tips from some well-known bughunters - [link](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
 13. Directory of ethical hacking writeups including bug bounty - [link](https://pentester.land/writeups/)
+14. 4 bug bounty mistakes and how to avoid them - [link](https://blog.intigriti.com/2024/04/17/4-bug-bounty-mistakes-and-how-to-avoid-them/)

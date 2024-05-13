@@ -87,3 +87,7 @@
 82. BizRaport: Sprawozdania finansowe KRS - [link](https://www.bizraport.pl/)
 83. Sagemode: Track and Unveil Online identities across social media platforms - [link](https://github.com/senran101604/sagemode/)
 84. OSINT LINKS collection - start.me - [link](https://start.me/p/q6naJo/osint-links)
+85. Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing - [link](https://github.com/devanshbatham/ParamSpider)
+86. Retrieve the digital footprint - [link](https://osint.lolarchiver.com/)
+87. The best Telegram search engine - [link](https://www.telegramdb.org/)
+88. Common Ports Cheat Sheet: The Ultimate List - [link](https://www.stationx.net/common-ports-cheat-sheet/)
