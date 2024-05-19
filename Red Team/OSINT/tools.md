@@ -91,3 +91,5 @@
 86. Retrieve the digital footprint - [link](https://osint.lolarchiver.com/)
 87. The best Telegram search engine - [link](https://www.telegramdb.org/)
 88. Common Ports Cheat Sheet: The Ultimate List - [link](https://www.stationx.net/common-ports-cheat-sheet/)
+89. A list of open-source aviation projects and data - [link](https://github.com/lucianosrp/open-source-aviation)
+90. LeakIX - [link](https://leakix.net/)

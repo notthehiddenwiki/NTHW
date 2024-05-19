@@ -76,3 +76,6 @@
 71. A collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers - [link](https://github.com/kargisimos/offensive-bookmarks)
 72. How to launch Command Prompt and powershell from MS Paint - [link](https://tzusec.com/how-to-launch-command-prompt-and-powershell-from-ms-paint/)
 73. Webhook.site | Test, process and transform emails and HTTP requests (BURP Collab alternative) - [link](https://webhook.site/)
+74. Simple, private file sharing - [link](https://wormhole.app/)
+75. FullHunt: Secure Your Attack Surface - [link](https://fullhunt.io/)
+76. GrayHatWarfare - [link](https://grayhatwarfare.com/)

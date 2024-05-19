@@ -17,3 +17,4 @@
 12. KingOfBugBounty Project: Our main goal is to share tips from some well-known bughunters - [link](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
 13. Directory of ethical hacking writeups including bug bounty - [link](https://pentester.land/writeups/)
 14. 4 bug bounty mistakes and how to avoid them - [link](https://blog.intigriti.com/2024/04/17/4-bug-bounty-mistakes-and-how-to-avoid-them/)
+15. A list of Google Dorks for Bug Bounty - [link](https://github.com/TakSec/google-dorks-bug-bounty)

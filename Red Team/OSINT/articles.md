@@ -11,3 +11,4 @@
 6. Dark web OSINT bookmarks - [link](https://www.osintcombine.com/dw-osint-bookmarks)
 7. Offensive OSINT - [link](https://www.offensiveosint.io/)
 8. OSINT Automation - [link](https://securityonline.info/bbot-osint-automation-for-hackers/)
+9. Discover Proton Mail registration date with one weird trick - [link](https://iq.thc.org/discover-proton-mail-registration-date-with-one-weird-trick)

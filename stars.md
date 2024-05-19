@@ -32,3 +32,5 @@
 * **Adamski CTF** - [YouTube](https://www.youtube.com/c/AdamskiCTF)
 * **OALabs** - [YouTube](https://www.youtube.com/c/OALabs) / [GitHub](https://github.com/OALabs)
 * **Dr Josh Stroschein - The Cyber Yeti** - [YouTube](https://www.youtube.com/@jstrosch) / [Website](https://www.thecyberyeti.com/)
+* **Pavel Yosifovich** - [Website](https://scorpiosoftware.net/) / [Twitter](https://twitter.com/zodiacon)
+* **Vickie Li** - [Website](https://vickieli.dev/) / [Twitter](https://twitter.com/vickieli7)

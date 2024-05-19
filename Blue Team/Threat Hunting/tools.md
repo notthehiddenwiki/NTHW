@@ -75,3 +75,5 @@
 70. Daily feed of bad IPs (with blacklist hit scores) - [link](https://github.com/stamparm/ipsum)
 71. Ransomlook - [link](https://www.ransomlook.io/)
 72. Telegram bot to get all messages real-time - [link](https://github.com/sabber-slt/telegram-real-time)
+73. All-in-one vulnerability intelligence - [link](https://vulners.com/)
+74. Onyphe: Cyber Defense Search Engine - [link](https://www.onyphe.io/)
