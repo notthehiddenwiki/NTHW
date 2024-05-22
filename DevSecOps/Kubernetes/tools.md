@@ -16,3 +16,6 @@
 11. Hunt for security weaknesses in Kubernetes clusters - [link](https://github.com/aquasecurity/kube-hunter)
 12. kube-scan: Octarine k8s cluster risk assessment tool - [link](https://github.com/octarinesec/kube-scan)
 13. A collection of manifests that will create pods with elevated privileges. - [link](https://github.com/BishopFox/badPods)
+14. CDK - All in one Cloud Environment Exploitation tools - [link](https://github.com/cdk-team/CDK)
+15. K8spider - kubernetes DNS service discovery and abuse tool - [link](https://github.com/Esonhugh/k8spider)
+16. Kubetcd - Kubernetes ETCD Cluster Post Exploitation tool - [link](https://github.com/nccgroup/kubetcd)
