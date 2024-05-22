@@ -1,5 +1,10 @@
 # Windows Portable Executable Overview
 
+**Author**: syl - Dimitar Ganev
+
+- [LinkedIn](https://www.linkedin.com/in/dimitar-ganev-syl-/)
+- [Blog](https://sy1.sh/)
+
 ## Overview
 
 Before reading further, I want you to know that this post is about research I did on static analysis. There is nothing new here - no new tools or features are being discovered. Everything that I talk about already exists in other tools. A big part of this research uses the OpenAI Chat GPT. I made sure to fact-check the information provided here, as the GPT can sometimes produce misleading output.
