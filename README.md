@@ -28,7 +28,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 -----
 
 - [Cybersecurity Stars](https://github.com/notthehiddenwiki/NTHW/blob/nthw/stars.md)
-- **Notes - Articles from our community**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/main/Notes)
+- **Notes - Articles from our community**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Notes)
 - **Learning Paths**:
   - Web Application Pentester: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/web_application_pentester.md) 
   - Incident Response Analyst: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/incident_response_analyst.md)
