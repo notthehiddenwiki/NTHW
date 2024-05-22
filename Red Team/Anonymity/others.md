@@ -24,7 +24,7 @@
 19. Counter-OSINT & privacy guide: how to protect your personal data - [link](https://github.com/soxoj/counter-osint-guide-en)
 20. Tool for hiding Kali Linux on the network  - [link](https://github.com/wearecaster/F31)
 21. Privacy is sexy - [link](https://privacy.sexy/)
-22. CryFS: Keep your data safe in the cloud. [link](https://github.com/cryfs/cryfs) - [link](https://www.cryfs.org/comparison/)
+22. CryFS: Keep your data safe in the cloud. [link](https://github.com/cryfs/cryfs) - [link](https://www.cryfs.org)
 23. Cryptomator: Multi-platform transparent client-side encryption of your files in the cloud. [link](https://github.com/cryptomator/cryptomator) - [link](https://cryptomator.org/)
 24. CipherShed: is a program that can be used to create encrypted files or encrypt entire drives (including USB flash drives and external HDDs). [link](https://github.com/CipherShed/CipherShed) - [link](https://www.ciphershed.org/)
 25. Boxcryptor: Security for your Cloud. - [link](https://www.boxcryptor.com/en/)

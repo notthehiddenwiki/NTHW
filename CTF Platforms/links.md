@@ -83,7 +83,6 @@
 78. Reverse Engineering challenges - [link](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)
 79. HackMyVM - [link](https://hackmyvm.eu)
 80. UnderTheWire - [link](https://underthewire.tech/wargames)
-81. 247CTF - [link](https://247ctf.com/)
-82. Google CTF - [link](https://capturetheflag.withgoogle.com/)
-83. Proving Grounds Play (Offsec) - [link](https://portal.offsec.com/labs/play)
+81. Google CTF - [link](https://capturetheflag.withgoogle.com/)
+82. Proving Grounds Play (Offsec) - [link](https://portal.offsec.com/labs/play)
     

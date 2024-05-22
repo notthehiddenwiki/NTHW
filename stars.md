@@ -34,3 +34,5 @@
 * **Dr Josh Stroschein - The Cyber Yeti** - [YouTube](https://www.youtube.com/@jstrosch) / [Website](https://www.thecyberyeti.com/)
 * **Pavel Yosifovich** - [Website](https://scorpiosoftware.net/) / [Twitter](https://twitter.com/zodiacon)
 * **Vickie Li** - [Website](https://vickieli.dev/) / [Twitter](https://twitter.com/vickieli7)
+* **Wojciech Reguła** - [Website](https://wojciechregula.blog/post/) / [GitHub](https://github.com/r3ggi)
+* **Michał Walkowski** - [Website](https://mwalkowski.com/pl/post/) / [YouTube](https://www.youtube.com/@mwalkowski)

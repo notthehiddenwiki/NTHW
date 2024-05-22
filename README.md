@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 1957 links on our wiki!**
+**There are already 1954 links on our wiki!**
 
 💥 Intro
 -----
@@ -28,10 +28,11 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 -----
 
 - [Cybersecurity Stars](https://github.com/notthehiddenwiki/NTHW/blob/nthw/stars.md)
-- **Notes**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/main/Notes)
+- **Notes - Articles from our community**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/main/Notes)
 - **Learning Paths**:
   - Web Application Pentester: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/web_application_pentester.md) 
-  - Incident Response Analyst: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/incident_response_analyst.md) 
+  - Incident Response Analyst: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/incident_response_analyst.md)
+  - .NET Backend Developer: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/dot_net_backend_developer.md) 
 - **Academy**:
   - Awareness: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Awareness/articles.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Awareness/videos.md)
   - Certificates:
@@ -86,7 +87,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
   - Rust: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Rust/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Rust/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Rust/videos.md)
 - **DevSecOps**:
   - Docker: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/videos.md)
-  - Kubernetes: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/videos.md)
+  - Kubernetes: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/courses.md) / [Labs](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/lab.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/videos.md)
 - **Hardware**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/videos.md)
 - **Misc**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/videos.md) / [Cyber News](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/cyber_news.md)
 - **CTF Platforms**: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/CTF%20Platforms/links.md)

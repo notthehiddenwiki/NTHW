@@ -77,7 +77,7 @@ In progress...
 - [Autopsy](https://www.autopsy.com/)
 - [Zimmermans's Tools](https://ericzimmerman.github.io/#!index.md)
 - [Nirsoft Tools](https://www.nirsoft.net/)
-- [DidierStevensSuite](DidierStevensSuite)
+- [DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite)
 
 📰 Incident Response Analyst - Articles
 -----

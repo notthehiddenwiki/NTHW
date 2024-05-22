@@ -11,3 +11,4 @@
 6. DeepL Write is a tool that helps you perfect your writing - [link](https://write.deepl.com/)
 7. Awesome AI Tools - [link](https://github.com/mahseema/awesome-ai-tools)
 8. Discover, download, and run local LLMs - [link](https://lmstudio.ai/)
+9. AI automation agent for chrome - [link](https://harpa.ai/)
