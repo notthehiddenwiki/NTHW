@@ -9,3 +9,4 @@
 4. Kubernetes Pentest Methodology Part 2 - [link](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-2)
 5. Kubernetes Pentest Methodology Part 3 - [link](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-3)
 6. Kubernetes Security Checklist - [link](https://kubernetes.io/docs/concepts/security/security-checklist/)
+7. Kubernetes ETCD Post Exploitation - [link](https://research.nccgroup.com/2023/11/07/post-exploiting-a-compromised-etcd-full-control-over-the-cluster-and-its-nodes/)
