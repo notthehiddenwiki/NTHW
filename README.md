@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 1954 links on our wiki!**
+**There are already 1969 links on our wiki!**
 
 💥 Intro
 -----
@@ -81,6 +81,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 - **Programming**:
   - Assembler: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/videos.md)
   - C++: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/C%2B%2B/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/C%2B%2B/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/C%2B%2B/videos.md)
+  - C#: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Csharp/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Csharp/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Csharp/videos.md)
   - Go: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Go/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Go/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Go/videos.md)
   - Java: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Java/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Java/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Java/videos.md)
   - Python: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Python/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Python/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Python/videos.md)
@@ -91,7 +92,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 - **Hardware**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/videos.md)
 - **Misc**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/videos.md) / [Cyber News](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/cyber_news.md)
 - **CTF Platforms**: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/CTF%20Platforms/links.md)
-- **Bug Bounty**: [Platforms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/platforms.md) / [Misc](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/misc.md)
+- **Bug Bounty**: [Platforms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/platforms.md) / [Misc](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/misc.md) / [Writeups](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/writeups.md)
 - **Artificial Intelligence**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AI/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AI/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AI/videos.md)
 - **Cryptography**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/videos.md)
 
@@ -108,3 +109,4 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 6. **11.01.2024** - We are on GitHub
 7. **17.04.2024** - We created the NTHW brand
 8. **17.04.2024** - Official LinkedIn [profile](https://www.linkedin.com/company/not-the-hidden-wiki/) was created
+9. **26.05.2024** - 250 stars on GitHub

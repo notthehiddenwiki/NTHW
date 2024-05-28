@@ -83,3 +83,4 @@
 78. How to report your findings - [link](https://csbygb.gitbook.io/pentips/reporting/pentest-report)
 79. Awesome Shodan queries - [link](https://github.com/jakejarvis/awesome-shodan-queries)
 80. Introducing Misconfig Mapper - [link](https://blog.intigriti.com/2024/04/29/introducing-misconfig-mapper/?cn-reloaded=1)
+81. cloud penetration testing - [link](https://www.techtarget.com/searchsecurity/definition/cloud-penetration-testing)

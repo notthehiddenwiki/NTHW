@@ -16,3 +16,4 @@
 11. Directory of ethical hacking writeups including bug bounty - [link](https://pentester.land/writeups/)
 12. 4 bug bounty mistakes and how to avoid them - [link](https://blog.intigriti.com/2024/04/17/4-bug-bounty-mistakes-and-how-to-avoid-them/)
 13. A list of Google Dorks for Bug Bounty - [link](https://github.com/TakSec/google-dorks-bug-bounty)
+14. Don’t Force Yourself to Become a Bug Bounty Hunter - [link](https://samcurry.net/dont-force-yourself-to-become-a-bug-bounty-hunter/)

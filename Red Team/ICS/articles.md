@@ -26,3 +26,4 @@
 21. THE RACE TO NATIVE CODE EXECUTION IN PLCS - [link](https://claroty.com/2021/05/28/blog-research-race-to-native-code-execution-in-plcs/)
 22. The Top 20 Secure PLC Coding Practices Project - [link](https://gca.isa.org/blog/the-top-20-secure-plc-coding-practices-project)
 23. Findings From Examining More Than a Decade of Public ICS/OT Exploits - [link](https://www.dragos.com/resource/findings-from-examining-public-ics-ot-exploits/)
+24. Rekomendacje dla wzmocnienia ochrony systemów OT - [link](https://cert.pl/posts/2024/05/rekomendacje-ot/)
