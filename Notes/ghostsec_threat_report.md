@@ -1,6 +1,6 @@
 # GhostSec Threat Report
 
-**Author**: TheBelfegor
+**Author**: TheBelfegor<br>
 *"I am Belfegor, and your missteps are my demonic pursuit of you"*
 
 PGP Fingerprint: `7E682131E2D23C614C753FB6E07B35ECB25EE5BD`
