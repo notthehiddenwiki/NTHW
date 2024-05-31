@@ -1,4 +1,4 @@
-# Not The Hidden Wiki
+# Phishing for dummies
 
 -----
 
