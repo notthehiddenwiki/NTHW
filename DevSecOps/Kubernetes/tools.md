@@ -19,3 +19,5 @@
 14. CDK - All in one Cloud Environment Exploitation tools - [link](https://github.com/cdk-team/CDK)
 15. K8spider - kubernetes DNS service discovery and abuse tool - [link](https://github.com/Esonhugh/k8spider)
 16. Kubetcd - Kubernetes ETCD Cluster Post Exploitation tool - [link](https://github.com/nccgroup/kubetcd)
+17. Kubesec - Security risk analysis for Kubernetes resources - [link](https://kubesec.io/)
+18. Kubescape - Security platform, misconfiguration and vulnerability scanning [link](https://github.com/kubescape/kubescape)
