@@ -12,3 +12,4 @@
 7. Master programming by recreating your favorite technologies from scratch - [link](https://github.com/codecrafters-io/build-your-own-x)
 8. Patch management vs. vulnerability management: Key differences - [link](https://www.techtarget.com/searchenterprisedesktop/tip/Patch-management-vs-vulnerability-management-Key-differences)
 9. OS Is Better Than Android. You Should Try It - [link](https://www.wired.com/story/e-os-review/)
+10. Virtual Firewall - [link](https://www.techtarget.com/searchsecurity/definition/virtual-firewall)

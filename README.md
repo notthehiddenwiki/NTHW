@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 1969 links on our wiki!**
+**There are already 1975 links on our wiki!**
 
 💥 Intro
 -----
@@ -55,6 +55,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
     - AWS: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/AWS/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/AWS/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/AWS/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/AWS/videos.md)
     - Azure: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/Azure/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/Azure/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/Azure/videos.md)
     - GCP: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/GCP/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/GCP/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/GCP/videos.md)
+    - Other: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/Other/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/Other/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cloud/Other/videos.md)
   - Blockchain: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Blockchain/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Blockchain/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Blockchain/videos.md)
   - ICS: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/ICS/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/ICS/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/ICS/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/ICS/videos.md)
   - Cracking: [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cracking/tools.md) / [Others](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cracking/others.md) / [Wordlists/Masks/Rulesets](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Cracking/wordlists_masks_rulesets.md)
@@ -79,6 +80,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 - **Black Team**:
   - Radio Frequency: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/tools.md) / [Schemats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/schemats.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/videos.md)
 - **Programming**:
+  - Code Review: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Code%20Review/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Code%20Review/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Code%20Review/videos.md)
   - Assembler: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/videos.md)
   - C++: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/C%2B%2B/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/C%2B%2B/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/C%2B%2B/videos.md)
   - C#: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Csharp/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Csharp/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Csharp/videos.md)

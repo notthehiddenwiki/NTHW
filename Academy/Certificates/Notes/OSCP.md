@@ -20,3 +20,4 @@
 15. OSCP Privilege Escalation - [link](https://github.com/C0nd4/OSCP-Priv-Esc)
 16. A reconnaissance tool made for the OSCP labs to automate information gathering - [link](https://github.com/codingo/Reconnoitre)
 17. Your BS-less Guide to Acing OSCP - [link](https://medium.com/@redefiningreality/your-bs-less-guide-to-acing-oscp-4eccaf497410)
+18. This cheatsheet is aimed at the OSCP aspirants to help them understand the various methods of Escalating Privilege on Linux based Machines - [link](https://github.com/Ignitetechnologies/Linux-Privilege-Escalation)

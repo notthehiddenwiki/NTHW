@@ -20,3 +20,4 @@
 15. objection: Runtime mobile exploration - [link](https://github.com/sensepost/objection)
 16. A universal memory dumper using Frida - [link](https://github.com/Nightbringer21/fridump)
 17. A CLI application that automatically prepares Android APK files for HTTPS inspection - [link](https://github.com/shroudedcode/apk-mitm)
+18. Unlock an Android phone (or device) by bruteforcing the lockscreen PIN - [link](https://github.com/urbanadventurer/Android-PIN-Bruteforce)
