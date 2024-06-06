@@ -35,6 +35,7 @@
 * **iamJayDee** - [LinkedIn](https://www.linkedin.com/in/jakub-domaradzki-sec/) / [Website](https://domaradzki.net)
 * **UnC0d3d** - [LinkedIn](https://www.linkedin.com/in/andrzej-ks)
 * **TheBelfegor**
+* **Mborowski** - [LinkedIn](https://www.linkedin.com/in/mateusz-borowski/)
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)
