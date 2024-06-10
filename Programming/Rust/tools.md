@@ -8,7 +8,7 @@
 3. afl.rs: American fuzzy lop (AFL) is a popular, effective, and modern fuzz testing tool - [link]("https://github.com/rust-fuzz/afl.rs")
 4. quickcheck: Property based testing with shrinking - [link]("https://docs.rs/quickcheck/1.0.3/quickcheck/")
 5. proptest: Hypothesis-like property testing for Rust - [link]("https://github.com/proptest-rs/proptest")
-6. cargo-mutants: Mutation testing - [link]("https://docs.rs/quickcheck/1.0.3/quickcheck/")
+6. cargo-mutants: Mutation testing - [link]("https://github.com/sourcefrog/cargo-mutants")
 7. mutagen: Mutation testing - [link]("https://github.com/llogiq/mutagen")
 8. cargo-tarpaulin: Tool to determine code coverage achieved via tests - [link]("https://github.com/xd009642/tarpaulin")
 9. cargo-msrv: This crate can assist you in finding the Minimum Supported Rust Version for a crate. - [link]("https://github.com/foresterre/cargo-msrv")
