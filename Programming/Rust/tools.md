@@ -28,3 +28,6 @@
 23. hypeprfine: A command-line benchmarking tool - [link]("https://github.com/sharkdp/hyperfine")
 24. rust-analyzer: A Rust compiler front-end for IDEs - [link]("https://github.com/rust-lang/rust-analyzer")
 25. cargo-machete: Cargo tool that detects unused dependencies - [link]("https://github.com/bnjbvr/cargo-machete")
+26. cargo-audit: Audit your dependencies for crates with security vulnerabilities reported to the
+[RustSec Advisory Database]("https://github.com/RustSec/advisory-db/") - [link]("https://github.com/RustSec/rustsec/tree/main/cargo-audit")
+27. tokio-console: a debugger for async rust - [link]("https://github.com/tokio-rs/console")
