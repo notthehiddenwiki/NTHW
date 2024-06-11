@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2008 links on our wiki!**
+**There are already 2037 links on our wiki!**
 
 💥 Intro
 -----
@@ -92,6 +92,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
   - Docker: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/videos.md)
   - Kubernetes: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/courses.md) / [Labs](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/lab.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/videos.md)
 - **Hardware**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/videos.md)
+- **Infrastructure**: [Hosting and VPS](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Infrastructure/Hosting%20and%20VPS.md)
 - **Misc**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/videos.md) / [Cyber News](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/cyber_news.md)
 - **CTF Platforms**: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/CTF%20Platforms/links.md)
 - **Bug Bounty**: [Platforms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/platforms.md) / [Misc](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/misc.md) / [Writeups](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Bug%20Bounty/writeups.md)

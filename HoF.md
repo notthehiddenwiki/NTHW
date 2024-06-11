@@ -36,6 +36,7 @@
 * **UnC0d3d** - [LinkedIn](https://www.linkedin.com/in/andrzej-ks)
 * **TheBelfegor**
 * **Mborowski** - [LinkedIn](https://www.linkedin.com/in/mateusz-borowski/)
+* **YB1** - [LinkedIn](https://www.linkedin.com/in/yanivbuta/) / [Discord](https://discordapp.com/users/584165221564678195) / [HTB](https://app.hackthebox.com/users/33519)
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)
