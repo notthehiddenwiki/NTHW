@@ -12,4 +12,4 @@
 7. emp3r0r - [link](https://github.com/jm33-m0/emp3r0r)
 8. Windows Post-Exploitation tools wrapper - [link](https://github.com/Karmaz95/crimson_wisp)
 9. A GitHub repository for Watson, a tool for enumerating missing Windows updates and suggesting exploits for privilege escalation vulnerabilities - [link](https://github.com/rasta-mouse/Watson)
-10. dploot - DPAPI looting remotly from linux (using python) [link](https://github.com/zblurx/dploot)
+10. dploot - DPAPI looting remotly from linux (using python) - [link](https://github.com/zblurx/dploot)
