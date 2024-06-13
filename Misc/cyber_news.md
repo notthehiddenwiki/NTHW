@@ -24,3 +24,4 @@
 19. Bad Sector Labs - [link](https://blog.badsectorlabs.com/)
 20. InfoSec / Cybersecurity News - [link](https://allinfosecnews.com/)
 21. KapitanHack - [link](https://kapitanhack.pl)
+22. BadCyber - [link](https://badcyber.com/)
