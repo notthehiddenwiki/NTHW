@@ -56,7 +56,7 @@ CMD ["/app"]
 
 This Docker image consists of two phases: the build phase and the launch phase. Here's what each layer does:
 
-### Buld Phase
+### Build Phase
 
 **FROM golang:1.16-alpine AS build** - The FROM instruction tells Docker where to get information about the image used, in this case golang:1.16-alpine as the basis for the build stage. This image contains Go version 1.16 on Alpine Linux.
 
