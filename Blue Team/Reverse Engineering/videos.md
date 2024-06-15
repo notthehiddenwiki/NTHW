@@ -11,3 +11,7 @@
 6. Ghidra Reversing Tutorials - [link](https://www.youtube.com/playlist?list=PLHJns8WZXCdu6kPwPpBhA0mfdB4ZuWy6M)
 7. Reverse Engineering Basics - [link](https://www.youtube.com/watch?v=a2EkORFcSZo)
 8. Tutorial: Introduction to Reverse Engineering - Mike Anderson - [link](https://www.youtube.com/watch?v=7v7UaMsgg_c)
+9. Intruduction to syscalls for malware dev - [link](https://youtu.be/elA_eiqWefw?si=mSCPMH32-Ryp6Ixs)
+10. Windows Internals Crash Course - [link](https://youtu.be/I_nJltUokE0?si=wWBJTmcZWZG3FpvC)
+11. Calling Conventions For Reverse Engineering - [link](https://youtu.be/VKp4FvLWjbk?si=n0www-q1h1SuE6Ot)
+12. Processes, Threads, and Handles - [link](https://youtu.be/aNEqC-U5tHM?si=Ks9_AdFHsUtcmg9L)

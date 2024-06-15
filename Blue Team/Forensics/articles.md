@@ -25,3 +25,8 @@
 20. This repository contains the course material for the digital forensics - [link](https://github.com/vonderchild/digital-forensics-lab)
 21. Autoaudit - A linux Forensics Investigation Tool - [link](https://medium.com/@adammesser_51095/autoaudit-a-linux-forensics-investigation-tool-42877dc922f5)
 22. Forensics Wiki - [link](https://forensics.wiki/)
+23. Using tcpdump tutorial with examples - [link](https://danielmiessler.com/p/tcpdump/)
+24. Hiding malware in Image Files - [link](https://www.virusbulletin.com/virusbulletin/2016/04/how-it-works-steganography-hides-malware-image-files/)
+25. examples of malware traffic - [link](https://www.malware-traffic-analysis.net/training-exercises.html)
+26. How to find connected USB devices in Windows - [link](https://winaero.com/how-to-find-and-list-connected-usb-devices-in-windows-10/)
+27. using olevba to analyze malicious documents - [link](https://github.com/decalage2/oletools/wiki/olevba)

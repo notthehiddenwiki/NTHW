@@ -50,3 +50,7 @@
 45. Reverse engineer, C++ enthusiast blog - [link](https://alessandrogar.io/)
 46. Exploit / Malware Reversing - [link](https://exploitreversing.com/)
 47. Embeeresearch Reverse Engineering - [link](https://www.embeeresearch.io/tag/reversing/)
+48. Identifing malware similarities with Fuzzy Hashing - [link](https://any.run/cybersecurity-blog/how-to-identify-malware-similarities/)
+49. Intro to ImpHash in malware similarities - [link](https://www.cybertriage.com/blog/intro-to-imphash-for-dfir-fuzzy-malware-matching/)
+50. tracking malware with Import Hash - [link](https://cloud.google.com/blog/topics/threat-intelligence/tracking-malware-import-hashing)
+51. What is Virual Memory Meaning, Architecture - [link](https://www.spiceworks.com/tech/devops/articles/what-is-virtual-memory/)

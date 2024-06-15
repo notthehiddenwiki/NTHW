@@ -69,3 +69,8 @@
 64. Collection of malware source code for a variety of platforms in an array of different programming languages. - [link](https://github.com/vxunderground/MalwareSourceCode)
 65. Zeltser | Free Malware Sample Sources for Researchers - [link](https://zeltser.com/malware-sample-sources/)
 66. Sixo Online APK Analyzer - [link](https://sisik.eu/apk-tool)
+67. DLL Converter to position independent shellcode - [link](https://github.com/monoxgas/sRDI)
+68. Decoders for some malware samples - [link](https://github.com/embee-research/Decoders/tree/main)
+69. binary file to hex format converter - [link](https://github.com/YxZi5/-random-programming-stuff-/tree/main/bin2shellcode)
+70. Finding RWX section in PE file - [link](https://github.com/YxZi5/-random-programming-stuff-/tree/main/find_rwx_sections)
+71. text to Little endian converter - [link](https://github.com/YxZi5/-random-programming-stuff-/tree/main/text2LE)

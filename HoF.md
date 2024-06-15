@@ -39,6 +39,7 @@
 * **YB1** - [LinkedIn](https://www.linkedin.com/in/yanivbuta/) / [Discord](https://discordapp.com/users/584165221564678195) / [HTB](https://app.hackthebox.com/users/33519)
 * **metantz** - [Twitter](https://x.com/metantz1)
 * **Adrian Kapczyński** - [LinkedIn](https://www.linkedin.com/in/hpar3s/)
+* **YxzI** - [Website](https://0xyxzi.pl/) / [GitHub](https://github.com/YxZi5)
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)
