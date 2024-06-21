@@ -14,3 +14,4 @@
 9. An arduino UARTFuzzer - [link](https://github.com/mdsecresearch/UARTFuzz)
 10. Logic Analyzer, for Arduino, AVR, ESP8266 and STM32 - [link](https://github.com/aster94/logic-analyzer)
 11. A simple USB sniffer based on Raspberry Pi RP2040 - [link](https://github.com/ataradov/usb-sniffer-lite)
+12. Firmware emulation framework - [link](https://github.com/therealsaumil/emux)
