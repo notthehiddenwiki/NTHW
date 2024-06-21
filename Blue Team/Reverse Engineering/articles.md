@@ -54,3 +54,4 @@
 49. Intro to ImpHash in malware similarities - [link](https://www.cybertriage.com/blog/intro-to-imphash-for-dfir-fuzzy-malware-matching/)
 50. tracking malware with Import Hash - [link](https://cloud.google.com/blog/topics/threat-intelligence/tracking-malware-import-hashing)
 51. What is Virual Memory Meaning, Architecture - [link](https://www.spiceworks.com/tech/devops/articles/what-is-virtual-memory/)
+52. Reverse engineering LSASS to decrypt DPAPI keys - [link](https://otter.gitbook.io/red-teaming/articles/reverse-engineering-lsass-to-decrypt-dpapi-keys)
