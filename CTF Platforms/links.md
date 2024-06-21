@@ -85,4 +85,8 @@
 80. UnderTheWire - [link](https://underthewire.tech/wargames)
 81. Google CTF - [link](https://capturetheflag.withgoogle.com/)
 82. Proving Grounds Play (Offsec) - [link](https://portal.offsec.com/labs/play)
-    
+83. OWASP crAPI - [link](https://github.com/OWASP/crAPI)    
+84. OWASP NodeGoat - [link](https://github.com/OWASP/NodeGoat)
+85. OWASP Juice Shop - [link](https://github.com/juice-shop/juice-shop)
+86. OWASP Mutillidae II - [link](https://github.com/webpwnized/mutillidae)
+87. vAPI (vulnerable API) - [link](https://github.com/roottusk/vapi)
