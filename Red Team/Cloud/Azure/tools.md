@@ -40,3 +40,7 @@
 35. Monkey365 Conduct Microsoft 365, Azure subscriptions and Azure Active Directory security configuration reviews - [link](https://github.com/silverhack/monkey365)
 36. Azure-AccessPermissions PowerShell script to enumerate access permissions in an Azure AD environment - [link](https://github.com/csandker/Azure-AccessPermissions)
 37. Prowler Perform AWS and Azure security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness - [link](https://github.com/prowler-cloud/prowler)
+38. GraphRunner is a post-exploitation toolset for interacting with the Microsoft Graph API - [link](https://github.com/dafthack/GraphRunner)
+39. Azure JWT Manipulation Toolset - [link](https://github.com/f-bader/TokenTacticsV2)
+40. Microsoft Graph PowerShell module - [link](https://www.powershellgallery.com/packages/Microsoft.Graph)
+41. Python script to Enumerate Microsoft Teams users - [link](https://github.com/sse-secure-systems/TeamsEnum)
