@@ -16,3 +16,6 @@
 11. barq: The AWS Cloud Post Exploitation framework! - [link](https://github.com/Voulnet/barq)
 12. Bucky: An automatic S3 bucket discovery tool. - [link](https://github.com/smaranchand/bucky)
 13. Prowler is a security tool to perform AWS security best practices assessments, audits, incident response etc - [link](https://github.com/toniblyx/prowler#features)
+14. Pacu AWS exploitation framework - [link](https://github.com/RhinoSecurityLabs/pacu)
+15. Tool to quickly evaluate IAM permissions in AWS - [link](https://github.com/nccgroup/PMapper)
+16. AWS service enumeration and info dumping - [link](https://github.com/shabarkin/aws-enumerator)

@@ -20,3 +20,4 @@
 15. Hacking Printers - [link](http://hacking-printers.net/wiki/index.php/Main_Page)
 16. Some CircuitPython tricks, mostly reminders to myself - [link](https://github.com/todbot/circuitpython-tricks)
 17. The best hacker's gadgets for Red Team pentesters and security researchers - [link](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
+18. Emulating IoT firmware made easy - [link](https://boschko.ca/qemu-emulating-firmware/)
