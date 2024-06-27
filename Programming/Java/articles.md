@@ -8,43 +8,43 @@
 #### Getting Started with Java
 
 1. **Official Oracle Java Tutorials**  
-   [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)  
+   Oracle Java Tutorials-[link](https://docs.oracle.com/javase/tutorial/)  
    This is the official tutorial provided by Oracle. It covers the basics of Java programming, including setting up your environment, language basics, classes and objects, and more advanced topics.
 
 2. **W3Schools Java Tutorial**  
-   [W3Schools Java Tutorial](https://www.w3schools.com/java/)  
+   W3Schools Java Tutorial-[link](https://www.w3schools.com/java/)  
    A beginner-friendly tutorial that covers Java basics, including syntax, control structures, and object-oriented programming concepts.
 
 3. **Codecademy: Learn Java**  
-   [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)  
+   Codecademy: Learn Java-[link](https://www.codecademy.com/learn/learn-java)  
    An interactive platform that offers a hands-on approach to learning Java. The course covers fundamental programming concepts, object-oriented programming, and real-world projects.
 
 4. **Java Programming and Software Engineering Fundamentals Specialization by Duke University on Coursera**  
-   [Coursera Java Specialization](https://www.coursera.org/specializations/java-programming)  
+   Coursera Java Specialization-[link](https://www.coursera.org/specializations/java-programming)  
    This specialization includes multiple courses that cover Java programming basics, solving problems with software, arrays, lists, and structured data, and a capstone project.
 
 5. **Udemy: Java Programming Masterclass for Software Developers**  
-   [Udemy Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)  
+   Udemy Java Programming Masterclass-[link](https://www.udemy.com/course/java-the-complete-java-developer-course/)  
    A comprehensive course that covers Java from beginner to advanced levels. It includes topics such as Java basics, object-oriented programming, data structures, and more.
 
 6. **GeeksforGeeks Java Tutorials**  
-   [GeeksforGeeks Java Tutorials](https://www.geeksforgeeks.org/java/)  
+   GeeksforGeeks Java Tutorials-[link](https://www.geeksforgeeks.org/java/)  
    A well-organized resource that covers a wide range of Java topics, from basic syntax to advanced concepts. It also includes examples, quizzes, and coding problems to practice.
 
 7. **Java for Complete Beginners by John Purcell on Udemy**  
-   [Java for Complete Beginners](https://www.udemy.com/course/java-tutorial/)  
+   Java for Complete Beginners-[link](https://www.udemy.com/course/java-tutorial/)  
    A course designed for absolute beginners, covering the basics of Java programming with practical examples and exercises.
 
 8. **Java Brains**  
-   [Java Brains](https://javabrains.io/courses/java_basics)  
+   Java Brains-[link](https://javabrains.io/courses/java_basics)  
    A collection of video tutorials that cover Java basics, object-oriented programming, and more advanced topics. The lessons are clear and concise, making it easier for beginners to follow along.
 
 9. **SoloLearn Java Course**  
-   [SoloLearn Java Course](https://www.sololearn.com/Course/Java/)  
+   SoloLearn Java Course-[link](https://www.sololearn.com/Course/Java/)  
    An interactive platform that offers a beginner-friendly Java course. It includes bite-sized lessons, quizzes, and coding challenges.
 
 10. **Java Programming Basics by Stanford University on edX**  
-    [edX Java Programming Basics](https://www.edx.org/course/java-programming-basics)  
+    edX Java Programming Basics-[link](https://www.edx.org/course/java-programming-basics)  
     This course covers the fundamental concepts of Java programming, including variables, loops, arrays, and functions. It is designed for beginners and is part of a larger computer science program.
 
 #### Writing Your First Java Program
