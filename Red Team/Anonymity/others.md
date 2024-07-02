@@ -34,4 +34,4 @@
 29. Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions - [link](https://github.com/owerdogan/whoami-project/)
 30. Audio Jammer - [link](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php)
 31. NENONITO_PLUGINS list for addons browsers to increase security - [link](https://github.com/lucif3rSoul/my-list-of-browser-plugins)
-32. clear-windows-preinstall-shit - link(https://github.com/lucif3rSoul/clear-windows-preinstall-shit)
+32. clear-windows-preinstall-shit - [link](https://github.com/lucif3rSoul/clear-windows-preinstall-shit)
