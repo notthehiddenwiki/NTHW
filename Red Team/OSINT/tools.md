@@ -93,3 +93,7 @@
 88. Common Ports Cheat Sheet: The Ultimate List - [link](https://www.stationx.net/common-ports-cheat-sheet/)
 89. A list of open-source aviation projects and data - [link](https://github.com/lucianosrp/open-source-aviation)
 90. LeakIX - [link](https://leakix.net/)
+91. Earthkit toolkit that helps you Geolocate faster with AI - [link](https://earthkit.app/)
+92. PicartaAI Image Location Search - [link](https://picarta.ai/)
+93. OsintQuestPlatform - [link](https://platform.osintquest.pl/)
+94. Geolocation Estimation - [link](https://labs.tib.eu/geoestimation/)
