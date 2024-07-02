@@ -33,3 +33,4 @@
 28. Generating Hypotheses for Successful Threat Hunting - [link](https://www.sans.org/white-papers/37172/)
 29. Threat Hunting Part 1: Improving Through Hunting - [link](https://www.dragos.com/blog/industry-news/threat-hunting-part-1-improving-through-hunting/)
 30. Threat Hunting Part 2: Hunting on ICS Networks - [link](https://www.dragos.com/blog/industry-news/threat-hunting-part-2-hunting-on-ics-networks/)
+31. What Is OT Cyber Threat Intelligence? - [link](https://www.dragos.com/blog/what-is-ot-cyber-threat-intelligence/)

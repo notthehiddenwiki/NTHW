@@ -85,3 +85,4 @@
 80. Introducing Misconfig Mapper - [link](https://blog.intigriti.com/2024/04/29/introducing-misconfig-mapper/?cn-reloaded=1)
 81. cloud penetration testing - [link](https://www.techtarget.com/searchsecurity/definition/cloud-penetration-testing)
 82. Talkback is a smart infosec resource aggregator, designed to help security enthusiasts be more productive. - [link](https://talkback.sh/)
+83. Analysis of user password strength - [link](https://securelist.com/passworde-brute-force-time/112984/)
