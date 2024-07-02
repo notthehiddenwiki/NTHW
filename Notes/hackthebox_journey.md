@@ -205,7 +205,7 @@ Despite the end of a certain stage of my life related to CTF, I think that I wil
 As I mentioned, in addition to developing my skills on the platform, I met many people who have extensive knowledge on various topics and it is thanks to these people that I was able to get to the point where I am today! It is thanks to people who pull you up and who are around us that we can develop! Thank you for everything!
 
 * [Michał Kucharski - M. Kucharskov](https://kucharskov.pl/)
-* [Riccardo M.](https://www.linkedin.com/in/riccardo-miani/)
+* [Riccardo M.](https://www.linkedin.com/in/ricc-m/)
 * [Tamás Péter](https://www.linkedin.com/in/tam%C3%A1s-p%C3%A9ter-705136285/)
 * [Bryan McNulty](https://www.linkedin.com/in/bryanmcnulty/)
 * [Roberto Gesteira Miñarro](https://www.linkedin.com/in/roberto-gesteira-minarro/)
