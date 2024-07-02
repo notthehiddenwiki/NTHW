@@ -19,6 +19,8 @@ So, until around 2021, before I started my adventure with CTFs, I already had so
 
 But what exactly are CTFs and why did I choose the Hack The Box platform and not another one? I  will try to answer these questions later in the article.
 
+And if you don't know where to start, you can watch a video on YouTube titled: [The MOST IMPORTANT advice for young hackers](https://www.youtube.com/watch?v=0Ejj2aBG5c8) which in my opinion is a good starting video.
+
 ### What are CTFs?
 
 For the majority of people reading this article, the acronym CTF should not be a problem. However, if you don't know what CTFs are, let me explain. CTF or **C**apture **T**he **F**lag is largely a team tournament during which teams try to solve as many tasks as possible from categories related to security/hacking, such as web (security web applications), pwn (low-level exploitation/security of native applications), RE (crackme / general reverse engineering), crypto (cryptanalysis), forensics (forensics), stegano (steganography), ppc/programming (programming/algorithms). Of course, instead of large tournaments, the entire game can be "wrapped" in a platform that from time to time releases new challenges/machines that we have to face.
