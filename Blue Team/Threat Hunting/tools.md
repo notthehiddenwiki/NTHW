@@ -77,3 +77,6 @@
 72. Telegram bot to get all messages real-time - [link](https://github.com/sabber-slt/telegram-real-time)
 73. All-in-one vulnerability intelligence - [link](https://vulners.com/)
 74. Onyphe: Cyber Defense Search Engine - [link](https://www.onyphe.io/)
+75. CTI-FAVICON - [link](https://github.com/lucif3rSoul/CTI-FAVICON)
+76. IOC-MAKER - [link](https://github.com/lucif3rSoul/IOC-Maker)
+77. UrlDna - [link](https://urldna.io/)
