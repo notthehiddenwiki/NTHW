@@ -210,7 +210,7 @@ As I mentioned, in addition to developing my skills on the platform, I met many 
 * [Riccardo M.](https://www.linkedin.com/in/ricc-m/)
 * [Tamás Péter](https://www.linkedin.com/in/tam%C3%A1s-p%C3%A9ter-705136285/)
 * [Bryan McNulty](https://www.linkedin.com/in/bryanmcnulty/)
-* [Roberto Gesteira Miñarro](https://www.linkedin.com/in/roberto-gesteira-minarro/)
+* [7Rocky](https://7rocky.github.io/)
 * [Markus Mayer](https://www.linkedin.com/in/markus-mayer-57b2971b7/)
 * [Yaniv Buta](https://www.linkedin.com/in/yanivbuta/)
 * [Dimitar Ganev](https://www.linkedin.com/in/dimitar-ganev-syl-/)
