@@ -78,7 +78,68 @@ This Docker image consists of two phases: the build phase and the launch phase. 
 
 **CMD ["/app"]** - Sets the default command that will be run when starting the container on /app, i.e. it starts our compiled application.
 
-### Where to learn from?
+---
+
+## Stories about Docker-Compose
+
+### What is Docker-Compose?
+
+Docker-Compose was developed for defining and running multi-container applications in Docker. Docker-Compose takes YAML as its file format. This allows us to easily define multiple containers, networks, volumes, etc. This approach makes it an ideal approach for building and running small applications that require several related containers.
+
+In Docker-Compose, unless we define otherwise, the containers will go to the same bridge network - this network will be created automatically and the containers specified in Docker-Compose will be automatically added to it.
+
+Docker-Compose by default assumes the file name as docker-compose.yml, but there is nothing stopping you from using the `docker-compose -f file_name_in_form_yaml.yml` command
+
+Please remember that on Linux systems, Docker-Compose is not installed automatically and must be installed manually.
+
+### How does Docker-Compose work?
+
+In the case of Docker-Compose, there is functionality that allows you to automatically build images (for example using a previously created Dockerfile) 
+
+I will try to explain it with an example.
+
+In the system, I create a new directory for the project and using any text editor we create the docker-compose.yml file, which will be completed with the following content:
+
+```
+version: '3.9'
+services:
+  webapp:
+    build:
+      context: ./web_app
+      dockerfile: webapp_dockerfile
+    ports:
+      - "80:80"
+  api:
+    build:
+      context: ./api
+      dockerfile: api_dockerfile
+    ports:
+      - "8080:8080"
+```
+
+This seems a bit complicated, but if you look closely you can see some dependencies that may be familiar when working with Dockerfile.
+
+The **version** command indicates the use of a specific Docker-Compose file syntax. For example, the version 3.X format was used, allowing work with both Docker-Compose and Docker Swarm.
+
+In the **services** command we start defining services. Two services were given as an example - webapp, which provides a web application, and API, which I don't think I need to explain this.
+
+The **build** and **context** commands are connected to each other - in the build command we define how the image will be built, and the context indicates the location where the Dockerfile file was placed.
+
+The **ports** command specifies port mapping - here we will use ports 80 and 8080 in the container, which will be redirected to exactly the same ports on the host.
+
+After entering the `docker compose up -d` command, i.e. running the application with all its components, it remains to verify whether the application works as intended.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/helpdesk_stories/docker-compose.png">
+</p>
+
+To check whether everything started correctly, just check whether our application runs on port 80
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/helpdesk_stories/curl.png">
+</p>
+
+## Where to learn from?
 
 * Polish channel Programator, where you can get many basics (PL) - [link](https://www.youtube.com/watch?v=wFcAa28kjVQ&list=PLkcy-k498-V5AmftzfqinpMF2LFqSHK5n)
 * TechWorld with Nana (ENG) - [link](https://www.youtube.com/watch?v=3c-iBn73dDE)
@@ -94,3 +155,6 @@ Sources:
 * Adrian Mouat, Using Docker: Developing and Deploying Software with Containers
 * Joseph Muli, Beginning Devops with Docker 
 * Adrian Smułkowski, Analysis of the possibilities of ensuring the security of Docker containers against selected attack methods (engineering work)
+* [https://docs.docker.com/](https://docs.docker.com/)
+* [https://www.baeldung.com/ops/docker-dockerfile-docker-compose](https://www.baeldung.com/ops/docker-dockerfile-docker-compose)
+* [https://stackoverflow.com/questions/37966552/what-is-the-difference-between-docker-and-docker-compose](https://stackoverflow.com/questions/37966552/what-is-the-difference-between-docker-and-docker-compose)
