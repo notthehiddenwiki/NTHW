@@ -13,3 +13,6 @@
 8. Patch management vs. vulnerability management: Key differences - [link](https://www.techtarget.com/searchenterprisedesktop/tip/Patch-management-vs-vulnerability-management-Key-differences)
 9. OS Is Better Than Android. You Should Try It - [link](https://www.wired.com/story/e-os-review/)
 10. Virtual Firewall - [link](https://www.techtarget.com/searchsecurity/definition/virtual-firewall)
+11. Why 3d printer is what you need for Zombie Apocalypse? Part 1: How to get Power? - [link](https://medium.com/@bartosz_sroka/why-3d-printer-is-what-you-need-for-zombie-apocalypse-part-1-how-to-get-power-dae146de86a1)
+12. Why 3d printer is what you need for Zombie Apocalypse? Part 2: How and what to print? - [link](https://medium.com/@bartosz_sroka/why-3d-printer-is-what-you-need-for-zombie-apocalypse-part-2-how-and-what-to-print-56e93b7fdaa9)
+13. 7 Challenges in Scaling SOC Operations and How to Overcome Them - [link](https://www.tripwire.com/state-of-security/challenges-scaling-soc-operations-and-how-overcome-them)

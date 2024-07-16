@@ -40,6 +40,7 @@
 * **metantz** - [Twitter](https://x.com/metantz1)
 * **Adrian Kapczyński** - [LinkedIn](https://www.linkedin.com/in/hpar3s/)
 * **YxzI** - [Website](https://0xyxzi.pl/) / [GitHub](https://github.com/YxZi5)
+* **Maerisec** - [LinkedIn](https://www.linkedin.com/in/wiktoria-security/)
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)
