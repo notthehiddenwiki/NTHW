@@ -105,3 +105,4 @@
 100. pictimo - [link](https://www.pictimo.com/)
 101. windy - [link](https://www.windy.com/webcams)
 102. os-surveillance - [link](https://www.os-surveillance.io/)
+103. Predicta Search - [link](https://www.predictasearch.com/)
