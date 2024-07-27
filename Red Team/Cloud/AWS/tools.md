@@ -19,3 +19,6 @@
 14. Pacu AWS exploitation framework - [link](https://github.com/RhinoSecurityLabs/pacu)
 15. Tool to quickly evaluate IAM permissions in AWS - [link](https://github.com/nccgroup/PMapper)
 16. AWS service enumeration and info dumping - [link](https://github.com/shabarkin/aws-enumerator)
+17. Performs security and configuration scans on cloud infrastructure accounts, supporting providers like AWS, Azure, and GCP. - [link](https://github.com/aquasecurity/cloudsploit)
+18. Multi-cloud security auditing tool, which enables security posture assessment of cloud environments. - [link](https://github.com/nccgroup/ScoutSuite)
+19. Prowler Perform AWS and Azure security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness - [link](https://github.com/prowler-cloud/prowler)
