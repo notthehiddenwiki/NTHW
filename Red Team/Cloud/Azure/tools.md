@@ -44,3 +44,4 @@
 39. Azure JWT Manipulation Toolset - [link](https://github.com/f-bader/TokenTacticsV2)
 40. Microsoft Graph PowerShell module - [link](https://www.powershellgallery.com/packages/Microsoft.Graph)
 41. Python script to Enumerate Microsoft Teams users - [link](https://github.com/sse-secure-systems/TeamsEnum)
+42. Performs security and configuration scans on cloud infrastructure accounts, supporting providers like AWS, Azure, and GCP. - [link](https://github.com/aquasecurity/cloudsploit)
