@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2244 links on our wiki!**
+**There are already 2287 links on our wiki!**
 
 💥 Intro
 -----
@@ -17,6 +17,8 @@ As a thank you, you will be added to the [Hall of Fame](https://github.com/notth
 Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [Twitter](https://twitter.com/NotHiddenWiki)
 
 **I am not responsible for using the knowledge provided on this website in an unethical way**
+
+If you prefer a link browser, check out a project created by a member of our community: [Not The Hidden Wiki - Link Browser](https://notthehiddenwiki.com/search/)
 
 🏠 Discord
 -----
@@ -92,6 +94,17 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 - **DevSecOps**:
   - Docker: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/videos.md)
   - Kubernetes: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/courses.md) / [Labs](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/lab.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/videos.md)
+  - SDLC:
+    - CaC: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/CaC/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/CaC/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/CaC/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/CaC/videos.md)
+    - DAST: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/DAST/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/DAST/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/DAST/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/DAST/videos.md)
+    - SAST: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SAST/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SAST/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SAST/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SAST/videos.md)
+    - IaA: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/IaC/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/IaC/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/IaC/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/IaC/videos.md)
+    - License: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/License/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/License/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/License/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/License/videos.md)
+    - Plugin IDE: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Plugin%20IDE/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Plugin%20IDE/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Plugin%20IDE/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Plugin%20IDE/videos.md)
+    - SCA: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SCA/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SCA/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SCA/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SCA/videos.md)
+    - Secret Scanner: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/videos.md)
+    - VMs: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/videos.md)
+    - Vulnerability Management: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/videos.md) 
 - **Hardware**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/videos.md)
 - **Infrastructure**: [Hosting and VPS](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Infrastructure/Hosting%20and%20VPS.md)
 - **Misc**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/videos.md) / [Cyber News](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/cyber_news.md)

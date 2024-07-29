@@ -30,3 +30,4 @@
 25. examples of malware traffic - [link](https://www.malware-traffic-analysis.net/training-exercises.html)
 26. How to find connected USB devices in Windows - [link](https://winaero.com/how-to-find-and-list-connected-usb-devices-in-windows-10/)
 27. using olevba to analyze malicious documents - [link](https://github.com/decalage2/oletools/wiki/olevba)
+28. Wprowadzenie do Sysinternals Suite - [link](https://sekurak.pl/wprowadzenie-do-sysinternals-suite/)

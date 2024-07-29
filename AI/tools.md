@@ -12,3 +12,4 @@
 7. Awesome AI Tools - [link](https://github.com/mahseema/awesome-ai-tools)
 8. Discover, download, and run local LLMs - [link](https://lmstudio.ai/)
 9. AI automation agent for chrome - [link](https://harpa.ai/)
+10. Pinokio AI: Install, Run & Control ANYTHING on Your Computer with 1 Click - [link](https://pinokio.computer/)

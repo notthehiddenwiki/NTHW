@@ -44,7 +44,7 @@
 39. Crypto investigation tool - [link](https://qlue.io/)
 40. Satellites Pro - [link](https://satellites.pro/)
 41. SentinelHub Playground - [link](https://apps.sentinel-hub.com/sentinel-playground/)
-42. Suncal - [link](https://www.suncalc.org)
+42. Suncalc - [link](https://www.suncalc.org)
 43. Overpass turbo - [link](https://overpass-turbo.eu/)
 44. Owartezrodla.pl - [link](https://otwartezrodla.pl/en/index.html)
 45. XSS.is - [link](https://xss.is/)
