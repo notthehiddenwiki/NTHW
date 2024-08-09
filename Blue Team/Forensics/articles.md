@@ -31,3 +31,5 @@
 26. How to find connected USB devices in Windows - [link](https://winaero.com/how-to-find-and-list-connected-usb-devices-in-windows-10/)
 27. using olevba to analyze malicious documents - [link](https://github.com/decalage2/oletools/wiki/olevba)
 28. Wprowadzenie do Sysinternals Suite - [link](https://sekurak.pl/wprowadzenie-do-sysinternals-suite/)
+29. Wprowadzenie do Sysinternals: Autoruns - [link](https://sekurak.pl/wprowadzenie-do-sysinternals-autoruns/)
+30. Wprowadzenie do Sysinternals: Process Explorer - [link](https://sekurak.pl/wprowadzenie-do-sysinternals-process-explorer/)

@@ -42,6 +42,7 @@
 * **YxzI** - [Website](https://0xyxzi.pl/) / [GitHub](https://github.com/YxZi5)
 * **Maerisec** - [LinkedIn](https://www.linkedin.com/in/wiktoria-security/)
 * **Jakub Miara** - [LinkedIn](https://www.linkedin.com/in/jakub-miara/)
+* **piatkosia2010**
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)
