@@ -42,7 +42,7 @@ In progress...
 
 🎓 .NET Backend Developer - Courses / Certification
 -----
-In progress...
+[Develop Web Apps with ASP.NET Core](https://learn.microsoft.com/en-us/collections/8mq4im72x6xprg)
 
 
 🔓 .NET Backend Developer - For a job interview you need to know:
