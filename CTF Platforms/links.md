@@ -90,3 +90,4 @@
 85. OWASP Juice Shop - [link](https://github.com/juice-shop/juice-shop)
 86. OWASP Mutillidae II - [link](https://github.com/webpwnized/mutillidae)
 87. vAPI (vulnerable API) - [link](https://github.com/roottusk/vapi)
+88. AI Security Challenge - [link](https://www.promptairlines.com/)

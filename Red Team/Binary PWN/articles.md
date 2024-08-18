@@ -22,3 +22,4 @@
 17. Bypassing the upcoming Safe Linking mitigation - [link](https://www.researchinnovations.com/post/bypassing-the-upcoming-safe-linking-mitigation)
 18. x86 / x64 syscalls manual with registers value - [link](https://syscalls.w3challs.com/)
 19. HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux - [link](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
+20. FAQ: The tragedy of low-level exploitation - [link](https://gynvael.coldwind.pl/?lang=en&id=791)

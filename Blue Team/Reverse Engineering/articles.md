@@ -55,3 +55,4 @@
 50. tracking malware with Import Hash - [link](https://cloud.google.com/blog/topics/threat-intelligence/tracking-malware-import-hashing)
 51. What is Virual Memory Meaning, Architecture - [link](https://www.spiceworks.com/tech/devops/articles/what-is-virtual-memory/)
 52. Reverse engineering LSASS to decrypt DPAPI keys - [link](https://otter.gitbook.io/red-teaming/articles/reverse-engineering-lsass-to-decrypt-dpapi-keys)
+53. Top 100 assembly instructions (‍x86‍-‍64‍) - [link](https://hexarcana.ch/b/2024-08-12-top-100-x86_64-asm-instructions/)
