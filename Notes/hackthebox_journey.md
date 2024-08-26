@@ -134,7 +134,7 @@ Which resulting in **~2100 flags** (including single anwsers in Sherlock as a fl
 After I published information on LinkedIn that I was the only person who had managed to complete Hack The Box in its entirety at the time of writing this article, many people, both in private messages and comments, asked many questions about my adventure. So I collected them below and added the answers.
 
 **Q:** `miblak how do i exit vim?`<br>
-**A:** Mamy tu tak naprawdę kilka możliwości:
+**A:** We actually have several options here:
 1. Save and exit: If you want to save your changes and exit Vim, you can use the **:wq** command. This writes (saves) your changes to the file and then quits Vim.
 2. Exit without saving: If you don’t want to save your changes and just want to exit Vim, you can use the **:q!** command. This will exit Vim without saving your changes, discarding any changes you made since the last time you saved.
 3. Save and exit multiple files: If you have multiple files open in Vim and want to save and exit all of them at once, you can use the **:wqa** command. This will write and quit all open files. This is very unlikely to happen if you ended up in Vim unintentionally.
