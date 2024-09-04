@@ -16,3 +16,8 @@
 11. Why 3d printer is what you need for Zombie Apocalypse? Part 1: How to get Power? - [link](https://medium.com/@bartosz_sroka/why-3d-printer-is-what-you-need-for-zombie-apocalypse-part-1-how-to-get-power-dae146de86a1)
 12. Why 3d printer is what you need for Zombie Apocalypse? Part 2: How and what to print? - [link](https://medium.com/@bartosz_sroka/why-3d-printer-is-what-you-need-for-zombie-apocalypse-part-2-how-and-what-to-print-56e93b7fdaa9)
 13. 7 Challenges in Scaling SOC Operations and How to Overcome Them - [link](https://www.tripwire.com/state-of-security/challenges-scaling-soc-operations-and-how-overcome-them)
+14. Software testing lessons learned from the CrowdStrike outage - [link](https://www.techtarget.com/searchsoftwarequality/opinion/Lessons-learned-from-CrowdStrikes-automation-errors)
+15. Aggressively Monitoring for Changes Is a Key Aspect of Cybersecurity - [link](https://www.darkreading.com/cyber-risk/aggressively-monitoring-for-changes-is-key-aspect-of-cybersecurity)
+16. NTLM Credential Theft Risk in Python Apps Threaten Windows Security - [link](https://hackread.com/ntlm-credential-theft-python-apps-windows-security/)
+17. Forensic Cyberpsychology: Profiling the Next-Generation Cybercriminal - [link](https://www.tripwire.com/state-of-security/forensic-cyberpsychology-profiling-next-generation-cybercriminal)
+18. 4 essential cyber hygiene practices to boost your organization’s digital defenses - [link](https://www.techradar.com/pro/4-essential-cyber-hygiene-practices-to-boost-your-organizations-digital-defenses)

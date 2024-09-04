@@ -91,3 +91,4 @@
 86. OWASP Mutillidae II - [link](https://github.com/webpwnized/mutillidae)
 87. vAPI (vulnerable API) - [link](https://github.com/roottusk/vapi)
 88. AI Security Challenge - [link](https://www.promptairlines.com/)
+89. Gandalf: Test Your Prompt Injection Skills - [link](https://gandalf.lakera.ai/intro)
