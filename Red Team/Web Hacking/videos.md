@@ -15,5 +15,5 @@
 10. [PL] Burp Academy #5: Jak wykraść sesję administratora za pomocą stored XSS? - [link](https://www.youtube.com/watch?v=nXsdJXObnmQ)
 11. [PL] Burp Academy #6: Bezpieczeństwo JavaScript: Zagrożenia eval i XSS - [link](https://www.youtube.com/watch?v=isplzjCJZtI)
 12. [PL] Burp Academy #7: DOM based XSS - [link](https://www.youtube.com/watch?v=XJU-XiltReY)
-13. [PL] Burp Academy #8: Fałszowanie Żądań Między Witrynami CSRF - [link](https://www.youtube.com/watch?v=S_xmtiBNAlE)
+13. [PL] Burp Academy #8: Fałszowanie żądań między witrynami (CSRF) - [link](https://www.youtube.com/watch?v=S_xmtiBNAlE)
 14. [PL] Testy Penetracyjne: Od Czego Zacząć Testy Bezpieczeństwa Pierwszej Aplikacji - [link](https://www.youtube.com/watch?v=trMz7kh-B9Y)
