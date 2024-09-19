@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2312 links on our wiki!**
+**There are already 2321 links on our wiki!**
 
 💥 Intro
 -----
@@ -37,6 +37,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
   - .NET Backend Developer: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/dot_net_backend_developer.md) 
 - **Academy**:
   - Awareness: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Awareness/articles.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Awareness/videos.md)
+  - Conferences: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Conferences)
   - Certificates:
     - Certificates List: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Certificates_List.md)
     - Notes
