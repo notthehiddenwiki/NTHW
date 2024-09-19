@@ -16,4 +16,5 @@
 11. [PL] Burp Academy #6: Bezpieczeństwo JavaScript: Zagrożenia eval i XSS - [link](https://www.youtube.com/watch?v=isplzjCJZtI)
 12. [PL] Burp Academy #7: DOM based XSS - [link](https://www.youtube.com/watch?v=XJU-XiltReY)
 13. [PL] Burp Academy #8: Fałszowanie żądań między witrynami (CSRF) - [link](https://www.youtube.com/watch?v=S_xmtiBNAlE)
-14. [PL] Testy Penetracyjne: Od Czego Zacząć Testy Bezpieczeństwa Pierwszej Aplikacji - [link](https://www.youtube.com/watch?v=trMz7kh-B9Y)
+14. [PL] Burp Academy #9: Clickjacking - jak działa i jak się przed nim chronić? - [link](https://www.youtube.com/watch?v=_79lwY7o8OE)
+15. [PL] Testy Penetracyjne: Od Czego Zacząć Testy Bezpieczeństwa Pierwszej Aplikacji - [link](https://www.youtube.com/watch?v=trMz7kh-B9Y)
