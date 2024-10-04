@@ -85,3 +85,4 @@
 80. Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3 - [link](https://github.com/defparam/smuggler)
 81. Burp Suite alternative - [link](https://caido.io/)
 82. SubDomainRadar.io: Find subdomains with unparalleled accuracy and speed. - [link](https://subdomainradar.io)
+83. Merklemap: Subdomain Search Engine - [link](https://www.merklemap.com/)
