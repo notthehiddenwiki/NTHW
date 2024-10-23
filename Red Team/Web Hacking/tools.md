@@ -86,3 +86,4 @@
 81. Burp Suite alternative - [link](https://caido.io/)
 82. SubDomainRadar.io: Find subdomains with unparalleled accuracy and speed. - [link](https://subdomainradar.io)
 83. Merklemap: Subdomain Search Engine - [link](https://www.merklemap.com/)
+84. Beyond XSS: Explore the Web Front-end Security Universe - [link](https://aszx87410.github.io/beyond-xss/en/)

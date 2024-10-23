@@ -22,7 +22,7 @@
 17. Resources for the Ethical SCADA - [link](https://scadahacker.com/resources.html)
 18. A curated list of resources related to Industrial Control System (ICS) security - [link](https://github.com/hslatman/awesome-industrial-control-system-security)
 19. Industrial Control Systems (In)Security & Suricata - [link](https://suricon.net/wp-content/uploads/2017/12/SuriCon17-Stevens_Browning.pdf)
-20. Open Source, web-based, multi-platform solution for building your own SCADA - [limk](https://github.com/SCADA-LTS/Scada-LTS)
+20. Open Source, web-based, multi-platform solution for building your own SCADA - [link](https://github.com/SCADA-LTS/Scada-LTS)
 21. THE RACE TO NATIVE CODE EXECUTION IN PLCS - [link](https://claroty.com/2021/05/28/blog-research-race-to-native-code-execution-in-plcs/)
 22. The Top 20 Secure PLC Coding Practices Project - [link](https://gca.isa.org/blog/the-top-20-secure-plc-coding-practices-project)
 23. Findings From Examining More Than a Decade of Public ICS/OT Exploits - [link](https://www.dragos.com/resource/findings-from-examining-public-ics-ot-exploits/)
