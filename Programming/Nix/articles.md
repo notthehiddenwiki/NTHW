@@ -11,3 +11,4 @@
 6. Shell Scripts with Nix - [link](https://ertt.ca/nix/shell-scripts/)
 7. Patching nixpkgs - [link](https://ertt.ca/nix/patch-nixpkgs/)
 8. NixOS & Flakes Book - [link](https://nixos-and-flakes.thiscute.world/)
+9. My Nix(OS) notes - [link](https://blog.erethon.com/blog/2025/02/21/my-nixos-notes/)
