@@ -51,6 +51,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 - **Lena Sędkiewicz**: [LinkedIn](https://www.linkedin.com/in/lena-sedkiewicz/)
   - Lecture titled (CA): **"AppSec 101, czyli bezpieczeństwo aplikacji webowych z perspektywy OWASP Top 10"** - [Recording on YouTube](https://www.youtube.com/watch?v=DI-_H4qaDWY)
   - Lecture titled (CA): **"Mózg w sieci: Jak zadbać o higienę cyfrową"** - [Recording on YouTube](https://www.youtube.com/watch?v=sEiHeDCKs80)
+  - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 1"** - [Recording on YouTube](https://youtu.be/4jI-OKjCQYE)
 - **Marcin Gąstół**: [LinkedIn](https://www.linkedin.com/in/marcin-gastol/)
   - Lecture titled (CA): **"Managed Identities vs Service Principals w Azure"** - [Recording on YouTube](https://www.youtube.com/watch?v=pubmP8ixOQA)
 - **Michał Kłaput**: [LinkedIn](https://www.linkedin.com/in/michalklaput/)
@@ -84,8 +85,10 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 - **Rafał Prabucki**: [LinkedIn](https://www.linkedin.com/in/rprabucki/)
   - Lecture titled (HD): **"Regulacyjny kompas w świecie cyberbezpieczeństwa"** - [Recording on YouTube](https://youtu.be/H76Djfq5BLo)  
 - **Andrzej Piotrowski**: [LinkedIn](https://www.linkedin.com/in/nestofthebest/)
-  - Lecture titled (HD): **"DORAstamy do NIS2 - jak sie w tym połapać"** - [Recording on YouTube]()  
-
+  - Lecture titled (HD): **"DORAstamy do NIS2 - jak sie w tym połapać"** - [Recording on YouTube](https://youtu.be/jBvGMsDT3F8) 
+- **Stanisław Jesiak** : [LinkedIn](https://www.linkedin.com/in/sjesiak/)
+  - Lecture titled (HD): **"Certyfikaty TLS/SSL - Jak to działa (a czasem nie), komu ufamy i dlaczego?"** - [Recording on YouTube](https://youtu.be/Eb0bLtQa07c)
+  
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
