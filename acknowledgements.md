@@ -69,6 +69,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Cała ta telemetria"** - [Recording on YouTube](https://youtu.be/8mAQfXxBqOQ)
 - **Krystian Kaczmarek**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/)
   - Lecture titled (NTHK): **"Adversary-in-the-Middle"** - [Recording on YouTube](https://youtu.be/B7RUsLjuOqk)
+  - Lecture titled (NTHK): **"Tunnelling"** - [Recording on YouTube](https://youtu.be/A2wY4kkbrUE)
 - **Grzegorz Niedziela**: [LinkedIn](https://www.linkedin.com/in/gniedziela/)
   - Lecture titled (HD): **"[AMA] BugBounty"** - [Recording on YouTube](https://youtu.be/37fBGKw0UxM)
 - **Krystian Kaczmarek / Kamil S. / Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/) / [LinkedIn](https://www.linkedin.com/in/kamil-s-387a5a31b/) / [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)

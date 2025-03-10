@@ -90,3 +90,4 @@
 85. Moduły PowerShell – wsparcie leniwego admina czy szwajcarski scyzoryk hakera - część 2 - [link](https://techblog.ing.pl/blog/moduly-powershell-wsparcie-leniwego-admina-czy-szwajcarski-scyzoryk-hakera-czesc2)
 86. winPEAS, but for Active Directory - [link](https://github.com/ajm4n/adPEAS)
 87. SpearSpray : Enhance your Active Directory password spraying by leveraging user information from Neo4j - [link](https://github.com/sikumy/SpearSpray)
+88. Active Directory Mindmap v2025.03 by Orange Cyberdefense - [link](https://orange-cyberdefense.github.io/ocd-mindmaps/img/mindmap_ad_dark_classic_2025.03.excalidraw.svg)
