@@ -27,3 +27,6 @@
 22. BadCyber - [link](https://badcyber.com/)
 23. 404 Media - [link](https://www.404media.co/)
 24. List of InfoSec & Cybersecurity by foorilla - [link](https://github.com/foorilla/allinfosecnews_sources/)
+25. Dark Reading - [link](https://www.darkreading.com/)
+26. SANS NewsBites - [link](https://www.sans.org/newsletters/newsbites/)
+27. WIRED - [link](https://www.wired.com/)

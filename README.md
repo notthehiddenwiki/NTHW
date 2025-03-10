@@ -137,6 +137,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 - **Android**: [Forums](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Android/forums.md) / [Roms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Android/roms.md)
 - **AppSec**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/articles.md) / [Threats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/threats.md)
 - **Privacy**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/videos.md)
+- **Podcasts**: [Links](https://github.com/pathakabhi24/NTHW/blob/nthw/Podcasts/Podcasts)
 - **Links from Zaufana Trzecia Strona**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Z3S%20Links/)
 
 🚀 Milestones
