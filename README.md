@@ -144,7 +144,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 -----
 
 ©[2025] **Not The Hidden Wiki**. All content on this website, including cybersecurity resources and educational materials, is protected under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). You may share the content for non-commercial purposes only and without modifications, as long as you credit Not The Hidden Wiki. Commercial use, redistribution, or modification of any materials is strictly prohibited. 
-Violations will be pursued under applicable intellectual property laws. Full license details: [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)
+Violations will be pursued under applicable intellectual property laws. <br>Full license details: [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)
 
 🚀 Milestones
 -----
