@@ -6,7 +6,7 @@
 
 ## Thank You!
 
-***As the Not The Hidden Wiki community, we would like to express our sincere thanks for your significant contribution to the development of the NTHW project and for your active participation in the "Hackuj Dobroczynnie (HD)" / "Cyber ​​Advent (CA)" and "Not The Hidden Knowledge (NTHK)" initiatives. Your commitment, professionalism and creative approach were of great importance for achieving success in the area of ​​knowledge sharing. We appreciate the willingness to share knowledge, experiences and ideas that have significantly influenced the success of our initiatives.***
+***As the Not The Hidden Wiki community, we would like to express our sincere thanks for your significant contribution to the development of the NTHW project and for your active participation in the "Hackuj Dobroczynnie (HD)" / "Cyber ​​Advent (CA)" / "Herbatka ze Smokiem (HzS) and "Not The Hidden Knowledge (NTHK)" initiatives. Your commitment, professionalism and creative approach were of great importance for achieving success in the area of ​​knowledge sharing. We appreciate the willingness to share knowledge, experiences and ideas that have significantly influenced the success of our initiatives.***
 
 Below you can find a list of speakers who shared their knowledge as part of our initiatives:
 
@@ -52,8 +52,10 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"AppSec 101, czyli bezpieczeństwo aplikacji webowych z perspektywy OWASP Top 10"** - [Recording on YouTube](https://www.youtube.com/watch?v=DI-_H4qaDWY)
   - Lecture titled (CA): **"Mózg w sieci: Jak zadbać o higienę cyfrową"** - [Recording on YouTube](https://www.youtube.com/watch?v=sEiHeDCKs80)
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 1"** - [Recording on YouTube](https://youtu.be/4jI-OKjCQYE)
+  - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 2"** - [Recording on YouTube](https://youtu.be/UMxf49NDqzI)
 - **Marcin Gąstół**: [LinkedIn](https://www.linkedin.com/in/marcin-gastol/)
   - Lecture titled (CA): **"Managed Identities vs Service Principals w Azure"** - [Recording on YouTube](https://www.youtube.com/watch?v=pubmP8ixOQA)
+  - Lecture titled (HD): **"Secured Infrastructure as Safe Code with Bicep in Azure"** - [Recording on YouTube](https://youtu.be/tl2f4SVDwow)
 - **Michał Kłaput**: [LinkedIn](https://www.linkedin.com/in/michalklaput/)
   - Lecture titled (CA): **"Wprowadzenie do OSINT: Jak odkrywać to, co ukryte na widoku?"** - [Recording on YouTube](https://www.youtube.com/watch?v=IcmCt70y9Bk)
 - **Grzegorz Tworek**: [LinkedIn](https://www.linkedin.com/in/grzegorztworek/)
@@ -64,7 +66,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Przygotowanie do kariery w cyberbezpieczeństwie + Introduction to Threat Hunting"** - [Recording on YouTube](https://youtu.be/qQbZDcSv9uI) 
 - **Beata Zalewa**: [LinkedIn](https://www.linkedin.com/in/beatazalewa/)
   - Lecture titled (NTHK): **"Blue Team dla zielonych. Od czego zacząć i jak zaplanować naukę?"** - [Recording on YouTube](https://www.youtube.com/watch?v=I1xutYHjAnY)
-  - Lecture titled (NTHK): **"Chmura Azure od podstaw""** - [Recording on YouTube](https://youtu.be/RcdGXkF2POU) 
+  - Lecture titled (NTHK): **"Chmura Azure od podstaw"** - [Recording on YouTube](https://youtu.be/RcdGXkF2POU)
+  - Lecture titled (NTHK): **"Chmura Azure od podstaw - część 2"** - [Recording on YouTube](https://youtu.be/4OX0bYg_8Hc) 
 - **Marcin Ratajczyk**: [LinkedIn](https://www.linkedin.com/in/znanyproblem/)
   - Lecture titled (HD): **"Cała ta telemetria"** - [Recording on YouTube](https://youtu.be/8mAQfXxBqOQ)
 - **Krystian Kaczmarek**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/)

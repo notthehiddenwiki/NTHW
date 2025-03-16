@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2905 links on our wiki!**
+**There are already 2928 links on our wiki!**
 
 💥 Intro
 -----
@@ -139,6 +139,12 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 - **Privacy**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/videos.md)
 - **Podcasts**: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Podcasts/links.md)
 - **Links from Zaufana Trzecia Strona**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Z3S%20Links/)
+
+⚖️ Disclaimer
+-----
+
+©[2025] **Not The Hidden Wiki**. All content on this website, including cybersecurity resources and educational materials, is protected under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). You may share the content for non-commercial purposes only and without modifications, as long as you credit Not The Hidden Wiki. Commercial use, redistribution, or modification of any materials is strictly prohibited. 
+Violations will be pursued under applicable intellectual property laws. Full license details: [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)
 
 🚀 Milestones
 -----
