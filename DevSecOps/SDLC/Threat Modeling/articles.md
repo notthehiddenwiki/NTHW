@@ -24,5 +24,4 @@
     - REPUDIATION OF ACTION [link](https://martinfowler.com/articles/agile-threat-modelling/Repudiation_Of_Action-STRIDE_Threat_Modelling_Card.pdf)
     - INFORMATION DISCLOSURE [link](https://martinfowler.com/articles/agile-threat-modelling/Information_Disclosure-STRIDE_Threat_Modelling_Card.pdf)
     - DENIAL OF SERVICE [link](https://martinfowler.com/articles/agile-threat-modelling/Denial_of_Service-STRIDE_Threat_Modelling_Card.pdf)
-    - ELEVATION OF PRIVILEGE [link](https://martinfowler.com/articles/
-    agile-threat-modelling/Elevation_Of_Privilege-STRIDE_Threat_Modelling_Card.pdf)
+    - ELEVATION OF PRIVILEGE [link](https://martinfowler.com/articles/agile-threat-modelling/Elevation_Of_Privilege-STRIDE_Threat_Modelling_Card.pdf)
