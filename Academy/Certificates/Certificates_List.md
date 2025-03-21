@@ -1,4 +1,4 @@
-# Not The Hidden Wiki
+[link](# Not The Hidden Wiki
 
 🎓 NTHW Academy - Industry certifications worth considering
 -----
@@ -15,3 +15,6 @@
 10. Blue Team Level 1 (BTL1) - [link](https://www.securityblue.team/certifications/blue-team-level-1)
 11. Blue Team Level 2 (BTL2) - [link](https://www.securityblue.team/certifications/blue-team-level-2)
 12. Certified Security Operations Manager (CSOM) - [link](https://www.securityblue.team/certifications/certified-security-operations-manager-csom)
+13. Microsoft Certified: Security Operations Analyst Associate - SC:200 [link](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification) 
+14. CompTIA Security+ - [link](https://www.comptia.org/certifications/security)
+15. PortSwigger - Burp Suite Certified Practitioner - BSCP - [link](https://portswigger.net/web-security/certification)
