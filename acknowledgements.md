@@ -36,6 +36,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 - **Andrzej Kokocinski**: [LinkedIn](https://www.linkedin.com/in/%E2%98%81%F0%9F%94%92-andrzej-kokocinski-39024832/)
   - Lecture titled (CA): **"Bezpieczeństwo sieci w chmurze"** - [Recording on YouTube](https://www.youtube.com/watch?v=-unYtfkcA_w)
   - Lecture titled (CA): **"Analiza logów i monitorowanie"** - [Recording on YouTube](https://www.youtube.com/watch?v=4WmNYBAptTs)
+  - Lecture titled (NTHK): **"Zwiększanie skuteczności OSINT i cyberbezpieczeństwa dzięki Microsoft Defender EASM oraz Copilot for Security"** - [Recording on YouTube](https://youtu.be/hdcOPWtqArU)
 - **Daniel Krzyczkowski**: [LinkedIn](https://www.linkedin.com/in/daniel-krzyczkowski/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/daniel-krzyczkowski.md)
   - Lecture titled (CA): **"Wyzwania dotyczące tożsamości w chmurze z perspektywy dewelopera aplikacji"** - [The lecture was not recorded]
 - **Adrian Kapczyński**: [LinkedIn](https://www.linkedin.com/in/hpar3s/)
