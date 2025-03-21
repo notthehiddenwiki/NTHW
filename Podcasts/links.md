@@ -10,3 +10,4 @@
 5. Random But Memorable - [link](https://open.spotify.com/show/5Sa3dy0xDvMT0h3O5MGMOr)
 6. Smashing Security - [link](https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S)
 7. The Privacy, Security & OSINT Show - [link](https://open.spotify.com/show/6QPWpZJ6bRTdbkI7GgLHBM)
+8. OhMyCloud! - [link](https://www.youtube.com/watch?v=Pr3ccgib4PM)
