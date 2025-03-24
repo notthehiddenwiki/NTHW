@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2950 links on our wiki!**
+**There are already 2998 links on our wiki!**
 
 💥 Intro
 -----
@@ -100,6 +100,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
   - Incident Response: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/videos.md)
   - Threat Hunting: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/articles.md) / [Platforms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/platforms.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/videos.md)
   - Reverse Engineering: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/videos.md)
+  - Vulnerability Management: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Vulnerability%20Management/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Vulnerability%20Management/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Vulnerability%20Management/videos.md) 
 - **Black Team**:
   - Radio Frequency: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/tools.md) / [Schemats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/schemats.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/videos.md)
 - **Programming**:
@@ -127,7 +128,6 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
     - Secret Scanner: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/videos.md)
     - VMs: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/videos.md)
     - Threat Modeling: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Threat%20Modeling/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Threat%20Modeling/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Threat%20Modeling/videos.md)
-    - Vulnerability Management: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/videos.md) 
 - **Hardware**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/videos.md)
 - **Infrastructure**: [Hosting and VPS](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Infrastructure/Hosting%20and%20VPS.md)
 - **Misc**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/videos.md) / [Cyber News](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/cyber_news.md)
