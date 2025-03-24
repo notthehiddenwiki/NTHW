@@ -26,4 +26,4 @@ Jeśli jesteś specjalistą w jakimś obszarze i chcesz wspomóc nasze inicjatyw
 
 **"NTHK S1E01 - Blue Team dla zielonych. Od czego zacząć i jak zaplanować naukę?"** - [Recording on YouTube](https://www.youtube.com/watch?v=I1xutYHjAnY)
 
-**Następna sesja NTHK 14.01.2025**
+**Następna sesja NTHK 25.03.2025**
