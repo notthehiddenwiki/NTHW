@@ -26,4 +26,4 @@ Jeśli jesteś specjalistą w jakimś obszarze i chcesz wspomóc nasze inicjatyw
 
 **"NTHK playlist"** - [Recording on YouTube](https://www.youtube.com/watch?v=hdcOPWtqArU&list=PL8qJjNOBAy_fwUh8ZRICRvPAv-aS_B1C_)
 
-**Następna sesja NTHK 25.03.2025**
+**Następna sesja NTHK 25.03.2025** - GIT jak kontrybuować do NTHW.
