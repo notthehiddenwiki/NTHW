@@ -25,3 +25,5 @@ Jeśli jesteś specjalistą w jakimś obszarze i chcesz wspomóc nasze inicjatyw
 </p>
 
 Cała seria dostępna na YouTube Not The Hidden Wiki - [link](https://www.youtube.com/playlist?list=PL8qJjNOBAy_fwUh8ZRICRvPAv-aS_B1C_)
+
+Zapraszamy serdecznie!
