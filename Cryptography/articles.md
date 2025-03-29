@@ -15,4 +15,4 @@
 10. Awesome Cryptography - [link](https://github.com/sobolevn/awesome-cryptography)
 11. CryptoBook: a resource for people to learn cryptography - [link](https://cryptohack.gitbook.io/cryptobook)
 12. Cryptography Guidelines - [link](https://github.com/samuel-lucas6/Cryptography-Guidelines)
-13. Article - "Seven Common Cryptography Attacks" [Link](https://www.yaksas.com/p/seven-common-cryptography-attacks)
+13. Article - "Seven Common Cryptography Attacks" - [link](https://www.yaksas.com/p/seven-common-cryptography-attacks)
