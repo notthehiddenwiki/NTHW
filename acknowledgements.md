@@ -97,6 +97,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"DORAstamy do NIS2 - jak sie w tym połapać"** - [Recording on YouTube](https://youtu.be/jBvGMsDT3F8) 
 - **Stanisław Jesiak** : [LinkedIn](https://www.linkedin.com/in/sjesiak/)
   - Lecture titled (HD): **"Certyfikaty TLS/SSL - Jak to działa (a czasem nie), komu ufamy i dlaczego?"** - [Recording on YouTube](https://youtu.be/Eb0bLtQa07c)
+- **Beata Zalewa / Albert Miechowicz / Krystian Kaczmarek / Michał Błaszczak** : [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [LinkedIn](https://www.linkedin.com/in/albercik-nthw-b6970b323/) / [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/) / [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)
+  - Lecture titled (NTHK): **"Prima aprilisowe rozmowy kwalifikacyjne"** - [Recording on YouTube](https://youtu.be/c-gIFoupmS8)
   
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
