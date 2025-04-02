@@ -10,3 +10,4 @@
 5. arion - Arion is a tool for building and running applications that consist of multiple docker containers using NixOS modules - [link](https://docs.hercules-ci.com/arion/)
 6. ❄️ Nix flake templates for: 🦀 Rust, 🦖 Deno, 🐍 Python and 🗒️ reveal.js among others - [link](https://github.com/MordragT/nix-templates)
 7. Nix package versions - Find all versions of a package that were available in a channel and the revision you can download it from - [link](https://lazamar.co.uk/nix-versions/)
+7. nixos-anywhere - Install NixOS everywhere via ssh - [link](https://github.com/nix-community/nixos-anywhere)
