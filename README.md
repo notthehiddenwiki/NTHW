@@ -61,6 +61,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
       - BSCP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/BSCP.md)
       - CISSP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/CISSP.md)
       - Comptia Security+: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/ComptiaSecurity+.md)
+      - CBBH: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/CBBH.md)
   - Compliance:
     - GDPR: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/GDPR.md)
     - NIS2: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/NIS2.md)
