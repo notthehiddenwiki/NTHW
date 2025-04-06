@@ -21,6 +21,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 - **Agnieszka Mietz-Blijleven**: [LinkedIn](https://www.linkedin.com/in/agnieszkamietz/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/Agnieszka_Mietz-Blijleven.md)
   - Lecture titled (CA): **"Deepfake - zagrożenie cyberbezpieczeństwa czy szansa rozwoju technologicznego?"** - [Recording on YouTube](https://www.youtube.com/watch?v=D9Yv1scuemw)
   - Lecture titled (HD): **"Reverse Engineering in simpled examples"** - [Recording on YouTube](https://youtu.be/iCSCenMcJRk)
+  - Lecture titled (HD): **"Zarządzanie zespołem AI/ML/Cybersecurity Architektów"** - [Recording on YouTube](https://youtu.be/y1gofbQZhA4)
 - **Jakub Przepióra**: [LinkedIn](https://linkedin.com/in/jakub-przepiora/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/jakub-przepiora.md)
   - Lecture titled (CA): **"Wstęp do cyberbezpieczeństwa"** - [Recording on YouTube](https://www.youtube.com/watch?v=dhJCvE_Y0_I)
 - **Robert Przybylski**: [LinkedIn](https://www.linkedin.com/in/przybylskirobert/)
