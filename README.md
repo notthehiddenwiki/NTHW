@@ -14,7 +14,7 @@ This wiki cannot exist without you! So if you want to contribute to expanding th
 
 As a thank you, you will be added to the [Hall of Fame](https://github.com/notthehiddenwiki/NTHW/blob/nthw/HoF.md) list where, apart from your nickname, I can link your social media/website or whatever you think is appropriate!
 
-Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [Twitter](https://twitter.com/NotHiddenWiki) & [YouTube](https://www.youtube.com/@NotTheHiddenWiki) & [Meetup](https://www.meetup.com/notthehiddenwiki/)
+Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [YouTube](https://www.youtube.com/@NotTheHiddenWiki) & [Meetup](https://www.meetup.com/notthehiddenwiki/)
 
 **I am not responsible for using the knowledge provided on this website in an unethical way**
 
@@ -156,13 +156,12 @@ Violations will be pursued under applicable intellectual property laws. <br>Full
 1. **12.12.2023** - **The NTHW is online**
 2. **13.12.2023** - 250 links on NTHW
 3. **19.12.2023** - 500 links on NTHW
-4. **27.12.2023** - Official Twitter [profile](https://twitter.com/NotHiddenWiki) was created
-5. **29.12.2023** - 1000 links on NTHW
-6. **11.01.2024** - We are on GitHub
-7. **17.04.2024** - We created the NTHW brand
-8. **17.04.2024** - Official LinkedIn [profile](https://www.linkedin.com/company/not-the-hidden-wiki/) was created
-9. **26.05.2024** - 250 stars on GitHub
-10. **19.11.2024** - 500 stars on GitHub
-11. **12.12.2024** - First anniversary 🍰🎈
-12. **12.12.2024** - 2500 links on NTHW
-13. **26.02.2025** - 1000 stars on GitHub
+4. **29.12.2023** - 1000 links on NTHW
+5. **11.01.2024** - We are on GitHub
+6. **17.04.2024** - We created the NTHW brand
+7. **17.04.2024** - Official LinkedIn [profile](https://www.linkedin.com/company/not-the-hidden-wiki/) was created
+8. **26.05.2024** - 250 stars on GitHub
+9.  **19.11.2024** - 500 stars on GitHub
+10. **12.12.2024** - First anniversary 🍰🎈
+11. **12.12.2024** - 2500 links on NTHW
+12. **26.02.2025** - 1000 stars on GitHub

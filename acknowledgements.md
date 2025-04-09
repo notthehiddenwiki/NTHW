@@ -85,6 +85,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"Podsumowanie miniCTF by NTHW"** - [Recording on YouTube](https://youtu.be/7JBKNbX0PGE)
 - **Damian Kuźma**: [LinkedIn](https://www.linkedin.com/in/damiankuzma/)
   - Lecture titled (HD): **"Bezpieczeństwo haseł"** - [Recording on YouTube](https://www.youtube.com/watch?v=hJLHGrmxIbs)
+  - Lecture titled (NTHK): **"Z życia devopsa"** - [Recording on YouTube](https://youtu.be/4w2OVancraI)
 - **Paweł Piwosz**: [LinkedIn](https://www.linkedin.com/in/pawelpiwosz/)
   - Lecture titled (NTHK): **"Dobre praktyki zabezpieczania chmury AWS"** - [Recording on YouTube](https://youtu.be/YvmfDw5XpD8)
   - Lecture titled (NTHK): **"Terraform. Jak zacząć, żeby było dobrze i bezpiecznie"** - [Recording on YouTube](https://youtu.be/qu_D1IloEZM)

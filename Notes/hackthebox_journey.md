@@ -228,7 +228,6 @@ As I mentioned, in addition to developing my skills on the platform, I met many 
 Remember to also follow the **Not The Hidden Wiki** project on social media!
 
 * [Linkedin](https://www.linkedin.com/company/not-the-hidden-wiki/)
-* [X](https://x.com/NotHiddenWiki)
 * [Discord](https://discord.com/invite/HZFcczkva9)
 
 <p align="center">
