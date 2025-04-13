@@ -39,6 +39,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Analiza logów i monitorowanie"** - [Recording on YouTube](https://www.youtube.com/watch?v=4WmNYBAptTs)
   - Lecture titled (NTHK): **"Zwiększanie skuteczności OSINT i cyberbezpieczeństwa dzięki Microsoft Defender EASM oraz Copilot for Security"** - [Recording on YouTube](https://youtu.be/hdcOPWtqArU)
   - Lecture titled (HD): **Customer Key w Microsoft Purview – Bezpieczne Szyfrowanie i Efektywne Zarządzanie Kluczami w Firmie** - [Recording on YouTube](https://youtu.be/lLunpw7IjcA)
+  - Lecture titled (HD): **Copilot for Security, EASM i SIEM Sentinel – Po co je potrzebujemy i jak skutecznie wykorzystać?** - [Recording on YouTube](https://youtu.be/-4getLZCzRA) 
 - **Daniel Krzyczkowski**: [LinkedIn](https://www.linkedin.com/in/daniel-krzyczkowski/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/daniel-krzyczkowski.md)
   - Lecture titled (CA): **"Wyzwania dotyczące tożsamości w chmurze z perspektywy dewelopera aplikacji"** - [The lecture was not recorded]
 - **Adrian Kapczyński**: [LinkedIn](https://www.linkedin.com/in/hpar3s/)
@@ -57,6 +58,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 1"** - [Recording on YouTube](https://youtu.be/4jI-OKjCQYE)
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 2"** - [Recording on YouTube](https://youtu.be/UMxf49NDqzI)
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 3"** - [Recording on YouTube](https://youtu.be/JZ9Rd0B37WQ)
+  - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 4"** - [Recording on YouTube](https://youtu.be/N94JsLQxq_M)
 - **Marcin Gąstół**: [LinkedIn](https://www.linkedin.com/in/marcin-gastol/)
   - Lecture titled (CA): **"Managed Identities vs Service Principals w Azure"** - [Recording on YouTube](https://www.youtube.com/watch?v=pubmP8ixOQA)
   - Lecture titled (HD): **"Secured Infrastructure as Safe Code with Bicep in Azure"** - [Recording on YouTube](https://youtu.be/tl2f4SVDwow)
