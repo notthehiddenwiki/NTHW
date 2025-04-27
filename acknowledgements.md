@@ -59,6 +59,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 2"** - [Recording on YouTube](https://youtu.be/UMxf49NDqzI)
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 3"** - [Recording on YouTube](https://youtu.be/JZ9Rd0B37WQ)
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 4"** - [Recording on YouTube](https://youtu.be/N94JsLQxq_M)
+  - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 5"** - [Recording on YouTube](https://youtu.be/Z9gvho8RJjg)
 - **Marcin Gąstół**: [LinkedIn](https://www.linkedin.com/in/marcin-gastol/)
   - Lecture titled (CA): **"Managed Identities vs Service Principals w Azure"** - [Recording on YouTube](https://www.youtube.com/watch?v=pubmP8ixOQA)
   - Lecture titled (HD): **"Secured Infrastructure as Safe Code with Bicep in Azure"** - [Recording on YouTube](https://youtu.be/tl2f4SVDwow)
@@ -104,6 +105,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Certyfikaty TLS/SSL - Jak to działa (a czasem nie), komu ufamy i dlaczego?"** - [Recording on YouTube](https://youtu.be/Eb0bLtQa07c)
 - **Beata Zalewa / Albert Miechowicz / Krystian Kaczmarek / Michał Błaszczak** : [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [LinkedIn](https://www.linkedin.com/in/albercik-nthw-b6970b323/) / [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/) / [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)
   - Lecture titled (NTHK): **"Prima aprilisowe rozmowy kwalifikacyjne"** - [Recording on YouTube](https://youtu.be/c-gIFoupmS8)
+- **Damian Widera** : [LinkedIn](https://www.linkedin.com/in/damian-widera-0b56284/)
+  - Lecture titled (HD): **"DBT na ratunek chaosowi"** - [Recording on YouTube](https://youtu.be/JaI5GZOeRIk)
   
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
