@@ -17,3 +17,4 @@
 12. Firmware emulation framework - [link](https://github.com/therealsaumil/emux)
 13. Adding Bus Pirate/..-style debugging & probing features to regular MCU boards such as the Raspberry Pi Pico - [link](https://git.lain.faith/sys64738/DragonProbe)
 14. Voltage glitching pcb (RP2040) - [link](https://git.lain.faith/sys64738/dragonzap)
+15. glitch-o-bolt - A tool to aid with voltage glitching, specifically designed to work with the "Curious Bolt" - [link](https://rossmarks.uk/git/0xRoM/glitch-o-bolt)

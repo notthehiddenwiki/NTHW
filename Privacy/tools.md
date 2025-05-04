@@ -14,3 +14,4 @@
 9. `StellarSand/privacy-settings` - Guide to privacy settings for most major software and services - [link](https://github.com/StellarSand/privacy-settings/)
 10. BusKill - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection - [link](https://www.buskill.in/)
 11. I2P - The Invisible Internet Project (I2P) is a fully encrypted private network layer - [link](https://geti2p.net/en/)
+12. OpenSnitch - GNU/Linux interactive application firewall inspired by Little Snitch - [link](https://github.com/evilsocket/opensnitch)
