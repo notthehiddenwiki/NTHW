@@ -26,3 +26,6 @@
 21. Breaking Fortinet Firmware Encryption - [link](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
 22. Bootstrapping security analysis of Arlo cameras - [link](https://www.synacktiv.com/en/publications/arlo-im-watching-you)
 23. Security analysis of a VoIP deskphone firmware - [link](https://blog.syss.com/posts/voip-deskphone-firmware-security/)
+24. Uncovering Hardcoded Root Password in VStarcam CB73 Security Camera - [link](https://brownfinesecurity.com/blog/vstarcam-cb73-hardcoded-root-password/)
+25. Too Many Secrets: Proprietary Encryption Protocol Analysis in VStarcam CB73 Security Camera - [link](https://brownfinesecurity.com/blog/vstarcam-cb73-proprietary-encryption-analysis/#complete-decryption)
+26. Common UART Baud Rates for IoT Devices - [link](https://brownfinesecurity.com/blog/common-baud-rates/)
