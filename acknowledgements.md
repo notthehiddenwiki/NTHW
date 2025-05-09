@@ -83,6 +83,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"Adversary-in-the-Middle"** - [Recording on YouTube](https://youtu.be/B7RUsLjuOqk)
   - Lecture titled (NTHK): **"Tunnelling"** - [Recording on YouTube](https://youtu.be/A2wY4kkbrUE)
   - Lecture titled (NTHK): **"GIT - jak kontrybuować do NTHW"** - [Recording on YouTube](https://youtu.be/ko_n3w2-6nc)
+  - Lecture titled (NTHK): **"HTB - Włam Się Sam"** - [Recording on YouTube](https://youtu.be/f3GzmLFAEYU)
 - **Grzegorz Niedziela**: [LinkedIn](https://www.linkedin.com/in/gniedziela/)
   - Lecture titled (HD): **"[AMA] BugBounty"** - [Recording on YouTube](https://youtu.be/37fBGKw0UxM)
 - **Krystian Kaczmarek / Kamil S. / Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/) / [LinkedIn](https://www.linkedin.com/in/kamil-s-387a5a31b/) / [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)

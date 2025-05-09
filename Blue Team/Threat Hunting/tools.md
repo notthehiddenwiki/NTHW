@@ -81,3 +81,4 @@
 76. IOC-MAKER - [link](https://github.com/lucif3rSoul/IOC-Maker)
 77. UrlDna - [link](https://urldna.io/)
 78. Favi Hash: Get the hash of a favicon to identify websites using the same. Works on both open web and dark web - [link](https://www.favihash.com/)
+79. MistTrack: A Crypto Tracking and Compliance Platform for Everyone - [link](https://misttrack.io/)

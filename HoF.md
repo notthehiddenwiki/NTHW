@@ -9,7 +9,7 @@
 * **NOMAD** - [Linkedin]( https://pl.linkedin.com/in/marcinmotwicki) / [Website](https://marcinmotwicki.com/)
 * **M. Kucharskov** - [Website](https://kucharskov.pl/) / [GitHub](https://github.com/Kucharskov)
 * **OtterSec** - [Linkedin](https://www.linkedin.com/in/riccardo-miani/)
-* **Lasq** - [Linkedin](https://www.linkedin.com/in/lukasz-lamparski/) / [Website](https://malfind.com/)
+* **Lasq** - [Linkedin](https://www.linkedin.com/in/lukasz-lamparski/)
 * **Neonito** - [GitHub](https://github.com/NEONITO) / [Website](https://pastebin.com/Qg0a2jKC)
 * **ruycr4ft** - [HTB](https://app.hackthebox.com/profile/1253217) / [Twitter](https://twitter.com/ruycr4ft) / [GitHub](https://github.com/ruycr4ft) / [Website](https://ruycr4ft.github.io/) / [Itch.io](https://itch.io/profile/ruycraft1514)
 * **Tyranpl** - [Linkedin](https://www.linkedin.com/in/%C5%82ukaszkubiak/)
