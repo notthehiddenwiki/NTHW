@@ -110,6 +110,10 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"Prima aprilisowe rozmowy kwalifikacyjne"** - [Recording on YouTube](https://youtu.be/c-gIFoupmS8)
 - **Damian Widera** : [LinkedIn](https://www.linkedin.com/in/damian-widera-0b56284/)
   - Lecture titled (HD): **"DBT na ratunek chaosowi"** - [Recording on YouTube](https://youtu.be/JaI5GZOeRIk)
+- **Krzysztof Smaga** : [LinkedIn](https://www.linkedin.com/in/smagakrzysztof/)
+  - Lecture titled (NTHK): **"Lab? A po co mi lab?"** - [Recording on YouTube](https://youtu.be/hbiDalIgJDw)
+- **Marika Rybarczyk** : [LinkedIn](https://www.linkedin.com/in/marika-rybarczyk/)
+  - Lecture titled (HD): **"O RODO po "ludzku i praktycznie": Wyzwania i rozwiązania dla IT i Cyberbezpieczeństwa"** - [Recording on YouTube](https://youtu.be/bx9-dPueh2Y)  
   
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
