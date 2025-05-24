@@ -12,3 +12,5 @@
 7. Nix package versions - Find all versions of a package that were available in a channel and the revision you can download it from - [link](https://lazamar.co.uk/nix-versions/)
 7. nixos-anywhere - Install NixOS everywhere via ssh - [link](https://github.com/nix-community/nixos-anywhere)
 8. deploy-rs - A simple multi-profile Nix-flake deploy tool - [link](https://github.com/serokell/deploy-rs)
+9. NixThePlanet - Run macOS, Windows and more via a single Nix command, or simple nixosModules - [link](https://github.com/MatthewCroughan/NixThePlanet)
+10. Nixinate - Another NixOS Deployment Tool - Nixinate your systems 🕶️ - [link](https://github.com/MatthewCroughan/nixinate)
