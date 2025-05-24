@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 3189 links on our wiki!**
+**There are already 3219 links on our wiki!**
 
 💥 Intro
 -----
@@ -140,6 +140,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 - **AppSec**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/articles.md) / [Threats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/threats.md)
 - **Privacy**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/videos.md)
 - **Podcasts**: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Podcasts/links.md)
+- **Computer Networks**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Computer%20Networks/articles.md)
 - **Links from Zaufana Trzecia Strona**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Z3S%20Links/)
 
 ⚖️ Disclaimer
@@ -165,3 +166,4 @@ Violations will be pursued under applicable intellectual property laws. <br>Full
 10. **12.12.2024** - First anniversary 🍰🎈
 11. **12.12.2024** - 2500 links on NTHW
 12. **26.02.2025** - 1000 stars on GitHub
+13. **20.05.2025** - 1000 subscribers on YouTube

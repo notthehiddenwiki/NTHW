@@ -39,7 +39,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Analiza logów i monitorowanie"** - [Recording on YouTube](https://www.youtube.com/watch?v=4WmNYBAptTs)
   - Lecture titled (NTHK): **"Zwiększanie skuteczności OSINT i cyberbezpieczeństwa dzięki Microsoft Defender EASM oraz Copilot for Security"** - [Recording on YouTube](https://youtu.be/hdcOPWtqArU)
   - Lecture titled (HD): **Customer Key w Microsoft Purview – Bezpieczne Szyfrowanie i Efektywne Zarządzanie Kluczami w Firmie** - [Recording on YouTube](https://youtu.be/lLunpw7IjcA)
-  - Lecture titled (HD): **Copilot for Security, EASM i SIEM Sentinel – Po co je potrzebujemy i jak skutecznie wykorzystać?** - [Recording on YouTube](https://youtu.be/-4getLZCzRA) 
+  - Lecture titled (HD): **Copilot for Security, EASM i SIEM Sentinel – Po co je potrzebujemy i jak skutecznie wykorzystać?** - [Recording on YouTube](https://youtu.be/-4getLZCzRA)
+  - Lecture titled (NTHK): **Kompleksowa ochrona organizacji – wszystkie filary bezpieczeństwa z rodziną narzędzi Microsoft Defender** - [Recording on YouTube](https://youtu.be/5yl9GT7sSOI)
 - **Daniel Krzyczkowski**: [LinkedIn](https://www.linkedin.com/in/daniel-krzyczkowski/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/daniel-krzyczkowski.md)
   - Lecture titled (CA): **"Wyzwania dotyczące tożsamości w chmurze z perspektywy dewelopera aplikacji"** - [The lecture was not recorded]
 - **Adrian Kapczyński**: [LinkedIn](https://www.linkedin.com/in/hpar3s/)
@@ -114,6 +115,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"Lab? A po co mi lab?"** - [Recording on YouTube](https://youtu.be/hbiDalIgJDw)
 - **Marika Rybarczyk** : [LinkedIn](https://www.linkedin.com/in/marika-rybarczyk/)
   - Lecture titled (HD): **"O RODO po "ludzku i praktycznie": Wyzwania i rozwiązania dla IT i Cyberbezpieczeństwa"** - [Recording on YouTube](https://youtu.be/bx9-dPueh2Y)  
+- **Łukasz Taradejna** : [LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-taradejna-118b2a225/)
+  - Lecture titled (HD): **"Incydent bezpieczeństwa - Z czym to się je i jak one wyglądają naprawdę od środka"** - [Recording on YouTube](https://youtu.be/FCior-YoaU4)
   
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
