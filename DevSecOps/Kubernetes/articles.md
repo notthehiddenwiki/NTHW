@@ -17,3 +17,4 @@
 12. Kubernetes Pod Security Standards - [link](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
 13. Kubernetes Cluster Security - [link](https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/)
 14. OWASP Cheatsheet - [link](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
+15. Kubernetes Bad Pods Privilege Escalation - [link](https://bishopfox.com/blog/kubernetes-pod-privilege-escalation)
