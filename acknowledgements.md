@@ -62,6 +62,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 4"** - [Recording on YouTube](https://youtu.be/N94JsLQxq_M)
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 5"** - [Recording on YouTube](https://youtu.be/Z9gvho8RJjg)
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 6"** - [Recording on YouTube](https://youtu.be/2nVSKKZ8eAE)
+  - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 7"** - [Recording on YouTube](https://youtu.be/H8LJpZfAkeA)
 - **Marcin Gąstół**: [LinkedIn](https://www.linkedin.com/in/marcin-gastol/)
   - Lecture titled (CA): **"Managed Identities vs Service Principals w Azure"** - [Recording on YouTube](https://www.youtube.com/watch?v=pubmP8ixOQA)
   - Lecture titled (HD): **"Secured Infrastructure as Safe Code with Bicep in Azure"** - [Recording on YouTube](https://youtu.be/tl2f4SVDwow)
@@ -105,6 +106,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Regulacyjny kompas w świecie cyberbezpieczeństwa"** - [Recording on YouTube](https://youtu.be/H76Djfq5BLo)  
 - **Andrzej Piotrowski**: [LinkedIn](https://www.linkedin.com/in/nestofthebest/)
   - Lecture titled (HD): **"DORAstamy do NIS2 - jak sie w tym połapać"** - [Recording on YouTube](https://youtu.be/jBvGMsDT3F8) 
+  - Lecture titled (NTHK): **"Dyskusje o dezinformacji - czego firmy się boją, czego firmy nie robią?"** - [Recording on YouTube](https://youtu.be/9KESMOoT_bc) 
 - **Stanisław Jesiak** : [LinkedIn](https://www.linkedin.com/in/sjesiak/)
   - Lecture titled (HD): **"Certyfikaty TLS/SSL - Jak to działa (a czasem nie), komu ufamy i dlaczego?"** - [Recording on YouTube](https://youtu.be/Eb0bLtQa07c)
 - **Beata Zalewa / Albert Miechowicz / Krystian Kaczmarek / Michał Błaszczak** : [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [LinkedIn](https://www.linkedin.com/in/albercik-nthw-b6970b323/) / [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/) / [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)
@@ -117,7 +119,11 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"O RODO po "ludzku i praktycznie": Wyzwania i rozwiązania dla IT i Cyberbezpieczeństwa"** - [Recording on YouTube](https://youtu.be/bx9-dPueh2Y)  
 - **Łukasz Taradejna** : [LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-taradejna-118b2a225/)
   - Lecture titled (HD): **"Incydent bezpieczeństwa - Z czym to się je i jak one wyglądają naprawdę od środka"** - [Recording on YouTube](https://youtu.be/FCior-YoaU4)
-  
+- **Jan Kostrzewa** : [LinkedIn](https://www.linkedin.com/in/jan-kostrzewa-249912ba/)
+  - Lecture titled (HD): **"Od studenta, przez analityka SOC1, po dyrektora. Czyli jak awansować w świecie cyber."** - [Recording on YouTube](https://youtu.be/Z3RTInJEUB0)
+- **Radek Rzążewski** : [LinkedIn](https://www.linkedin.com/in/radek-rzazewski/)
+  - Lecture titled (HD): **"Krótka (i zabawna?) historia Linuxa"** - [Recording on YouTube](https://youtu.be/1P4LXiNw9ms)
+    
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
