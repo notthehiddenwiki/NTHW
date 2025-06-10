@@ -12,3 +12,4 @@ Below you will find companies that we have **partnerships** with and that suppor
 * [DSecure.me](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/DSecure_me.md)
 * [Elementrica](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/Elementrica.md)
 * [Maldev Academy](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/Maldev_Academy.md)
+* [Zaufana Trzecia Strona](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/ZaufanaTrzeciaStrona.md)
