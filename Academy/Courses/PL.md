@@ -22,3 +22,4 @@
 17. Kurs bezpieczeństwa dla programistów - [link](https://www.youtube.com/playlist?list=PLS4wD4sorSGC8j8Gln4IVyUqVZpkIE0Rp)
 18. Wprowadzenie do BurpSuite - jak używać Repeater - [link](https://www.youtube.com/watch?v=cpaxYnHus9Q)
 19. Ogarnij Linux - [link](https://www.youtube.com/playlist?list=PLRuCqz2tobB6Pjxvq8hTTLBFFE4KzEHI)
+20. Sekurak Academy - [link](https://sekurak.academy/)
