@@ -123,7 +123,9 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Od studenta, przez analityka SOC1, po dyrektora. Czyli jak awansować w świecie cyber."** - [Recording on YouTube](https://youtu.be/Z3RTInJEUB0)
 - **Radek Rzążewski** : [LinkedIn](https://www.linkedin.com/in/radek-rzazewski/)
   - Lecture titled (HD): **"Krótka (i zabawna?) historia Linuxa"** - [Recording on YouTube](https://youtu.be/1P4LXiNw9ms)
-    
+- **Kinga Szostko** : [LinkedIn](https://www.linkedin.com/in/kinga-szostko-985b65220/)
+  - Lecture titled (HD): **"Co robią dzieci w sieci i dlaczego ich aktywność powinna zainteresować dorosłych"** - [Recording on YouTube](https://youtu.be/zezrG72RMJw)
+      
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)

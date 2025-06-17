@@ -11,7 +11,7 @@
 * **OtterSec**
 * **Lasq** - [Linkedin](https://www.linkedin.com/in/lukasz-lamparski/)
 * **Neonito** - [GitHub](https://github.com/NEONITO) / [Website](https://pastebin.com/Qg0a2jKC)
-* **ruycr4ft** - [HTB](https://app.hackthebox.com/profile/1253217) / [Twitter](https://x.com/ruycr4ft) / [GitHub](https://github.com/ruycr4ft) / [Website](https://ruycr4ft.github.io/) / [Itch.io](https://itch.io/profile/ruycraft1514)
+* **ruycr4ft** - [HTB](https://app.hackthebox.com/profile/1253217) / [Twitter](https://x.com/ruycr4ft) / [GitHub](https://github.com/ruycr4ft) / [Itch.io](https://itch.io/profile/ruycraft1514)
 * **Tyranpl** - [Linkedin](https://www.linkedin.com/in/%C5%82ukaszkubiak/)
 * **Outsider** - [Linkedin](https://www.linkedin.com/in/michal-gilewicz1/)
 * **syl** - [Website](https://sy1.sh/)
@@ -47,5 +47,6 @@
 * **qrxnz** - [Linkedin](https://www.linkedin.com/in/karol-skoczyk17) / [Website](https://qrxnz.dev) / [GitHub](https://github.com/qrxnz)
 * **Adrian Sroka** - [LinkedIn](https://www.linkedin.com/in/adriansroka/) / [Website](https://www.diwebsity.com/) / [YouTube](https://www.youtube.com/@SecurityChampionsTeam)
 * **Mateusz Zacki** - [LinkedIn](https://www.linkedin.com/in/mzacki/) / [Website](https://mzacki.github.io/) / [GitHub](https://github.com/mzacki)
+* **Sławomir Baran Johansen** - [LinkedIn](https://www.linkedin.com/in/slawomir-johansen/) / [GitHub](https://github.com/sbjohansen)
 
 **Want to join the list?** Share interesting links. Write to me at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)

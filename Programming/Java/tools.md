@@ -9,7 +9,7 @@
 4. Technical English: Microsoft Style Guide + Glossary - [link](https://learn.microsoft.com/en-us/style-guide/welcome/)
 5. Recaf (bytecode & hex editor) - [link](https://github.com/Col-E/Recaf)
 6. CodingBat Java Puzzles - [link](https://codingbat.com/java)
-7. Tsunami Security Scanner - [link](https://github.com/google/tsunami-security-scanner/blob/master/docs/contributing.md)
+7. Tsunami Security Scanner - [link](https://github.com/google/tsunami-security-scanner/tree/master)
 8. Zing - the Zero packet Ping network utility - [link](https://github.com/wgilreath/zing)
 9. Beginning Crypthography with Java Code Examples - [link](https://media.wiley.com/product_ancillary/30/07645963/DOWNLOAD/beg_crypto_examples.zip)
 10. Java Cryptography - [link](https://resources.oreilly.com/examples/9781565924024/)
