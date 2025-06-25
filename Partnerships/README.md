@@ -14,3 +14,4 @@ Below you will find companies that we have **partnerships** with and that suppor
 * [Maldev Academy](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/Maldev_Academy.md)
 * [Zaufana Trzecia Strona](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/ZaufanaTrzeciaStrona.md)
 * [Exegol](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/Exegol.md)
+* [The Hacker Recipes](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/TheHackerRecipes.md)
