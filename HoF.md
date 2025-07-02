@@ -48,5 +48,6 @@
 * **Adrian Sroka** - [LinkedIn](https://www.linkedin.com/in/adriansroka/) / [Website](https://www.diwebsity.com/) / [YouTube](https://www.youtube.com/@SecurityChampionsTeam)
 * **Mateusz Zacki** - [LinkedIn](https://www.linkedin.com/in/mzacki/) / [Website](https://mzacki.github.io/) / [GitHub](https://github.com/mzacki)
 * **Sławomir Baran Johansen** - [LinkedIn](https://www.linkedin.com/in/slawomir-johansen/) / [GitHub](https://github.com/sbjohansen)
+* **Beata Zalewa** - [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [Website](https://zalnet.pl/)
 
 **Want to join the list?** Share interesting links. Write to me at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
