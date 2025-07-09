@@ -104,3 +104,7 @@
 93. [🔴] PentesterLab - [link](https://pentesterlab.com/)
 94. [🔴] Bug Bounty Labs - [link](https://bugbountylabs.com/)
 95. [🔴] hackArcana - [link](https://hackarcana.com/exercises)
+96. [🔴] Barry CTF - [link](https://barry-dev.xyz/challenges)
+97. [🔵] Awesome Splunk and Elastic SIEM Practice Labs - [link](https://github.com/ChickenLoner/Awesome-Splunk-and-Elastic-SIEM-Practice-Labs)
+98. [🔴] Hacking Club - [link](https://app.hackingclub.com)
+99. [🔴] Hacksplaining - [link](https://hacksplaining.com/lessons)

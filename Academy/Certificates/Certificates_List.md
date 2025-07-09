@@ -1,4 +1,4 @@
-[link](# Not The Hidden Wiki
+# Not The Hidden Wiki
 
 🎓 NTHW Academy - Industry certifications worth considering
 -----

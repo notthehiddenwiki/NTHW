@@ -108,3 +108,4 @@
 103. Predicta Search - [link](https://www.predictasearch.com/)
 104. LeakRadar - Scans for compromised emails and domains in stealer logs - [link](https://leakradar.io/)
 105. Hudson Rock - Free Infostealer Intelligence Toolset - [link](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
+106. OSINT Dashboard - [link](https://ekky19.github.io/osint/)
