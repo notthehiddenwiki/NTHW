@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 3336 links on our wiki!**
+**There are already 3385 links on our wiki!**
 
 💥 Intro
 -----
@@ -98,6 +98,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 - **Blue Team**:
   - Forensics: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Forensics/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Forensics/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Forensics/videos.md)
   - KQL: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/KQL/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/KQL/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/KQL/videos.md)
+  - MITRE: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/MITRE/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/MITRE/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/MITRE/videos.md)
   - Incident Response: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/videos.md)
   - Threat Hunting: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/articles.md) / [Platforms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/platforms.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/videos.md)
   - Reverse Engineering: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/videos.md)
