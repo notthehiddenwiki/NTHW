@@ -15,3 +15,5 @@
 10. BusKill - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection - [link](https://www.buskill.in/)
 11. I2P - The Invisible Internet Project (I2P) is a fully encrypted private network layer - [link](https://geti2p.net/en/)
 12. OpenSnitch - GNU/Linux interactive application firewall inspired by Little Snitch - [link](https://github.com/evilsocket/opensnitch)
+13. PRISM Break - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora - [link](https://prism-break.org/en/)
+14. Hitchhiker's Guide - A guide to personal privacy and reducing your digital footprint - [link](https://anonymousplanet.org/guide/)
