@@ -37,3 +37,4 @@
 32. Anonymous Torrenting With I2P - [link](https://www.youtube.com/watch?v=FNp0TRDG0BQ)
 33. How To Torrent Anonymously With Mullvad VPN - [link](https://youtu.be/Z9y29Wxo060?si=IxecikdyiitOe1UW)
 34. How To Make Your Mac PRIVATE - [link](https://www.youtube.com/watch?v=1g0RzOGxe40)
+35. Your TV Is Spying On You and Taking Screenshots - [link](https://www.youtube.com/watch?v=jeq2m-OM53A)
