@@ -24,3 +24,4 @@
 19. UrJTAG - `UrJTAG` aims to create an enhanced, modern tool for communicating over JTAG with flash chips, CPUs, and many more - [link](https://urjtag.sourceforge.io/)
 20. OpenOCD - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing - [link](https://openocd.org/)
 21. ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks - [link](https://github.com/newaetech/chipwhisperer)
+22. Bruce - ESP32 firmware that supports a ton of offensive features focusing on facilitating Red Team operations - [link](https://github.com/pr3y/Bruce)
