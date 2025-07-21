@@ -4,4 +4,5 @@ Welcome to the place where you can share your tutorial! How to do it?
 
 * Create a *.md file in **HowToStartWith** directory for example: wireshark.md
 * Inside it, paste content of your tutorial (remember to state at the top that you are the author and add links to your social media etc.)
+* Upload all graphics to .github/notes/HTSW/tutorial_name_without_extension/file, e.g. .github/notes/HTSW/wireshark/wireshark_gui.png
 * Let the entire community know about your project on discord!
