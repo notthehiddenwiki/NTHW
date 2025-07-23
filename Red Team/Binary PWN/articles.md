@@ -23,5 +23,3 @@
 18. x86 / x64 syscalls manual with registers value - [link](https://syscalls.w3challs.com/)
 19. HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux - [link](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
 20. FAQ: The tragedy of low-level exploitation - [link](https://gynvael.coldwind.pl/?lang=en&id=791)
-21. Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities - [link](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-family+2023_v1/about)
-22. Vulnerabilities 1002: C-Family Software Implementation Vulnerabilities - [link](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1002_C-family+2023_v1/about)
