@@ -77,3 +77,4 @@
 72. Simple, private file sharing - [link](https://wormhole.app/)
 73. FullHunt: Secure Your Attack Surface - [link](https://fullhunt.io/)
 74. GrayHatWarfare - [link](https://grayhatwarfare.com/)
+75. dnstwist: domain name fuzzer, can be used to generate list of looklike domain names for phishing - [link](https://github.com/elceef/dnstwist)
