@@ -53,3 +53,4 @@
 48. Bounce the Ticket and Silver Iodide on Azure AD Kerberos - [link](https://www.silverfort.com/resources/white-paper/bounce-the-ticket-and-silver-iodide-on-azure-ad-kerberos/)
 49. This publication is a collection of various common attack scenarios on Microsoft Entra ID - [link](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
 50. ThreatModel for Azure Storage - [link](https://trustoncloud.com/azure-storage-threatmodel/)
+51. Sierpniowe Kolonie na chmurze Azure - [link](https://github.com/beatazalewa/Sierpniowe-kolonie-na-chmurze-Azure-2025/tree/main)

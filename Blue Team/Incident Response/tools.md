@@ -11,3 +11,4 @@
 6. Live Response Collection tool by Alan Orlikoski and Jason Yegge - [link](https://github.com/orlikoski/CyLR)
 7. Blue Jupyter: Jupyter Notebooks useful for several aspects of Blue Team work - [link](https://github.com/HuskyHacks/blue-jupyter)
 8. Incident Response Plan Template - [link](https://github.com/counteractive/incident-response-plan-template/tree/master)
+9. Eviction Strategies Tool - [link](https://github.com/arthc991199/Eviction-Strategies-Tool--COUN7ER-)
