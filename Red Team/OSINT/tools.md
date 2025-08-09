@@ -109,3 +109,7 @@
 104. LeakRadar - Scans for compromised emails and domains in stealer logs - [link](https://leakradar.io/)
 105. Hudson Rock - Free Infostealer Intelligence Toolset - [link](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 106. OSINT Dashboard - [link](https://ekky19.github.io/osint/)
+107. PimEyes: Face Search Engine | Reverse Image Search - [link](https://pimeyes.com/)
+108. CEIDG: Sprawdzanie szczegółowych informacji o firmach [link](https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx)
+109. KRS: Sprawdzanie szczegółowych informacji o spółkach i stowarzyszeniach (zawiera numery PESEL) - [link](https://wyszukiwarka-krs.ms.gov.pl)
+110. BIP UKE: Sprawdzanie do jakiej sieci należy podany telefonu - [link](https://bip.uke.gov.pl/numeracja/dostawca-uslug/)
