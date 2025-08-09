@@ -33,3 +33,5 @@
 28. Audio Jammer - [link](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php)
 29. NENONITO_PLUGINS list for addons browsers to increase security - [link](https://github.com/lucif3rSoul/my-list-of-browser-plugins)
 30. clear-windows-preinstall-shit - [link](https://github.com/lucif3rSoul/clear-windows-preinstall-shit)
+31. FileSharing: anonfiles.ch - [link](https://anonfiles.ch)
+32. FileSharing: buzzheavier.com - [link](https://buzzheavier.com/)
