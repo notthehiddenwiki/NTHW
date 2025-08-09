@@ -17,3 +17,4 @@
 12. OpenSnitch - GNU/Linux interactive application firewall inspired by Little Snitch - [link](https://github.com/evilsocket/opensnitch)
 13. PRISM Break - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora - [link](https://prism-break.org/en/)
 14. Hitchhiker's Guide - A guide to personal privacy and reducing your digital footprint - [link](https://anonymousplanet.org/guide/)
+15. BrowserLeaks – a tool suite testing browser privacy and security by detecting IP leaks, device data collection, and fingerprinting - [link](https://browserleaks.com)
