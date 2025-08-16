@@ -82,6 +82,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"Honeypots: workshop"** - [Recording on YouTube](https://youtu.be/xTSJOAgEY10)
   - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 1"** - [Recording on YouTube](https://www.youtube.com/watch?v=x8i96pejSzE)  
   - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 2"** - [Recording on YouTube](https://youtu.be/7ktwr-cRLuA)
+  - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 3"** - [Recording on YouTube](https://youtu.be/3fqQalXfvW0)
 - **Marcin Ratajczyk**: [LinkedIn](https://www.linkedin.com/in/znanyproblem/)
   - Lecture titled (HD): **"Cała ta telemetria"** - [Recording on YouTube](https://youtu.be/8mAQfXxBqOQ)
 - **Krystian Kaczmarek**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/)
