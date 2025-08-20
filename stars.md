@@ -37,4 +37,4 @@
 * **Wojciech Reguła** - [Website](https://wojciechregula.blog/post/) / [GitHub](https://github.com/r3ggi)
 * **Michał Walkowski** - [Website](https://mwalkowski.com/pl/post/) / [YouTube](https://www.youtube.com/@mwalkowski)
 * **Inside Darknet** - [Spotify](https://open.spotify.com/show/5RHKRk7awU2SFPq2VCwpLi) / [Apple Podcast](https://podcasts.apple.com/au/podcast/inside-darknet/id1715992165) / [Youtube](https://www.youtube.com/@insidedarknet)
-* **Mateusz Chrobok** - [Webstie](https://chrobok.eu/) / [YouTube(PL)](https://www.youtube.com/@MateuszChrobok) / [Youtube(EN)](https://www.youtube.com/@MattChrobok)
+* **Mateusz Chrobok** - [Website](https://chrobok.eu/) / [YouTube(PL)](https://www.youtube.com/@MateuszChrobok) / [YouTube(EN)](https://www.youtube.com/@MattChrobok)
