@@ -8,7 +8,7 @@
 * BadCyber Website: [https://badcyber.com/](https://badcyber.com/)<br>
 * Weekendowa Lektura: [https://wl.zaufanatrzeciastrona.pl/](https://wl.zaufanatrzeciastrona.pl/)<br>
 * LinkedIn: [@zaufanatrzeciastrona-pl](https://www.linkedin.com/company/zaufanatrzeciastrona-pl/)<br>
-* Twitter: [@aufana3strona](https://twitter.com/zaufana3strona)<br>
+* Twitter: [@zaufana3strona](https://twitter.com/zaufana3strona)<br>
 * Discord: [@zaufana](https://discord.gg/zaufana)<br>
 * Mastodon: [@zaufanatrzeciastrona](https://infosec.exchange/@zaufanatrzeciastrona)<br>
 * BlueSky: [@zaufanatrzeciastrona](https://infosec.exchange/@zaufanatrzeciastrona)<br>
