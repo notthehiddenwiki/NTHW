@@ -9,3 +9,4 @@
 4. 0xdf hacks stuff - [link](https://0xdf.gitlab.io/)
 5. 0xBEN Offensive Security Notes - [link](https://notes.benheater.com/shelves/offensive-cybersecurity)
 6. The Machine Creator's Wiki - [link](https://ruycr4fts-notes.gitbook.io/the-machine-creators-wiki)
+7. 0xA5h Notes - [link](https://sashactf.gitbook.io/pwn-notes)

@@ -23,3 +23,6 @@
 18. x86 / x64 syscalls manual with registers value - [link](https://syscalls.w3challs.com/)
 19. HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux - [link](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
 20. FAQ: The tragedy of low-level exploitation - [link](https://gynvael.coldwind.pl/?lang=en&id=791)
+21. Nightmare: One Byte to ROP // Deep Dive Edition - [link](https://hackmd.io/@pepsipu/ry-SK44pt)
+22. ret2dlresolve - [link](https://hackmd.io/@v13td0x/ret2dlresolve)
+23. house of blindness - [link](https://hackmd.io/jmE0VvcTQaaJm6SEWiqUJA)
