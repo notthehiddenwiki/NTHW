@@ -16,3 +16,4 @@ Below you will find companies that we have **partnerships** with and that suppor
 * [Exegol](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/Exegol.md)
 * [The Hacker Recipes](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/TheHackerRecipes.md)
 * [MailerLite](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/MailerLite.md)
+* [MailerSend](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/MailerSend.md)
