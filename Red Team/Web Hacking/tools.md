@@ -87,3 +87,6 @@
 82. SubDomainRadar.io: Find subdomains with unparalleled accuracy and speed. - [link](https://subdomainradar.io)
 83. Merklemap: Subdomain Search Engine - [link](https://www.merklemap.com/)
 84. Beyond XSS: Explore the Web Front-end Security Universe - [link](https://aszx87410.github.io/beyond-xss/en/)
+85. Dalfox - Dalfox is a powerful open-source XSS scanner and utility focused on automation. - [link](https://github.com/hahwul/dalfox)
+86. Noir - Attack surface detector that identifies endpoints by static analysis - [link](https://github.com/owasp-noir/noir)
+87. fuzzuli - fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. - [link](https://github.com/musana/fuzzuli)
