@@ -1,6 +1,6 @@
 # Not The Hidden Wiki
 
-## Learn Pythom
+## Learn Python
 -----
 
 1. pip — Package installer for Python - [link](https://pypi.org/project/pip/)
