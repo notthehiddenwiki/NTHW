@@ -29,3 +29,4 @@
 24. Dark Reading - [link](https://www.darkreading.com/)
 25. SANS NewsBites - [link](https://www.sans.org/newsletters/newsbites/)
 26. WIRED - [link](https://www.wired.com/)
+27. MeetCyber - [link](https://medium.com/meetcyber/)
