@@ -28,3 +28,4 @@
 22. Linux Journey - [link](https://linuxjourney.com/)
 23. Linux Survival - [link](https://linuxsurvival.com/)
 24. Linux Command - [link](https://linuxcommand.org/index.php)
+25. Mapping the World’s Ethical Hackers: Insights from HackerOne Platform - [link](https://osintteam.blog/mapping-the-worlds-ethical-hackers-insights-from-hackerone-platform-ca45592861e6?sk=8f6b031c073fe40e41521ce46486b886)
