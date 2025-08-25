@@ -32,3 +32,4 @@
 27. MeetCyber - [link](https://medium.com/meetcyber/)
 28. OSINT Team - [link](https://osintteam.blog/)
 29. System Weakness - [link](https://systemweakness.com/)
+30. InfoSec Write-ups - [link](https://medium.com/@infosecwriteups)
