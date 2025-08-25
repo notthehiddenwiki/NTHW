@@ -30,3 +30,4 @@
 24. Linux Command - [link](https://linuxcommand.org/index.php)
 25. Mapping the World’s Ethical Hackers: Insights from HackerOne Platform - [link](https://osintteam.blog/mapping-the-worlds-ethical-hackers-insights-from-hackerone-platform-ca45592861e6?sk=8f6b031c073fe40e41521ce46486b886)
 26. How Many Ethical Hackers Are Out There? A Global Look Through Google Bug Hunters Data - [link](https://osintteam.blog/how-many-ethical-hackers-are-out-there-a-global-look-through-google-bug-hunters-data-a09fb8e2329e?sk=6d6eb9c0230a2c4670260687cac051bd)
+27. Bogon Address — Explained - [link](https://medium.com/meetcyber/bogon-address-explained-cf73e1dacce5?sk=1bebfbc60af2e68d7bc60d8b409b40fa)
