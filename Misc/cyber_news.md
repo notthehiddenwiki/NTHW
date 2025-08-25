@@ -31,3 +31,4 @@
 26. WIRED - [link](https://www.wired.com/)
 27. MeetCyber - [link](https://medium.com/meetcyber/)
 28. OSINT Team - [link](https://osintteam.blog/)
+29. System Weakness - [link](https://systemweakness.com/)
