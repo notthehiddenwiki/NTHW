@@ -13,3 +13,4 @@
 8. Bypass firewalls with of-CORs and typo-squatting - [link](https://trufflesecurity.com/blog/of-cors)
 9. npm search RCE? - Escape Sequence Injection - [link](https://blog.solidsnail.com/posts/npm-esc-seq)
 10. Roadmap I followed to make 15,000+$ Bounties in my first 8 months of starting out and my journey - [link](https://www.notion.so/shreyaschavhan/Roadmap-I-followed-to-make-15-000-Bounties-in-my-first-8-months-of-starting-out-and-my-journey-98b1b9ff621645c0b97d1e774992f300)
+11. How I Found 3x XSS in 6 Seconds! Without Automated Tools - [link](https://medium.com/meetcyber/how-i-found-3x-xss-in-6-seconds-without-automated-tools-b0c852dea66f?sk=1676694acc508c6049b73d00454bed1a)
