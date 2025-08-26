@@ -21,3 +21,7 @@
 16. Into the Crypt - Privacy-first project championing open-source COMSEC practices - [link](https://0xacab.org/optout/into-the-crypt)
 17. Digital Defense - The Ultimate Personal Security Checklist - [link](https://digital-defense.io)
 18. Awesome Privacy - Your guide to finding and comparing privacy-respecting alternatives to popular software and services - [link](https://awesome-privacy.xyz)
+19. SmsPva - Receive SMS Online - [link](https://smspva.com)
+20. 5sim - Virtual Numbers for Receiving SMS - [link](https://5sim.net)
+21. SMS4SATS - Send and receive SMS without giving away your phone number - [link](https://sms4sats.com)
+22. Crypton - Your 2nd phone number in the cloud - [link](https://crypton.sh)
