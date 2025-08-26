@@ -78,3 +78,4 @@
 73. UrlDna - [link](https://urldna.io/)
 74. Favi Hash: Get the hash of a favicon to identify websites using the same. Works on both open web and dark web - [link](https://www.favihash.com/)
 75. MistTrack: A Crypto Tracking and Compliance Platform for Everyone - [link](https://misttrack.io/)
+76. Phish.report: The tools your team need to combat brand impersonation - [link](https://phish.report)
