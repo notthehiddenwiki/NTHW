@@ -18,3 +18,6 @@
 13. PRISM Break - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora - [link](https://prism-break.org/en/)
 14. Hitchhiker's Guide - A guide to personal privacy and reducing your digital footprint - [link](https://anonymousplanet.org/guide/)
 15. BrowserLeaks – a tool suite testing browser privacy and security by detecting IP leaks, device data collection, and fingerprinting - [link](https://browserleaks.com)
+16. Into the Crypt - Privacy-first project championing open-source COMSEC practices - [link](https://0xacab.org/optout/into-the-crypt)
+17. Digital Defense - The Ultimate Personal Security Checklist - [link](https://digital-defense.io)
+18. Awesome Privacy - Your guide to finding and comparing privacy-respecting alternatives to popular software and services - [link](https://awesome-privacy.xyz)
