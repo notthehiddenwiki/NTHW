@@ -35,3 +35,4 @@
 30. clear-windows-preinstall-shit - [link](https://github.com/lucif3rSoul/clear-windows-preinstall-shit)
 31. FileSharing: anonfiles.ch - [link](https://anonfiles.ch)
 32. FileSharing: buzzheavier.com - [link](https://buzzheavier.com/)
+33. Narayana: Privacy-focused telecom service with anonymous SIM, VoIP, and numbers - [link](https://narayana.im)
