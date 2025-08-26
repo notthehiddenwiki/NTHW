@@ -90,3 +90,4 @@
 85. Dalfox - Dalfox is a powerful open-source XSS scanner and utility focused on automation. - [link](https://github.com/hahwul/dalfox)
 86. Noir - Attack surface detector that identifies endpoints by static analysis - [link](https://github.com/owasp-noir/noir)
 87. fuzzuli - fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. - [link](https://github.com/musana/fuzzuli)
+88. Subdomain Finder - another tool used to find the subdomains of a given domain - [link](https://subdomainfinder.c99.nl/)

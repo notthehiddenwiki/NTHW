@@ -113,3 +113,5 @@
 108. CEIDG: Sprawdzanie szczegółowych informacji o firmach [link](https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx)
 109. KRS: Sprawdzanie szczegółowych informacji o spółkach i stowarzyszeniach (zawiera numery PESEL) - [link](https://wyszukiwarka-krs.ms.gov.pl)
 110. BIP UKE: Sprawdzanie do jakiej sieci należy podany telefonu - [link](https://bip.uke.gov.pl/numeracja/dostawca-uslug/)
+111. FaceSeek: AI Powered Reverse Face Search - [link](https://www.faceseek.online)
+112. ShadeMap: Simulate sun shadows for any time and place on Earth - [link](https://shademap.app/)
