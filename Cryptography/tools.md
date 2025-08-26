@@ -10,3 +10,4 @@
 5. Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes - [link](https://github.com/Ciphey/Ciphey)
 6. Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥 - [link](https://github.com/HashPals/Name-That-Hash)
 7. SageMath Online - [link](https://sagecell.sagemath.org/)
+8. Age - a simple, modern and secure file encryption tool - [link](https://github.com/FiloSottile/age)
