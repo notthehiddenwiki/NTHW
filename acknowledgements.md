@@ -84,6 +84,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 2"** - [Recording on YouTube](https://youtu.be/7ktwr-cRLuA)
   - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 3"** - [Recording on YouTube](https://youtu.be/3fqQalXfvW0)
   - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 4"** - [Recording on YouTube](https://youtu.be/CfvzlB2ov7w)
+  - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 5"** - [Recording on YouTube](https://youtu.be/Y89dJu_ztaA)
 - **Marcin Ratajczyk**: [LinkedIn](https://www.linkedin.com/in/znanyproblem/)
   - Lecture titled (HD): **"Cała ta telemetria"** - [Recording on YouTube](https://youtu.be/8mAQfXxBqOQ)
 - **Krystian Kaczmarek**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/)
