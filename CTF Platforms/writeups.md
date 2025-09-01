@@ -14,3 +14,4 @@
 9. CTF Writeup — RITCTF 2024 — Beep Boop - [link](https://medium.com/@embossdotar/ctf-writeup-ritctf-2024-beep-boop-f07ef3f83bd5?sk=fa5f29728a4ae0d253f0274c6f18be64)
 10. CTF Writeup — 24@CTF — SteganOsint 1 - [link](https://medium.com/@embossdotar/ctf-writeup-24-ctf-steganosint-1-89a1bc71448a?sk=21546d5f32634fceea0f952a597d9554)
 11. CTF Writeup — SwampCTF 2024 — Lost in Space - [link](https://medium.com/@embossdotar/ctf-writeup-swampctf-2024-lost-in-space-6e3689f43c3a?sk=9199ba4150acfb14a4d5bb04bdc034ef)
+12. CTF Writeup — Wayne State University — CTF24 — XZ Utils Investigation 1 - [link](https://medium.com/@embossdotar/ctf-writeup-wayne-state-university-ctf24-xz-utils-investigation-1-df7eaa5b6319?sk=03a9176e5360864ac487e1c0fca6884b)
