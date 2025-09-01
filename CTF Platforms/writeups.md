@@ -12,4 +12,4 @@
 7. HackTheBox CTF — Crypto: Makeshift - [link](https://medium.com/@embossdotar/hackthebox-ctf-crypto-makeshift-64f05b88f8d9?sk=a9ee7718c3df15e8001655bfece6bec2)
 8. HackTheBox CTF — Crypto: Iced TEA - [link](https://medium.com/@embossdotar/hackthebox-ctf-crypto-iced-tea-9a6a6c73094d?sk=248592bca0f3c2094af1943797a9320a)
 9. CTF Writeup — RITCTF 2024 — Beep Boop - [link](https://medium.com/@embossdotar/ctf-writeup-ritctf-2024-beep-boop-f07ef3f83bd5?sk=fa5f29728a4ae0d253f0274c6f18be64)
-
+10. CTF Writeup — 24@CTF — SteganOsint 1 - [link](https://medium.com/@embossdotar/ctf-writeup-24-ctf-steganosint-1-89a1bc71448a?sk=21546d5f32634fceea0f952a597d9554)
