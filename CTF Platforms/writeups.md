@@ -11,3 +11,5 @@
 6. Cyber Apocalypse 2024: Hacker Royale — Crypto: Dynastic - [link](https://medium.com/@embossdotar/cyber-apocalypse-2024-hacker-royale-crypto-dynastic-7395ab5cd3ea?sk=5377927b90d8f3da0b22721f5414ce9d)
 7. HackTheBox CTF — Crypto: Makeshift - [link](https://medium.com/@embossdotar/hackthebox-ctf-crypto-makeshift-64f05b88f8d9?sk=a9ee7718c3df15e8001655bfece6bec2)
 8. HackTheBox CTF — Crypto: Iced TEA - [link](https://medium.com/@embossdotar/hackthebox-ctf-crypto-iced-tea-9a6a6c73094d?sk=248592bca0f3c2094af1943797a9320a)
+9. CTF Writeup — RITCTF 2024 — Beep Boop - [link](https://medium.com/@embossdotar/ctf-writeup-ritctf-2024-beep-boop-f07ef3f83bd5?sk=fa5f29728a4ae0d253f0274c6f18be64)
+
