@@ -8,3 +8,4 @@
 3. CTF Writeup — pingCTF 2021 — Steganography - [link](https://medium.com/@embossdotar/ctf-writeup-pingctf-2021-steganography-f4c10d8def03?sk=4e24992f5d42960ec55cb253d15564b3)
 4. CTF Writeup — Hackme CTF - [link](https://medium.com/@embossdotar/ctf-writeup-hackme-ctf-720341f061b4?sk=146bc0127e4b9df2c278eff792d4f1ea)
 5. CTF Writeup — Cyber Apocalypse 2024: Hacker Royale — Reversing: LootStash - [link](https://medium.com/@embossdotar/ctf-writeup-cyber-apocalypse-2024-hacker-royale-reversing-lootstash-60f485a11142?sk=8ae5a7fe86e07d103d3bc9da5a3b2654)
+6. Cyber Apocalypse 2024: Hacker Royale — Crypto: Dynastic - [link](https://medium.com/@embossdotar/cyber-apocalypse-2024-hacker-royale-crypto-dynastic-7395ab5cd3ea?sk=5377927b90d8f3da0b22721f5414ce9d)
