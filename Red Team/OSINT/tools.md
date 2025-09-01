@@ -115,3 +115,8 @@
 110. BIP UKE: Sprawdzanie do jakiej sieci należy podany telefonu - [link](https://bip.uke.gov.pl/numeracja/dostawca-uslug/)
 111. FaceSeek: AI Powered Reverse Face Search - [link](https://www.faceseek.online)
 112. ShadeMap: Simulate sun shadows for any time and place on Earth - [link](https://shademap.app/)
+113. OSINTUI – Terminal-based OSINT tool with integrations – [link](https://github.com/wssheldon/osintui)
+114. PhoneNumber-OSINT – Phone number information gathering – [link](https://github.com/spider863644/PhoneNumber-OSINT)
+115. OSGINT – OSINT for GitHub users – [link](https://github.com/hippiiee/osgint)
+116. Blackbird – OSINT username/email search tool – [link](https://github.com/p1ngul1n0/blackbird)
+117. LeakBaseCTI – Investigative framework for malicious actors – [link](https://github.com/VECERTUSA/LeakBaseCTI)

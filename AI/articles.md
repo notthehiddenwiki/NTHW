@@ -12,3 +12,4 @@
 7. AI Risk Management Framework - [link](https://www.nist.gov/itl/ai-risk-management-framework)
 8. Threat Model Diagrams for Machine Learning - [link](https://shostack.org/blog/five-threat-model-diagrams-for-ml/)
 9. Practical Deep Learning For Coders - [link](https://course.fast.ai/)
+10. Generative AI for beginners – 21 lessons to build AI apps – [link](https://github.com/microsoft/generative-ai-for-beginners)
