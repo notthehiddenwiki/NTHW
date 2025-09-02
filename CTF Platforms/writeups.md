@@ -20,3 +20,5 @@
 15. CTF Writeup — SpringForwardCTF — Minerva’s Quest - [link](https://medium.com/@embossdotar/ctf-writeup-springforwardctf-minervas-quest-869b3e5907fc?sk=0fc673031a8ac7418b6aeee8e7f10e02)
 16. openECSC 2024 — Round 2 — CTF Writeup — Blind maze - [link](https://medium.com/@embossdotar/openecsc-2024-round-2-ctf-writeup-blind-maze-137438ad3490?sk=961e178853d1755c65e8ef2210baefa9)
 17. CTF Writeup — UIUCTF 2024 — An Unlikely Partnership - [link](https://medium.com/@embossdotar/ctf-writeup-uiuctf-2024-an-unlikely-partnership-c1233105bdbb?sk=eec7b48a32e286312049bf5ec13a2750)
+18. CTF Writeup — DownUnderCTF 2024 — tldr please summarise - [link](https://medium.com/@embossdotar/ctf-writeup-downunderctf-2024-tldr-please-summarise-8394e4471e91?sk=3c73d2887dc7191007b6fd1bf2c8278e)
+19. 
