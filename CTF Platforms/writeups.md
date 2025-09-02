@@ -31,3 +31,4 @@
 26. CTF Writeup — IRON CTF 2024 — Introspection - [link](https://medium.com/@embossdotar/ctf-writeup-iron-ctf-2024-introspection-e136feb0570a?sk=cba7cad0631d1075e9d7c3ac5dc1440b)
 27. CTF Writeup — Crate-CTF 2024 — XML-kontroll - [link](https://medium.com/@embossdotar/ctf-writeup-crate-ctf-2024-xml-kontroll-c57459443c4c?sk=4c8382538b98a4405020479864bfb78f)
 28. CTF Writeup — TJCTF 2025 — mouse-trail - [link](https://medium.com/@embossdotar/ctf-writeup-tjctf-2025-mouse-trail-eb37a18a372e?sk=5d5068ab944efbdcf36403e28f014a49)
+29. CTF Writeup — TJCTF 2025 — guess-my-number - [link](https://medium.com/@embossdotar/ctf-writeup-tjctf-2025-guess-my-number-754847f18a48?sk=590aa7222677c9daaa239f84de1b153b)
