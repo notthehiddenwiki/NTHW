@@ -28,3 +28,4 @@
 23. CTF Writeup — n00bzCTF 2024 — The Gang 2 - [link](https://medium.com/@embossdotar/ctf-writeup-n00bzctf-2024-the-gang-2-10ddfddb086f?sk=c91d892dd4b59e5534854088a5ee867f)
 24. CTF Writeup — TFC CTF 2024 — CCCCC - [link](https://medium.com/@embossdotar/ctf-writeup-tfc-ctf-2024-ccccc-a0cd075518de?sk=0e8687875a0cf730731110e66c1a2524)
 25. CTF Writeup — IRON CTF 2024 — Math Gone Wrong - [link](https://medium.com/@embossdotar/ctf-writeup-iron-ctf-2024-math-gone-wrong-ccc0b463e38f?sk=784fad2270168393c3acd358e376e0da)
+26. CTF Writeup — IRON CTF 2024 — Introspection - [link](https://medium.com/@embossdotar/ctf-writeup-iron-ctf-2024-introspection-e136feb0570a?sk=cba7cad0631d1075e9d7c3ac5dc1440b)
