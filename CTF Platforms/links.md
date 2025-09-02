@@ -109,3 +109,4 @@
 98. [🔴] Hacking Club - [link](https://app.hackingclub.com)
 99. [🔴] Hacksplaining - [link](https://hacksplaining.com/lessons)
 100. [🔴] pwn.college - [link](https://pwn.college/)
+101. [🔴] hackuten - [link](https://hackuten.com/)
