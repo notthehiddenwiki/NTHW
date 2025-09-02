@@ -26,3 +26,4 @@
 21. CTF Writeup — corCTF 2024 — the-conspiracy - [link](https://medium.com/@embossdotar/ctf-writeup-corctf-2024-the-conspiracy-52e9f95624c7?sk=98ba3614dbf52243a41da04b5ec3cd34)
 22. CTF Writeup — corCTF 2024 — infiltration - [link](https://medium.com/@embossdotar/ctf-writeup-corctf-2024-infiltration-b39d39d46e37?sk=abafe4af80b7dc026faa4d4036ec983b)
 23. CTF Writeup — n00bzCTF 2024 — The Gang 2 - [link](https://medium.com/@embossdotar/ctf-writeup-n00bzctf-2024-the-gang-2-10ddfddb086f?sk=c91d892dd4b59e5534854088a5ee867f)
+24. CTF Writeup — TFC CTF 2024 — CCCCC - [link](https://medium.com/@embossdotar/ctf-writeup-tfc-ctf-2024-ccccc-a0cd075518de?sk=0e8687875a0cf730731110e66c1a2524)
