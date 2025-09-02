@@ -24,3 +24,4 @@
 19. CTF Writeup — DownUnderCTF 2024 — offtheramp - [link](https://medium.com/@embossdotar/ctf-writeup-downunderctf-2024-offtheramp-63cb06bdc6c7?sk=205d845c68c112c5f71860b02a4f52b8)
 20. CTF Writeup — DownUnderCTF 2024 — Baby’s First Forensics - [link](https://medium.com/@embossdotar/ctf-writeup-downunderctf-2024-babys-first-forensics-39de2a121eb7?sk=b7813c6ee65db1bb8483f562f1ea0527)
 21. CTF Writeup — corCTF 2024 — the-conspiracy - [link](https://medium.com/@embossdotar/ctf-writeup-corctf-2024-the-conspiracy-52e9f95624c7?sk=98ba3614dbf52243a41da04b5ec3cd34)
+22. CTF Writeup — corCTF 2024 — infiltration - [link](https://medium.com/@embossdotar/ctf-writeup-corctf-2024-infiltration-b39d39d46e37?sk=abafe4af80b7dc026faa4d4036ec983b)
