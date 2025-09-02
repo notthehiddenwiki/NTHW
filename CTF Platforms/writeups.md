@@ -22,3 +22,4 @@
 17. CTF Writeup — UIUCTF 2024 — An Unlikely Partnership - [link](https://medium.com/@embossdotar/ctf-writeup-uiuctf-2024-an-unlikely-partnership-c1233105bdbb?sk=eec7b48a32e286312049bf5ec13a2750)
 18. CTF Writeup — DownUnderCTF 2024 — tldr please summarise - [link](https://medium.com/@embossdotar/ctf-writeup-downunderctf-2024-tldr-please-summarise-8394e4471e91?sk=3c73d2887dc7191007b6fd1bf2c8278e)
 19. CTF Writeup — DownUnderCTF 2024 — offtheramp - [link](https://medium.com/@embossdotar/ctf-writeup-downunderctf-2024-offtheramp-63cb06bdc6c7?sk=205d845c68c112c5f71860b02a4f52b8)
+20. CTF Writeup — DownUnderCTF 2024 — Baby’s First Forensics - [link](https://medium.com/@embossdotar/ctf-writeup-downunderctf-2024-babys-first-forensics-39de2a121eb7?sk=b7813c6ee65db1bb8483f562f1ea0527)
