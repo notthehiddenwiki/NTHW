@@ -18,4 +18,4 @@
 13. CTF Writeup — HackPack CTF 2024 — LLM edition — YellowDog-1 - [link](https://medium.com/@embossdotar/ctf-writeup-hackpack-ctf-2024-llm-edition-yellowdog-1-db02a36e1051?sk=955f63637e7ac6cb934a02ade8b3f686)
 14. CTF Writeup — AirOverflow CTF — 2024 — Insanity - [link](https://medium.com/@embossdotar/ctf-writeup-airoverflow-ctf-2024-insanity-273d3d5d4128?sk=b191f6d08293396be5b9d3fe1e970ef8)
 15. CTF Writeup — SpringForwardCTF — Minerva’s Quest - [link](https://medium.com/@embossdotar/ctf-writeup-springforwardctf-minervas-quest-869b3e5907fc?sk=0fc673031a8ac7418b6aeee8e7f10e02)
-
+16. openECSC 2024 — Round 2 — CTF Writeup — Blind maze - [link](https://medium.com/@embossdotar/openecsc-2024-round-2-ctf-writeup-blind-maze-137438ad3490?sk=961e178853d1755c65e8ef2210baefa9)
