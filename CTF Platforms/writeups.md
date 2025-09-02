@@ -29,3 +29,4 @@
 24. CTF Writeup — TFC CTF 2024 — CCCCC - [link](https://medium.com/@embossdotar/ctf-writeup-tfc-ctf-2024-ccccc-a0cd075518de?sk=0e8687875a0cf730731110e66c1a2524)
 25. CTF Writeup — IRON CTF 2024 — Math Gone Wrong - [link](https://medium.com/@embossdotar/ctf-writeup-iron-ctf-2024-math-gone-wrong-ccc0b463e38f?sk=784fad2270168393c3acd358e376e0da)
 26. CTF Writeup — IRON CTF 2024 — Introspection - [link](https://medium.com/@embossdotar/ctf-writeup-iron-ctf-2024-introspection-e136feb0570a?sk=cba7cad0631d1075e9d7c3ac5dc1440b)
+27. CTF Writeup — Crate-CTF 2024 — XML-kontroll - [link](https://medium.com/@embossdotar/ctf-writeup-crate-ctf-2024-xml-kontroll-c57459443c4c?sk=4c8382538b98a4405020479864bfb78f)
