@@ -16,3 +16,5 @@
 11. CTF Writeup — SwampCTF 2024 — Lost in Space - [link](https://medium.com/@embossdotar/ctf-writeup-swampctf-2024-lost-in-space-6e3689f43c3a?sk=9199ba4150acfb14a4d5bb04bdc034ef)
 12. CTF Writeup — Wayne State University — CTF24 — XZ Utils Investigation 1 - [link](https://medium.com/@embossdotar/ctf-writeup-wayne-state-university-ctf24-xz-utils-investigation-1-df7eaa5b6319?sk=03a9176e5360864ac487e1c0fca6884b)
 13. CTF Writeup — HackPack CTF 2024 — LLM edition — YellowDog-1 - [link](https://medium.com/@embossdotar/ctf-writeup-hackpack-ctf-2024-llm-edition-yellowdog-1-db02a36e1051?sk=955f63637e7ac6cb934a02ade8b3f686)
+14. CTF Writeup — AirOverflow CTF — 2024 — Insanity - [link](https://medium.com/@embossdotar/ctf-writeup-airoverflow-ctf-2024-insanity-273d3d5d4128?sk=b191f6d08293396be5b9d3fe1e970ef8)
+
