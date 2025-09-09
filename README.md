@@ -33,9 +33,13 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 
 P.S. For now, everything related to NTHK is created in PL!
 
+💼 **Not The Hidden Employees**
+
+Not The Hidden Employees is a spontaneous project in response to numerous questions from people involved in job hunting. That is why we are launching a pilot project aimed at supporting candidates and companies in their search for future employees. Read the[README](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Not%20The%20Hidden%20Employees/README.md) created especially for this project! 
+
 🙏 Thank You!
 -----
-To thanks and appreciate the contribution to the development of the "**Hackuj Dobroczynnie** (aka HD)" and "**Cyber Adwent** (aka CA)" series, we have created a [list](https://github.com/notthehiddenwiki/NTHW/blob/nthw/acknowledgements.md) presenting our speakers along with their social media and links to recordings!
+To thanks and appreciate the contribution to the development of the "**Hackuj Dobroczynnie** (aka HD)", "**Not The Hidden Knowledge** (aka NTHK)" and "**Cyber Adwent** (aka CA)" series, we have created a [list](https://github.com/notthehiddenwiki/NTHW/blob/nthw/acknowledgements.md) presenting our speakers along with their social media and links to recordings!
 
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
@@ -171,3 +175,4 @@ Violations will be pursued under applicable intellectual property laws. <br>Full
 12. **26.02.2025** - 1000 stars on GitHub
 13. **20.05.2025** - 1000 subscribers on YouTube
 14. **14.08.2025** - 250 forks on NTHW
+15. **06.09.2025** - 2500 subscribers on LinkedIn
