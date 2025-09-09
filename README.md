@@ -34,6 +34,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 P.S. For now, everything related to NTHK is created in PL!
 
 💼 **Not The Hidden Employees**
+-----
 
 Not The Hidden Employees is a spontaneous project in response to numerous questions from people involved in job hunting. That is why we are launching a pilot project aimed at supporting candidates and companies in their search for future employees. Read the[README](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Not%20The%20Hidden%20Employees/README.md) created especially for this project! 
 
