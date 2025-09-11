@@ -63,6 +63,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
     - Notes
       - OSCP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/OSCP.md)
       - OSED: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/OSED.md)
+	  - OSEP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/OSEP.md)
       - eJPT: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/eJPT.md)
       - BSCP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/BSCP.md)
       - CISSP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/CISSP.md)
