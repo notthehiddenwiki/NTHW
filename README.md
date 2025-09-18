@@ -151,7 +151,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 - **Podcasts**: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Podcasts/links.md)
 - **Computer Networks**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Computer%20Networks/articles.md)
 - **Links from Zaufana Trzecia Strona**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Z3S%20Links/)
-- **Ambassadors Program**: [Check](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Ambassadors/)
+- **Ambassador Program**: [Check](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Ambassadors/)
 
 ⚖️ Disclaimer
 -----

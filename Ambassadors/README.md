@@ -1,7 +1,7 @@
-# NTHW Ambassadors Program
+# NTHW Ambassador Program
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/ambassadors/Ambassadors_banner.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/ambassadors/Ambassador_banner.png">
 </p>
 
 Welcome to the **NTHW Ambassador Program**! This initiative empowers passionate individuals to lead mini-projects, create educational content, and foster our cybersecurity community under the NTHW banner.
