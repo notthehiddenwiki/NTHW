@@ -182,7 +182,28 @@ Violations will be pursued under applicable intellectual property laws. <br>Full
 
 🔑 Disclaimer
 -----
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
 
-We are expanding, and to ensure trust and authenticity, we have published the official PGP key for Not The Hidden Wiki project. The key is available at the following [link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/gpg.asc).
+We are expanding, and to ensure trust and authenticity, we have published the official PGP key for Not The Hidden Wiki project. The key is available at the following url: https://github.com/notthehiddenwiki/NTHW/blob/nthw/gpg.asc
 
 This allows anyone to verify the legitimacy of our announcements and messages. If you ever have doubts about the authenticity of our statements, please request a message signed with our official PGP key. This is the only way to confirm it genuinely comes from us.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCgAGBQJo0F7LAAoJEJl0IfR7s29JUegP/RMWfsGiIDzeI8jmozFG/cA0
+sNYac0t6NrCfYXLxWm43TQTe1xuGZx3+i2TkrusgegxFuXbZ93mekhuQKejjuSmZ
+oxz8t54/hjX+OmgqVeXMVZrv8nd6SApCTWUR2fzckS/emke18bgUPG4wTnfgdzJI
+okp9k/efn9Z7a7jT6ewB3Y3dQ4p+j/NabVNnRaUUGUYAf7Xv4SHRQkZNQbjSHOhZ
+IkrMATSVM6NS7YImzw2d5DMwFdL30ehur6CS/DbT5Op8tywCNHDhMmFhUCNxF2wf
+1q9d18tFZ+LxHVQazVPAPn6wSaB2zftdjEoj239bnLqqKZqOp34Hvvpqr4jO0wuJ
+nEb2hUHBuwIjypS6s2WPtc8t8lAZj/OIr05gGwcrEgEIyEUJ+NyWp6orIFxrHEPU
++2fnOrFT/1RmGj1PTwdK6/5XBsrUvVuAVuOIRYQ5v0Gy5UH8z2sUuQyD4/H4TWH6
+qa6oI1vnfxYs8cfwM6MP7MF0bqy1T+pGRmFkK24jIea6QPjWm3CSakiZJJw01Jhp
+EjKninZkW3RcNEhVrpNlzwTeHfkYTQrvXMnmk096Vu5viARt/fewciP9DIRK5aQ/
+kaSOi4LyFQCRMCDorzZSYwsdPc6PRgfOpQtzK3NhSR20K69BRl7txmpqYid/Bqke
+jgwLXTqWnAYgTIQjWnPD
+=j+vj
+-----END PGP SIGNATURE-----
+```
