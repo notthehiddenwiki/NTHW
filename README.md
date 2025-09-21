@@ -179,3 +179,10 @@ Violations will be pursued under applicable intellectual property laws. <br>Full
 13. **20.05.2025** - 1000 subscribers on YouTube
 14. **14.08.2025** - 250 forks on NTHW
 15. **06.09.2025** - 2500 subscribers on LinkedIn
+
+🔑 Disclaimer
+-----
+
+We are expanding, and to ensure trust and authenticity, we have published the official PGP key for Not The Hidden Wiki project. The key is available at the following [link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/gpg.asc).
+
+This allows anyone to verify the legitimacy of our announcements and messages. If you ever have doubts about the authenticity of our statements, please request a message signed with our official PGP key. This is the only way to confirm it genuinely comes from us.
