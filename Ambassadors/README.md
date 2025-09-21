@@ -63,6 +63,6 @@ Have questions about the program or need help with your application? Reach out t
 
 Below you will find the people who are **ambassadors** for **Not The Hidden Wiki**
 
-* [soon](soon)
+* [Beata Zalewa](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/beata_zalewa.md)
 
 Thank you for your interest in the NTHW Ambassadors Program! We look forward to collaborating with you to strengthen and grow our cybersecurity community.
