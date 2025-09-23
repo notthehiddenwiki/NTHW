@@ -8,7 +8,7 @@
   - **Country:** Italy
   - **Email:** [ottersec@duck.com](mailto:ottersec@duck.com) 
   - **LinkedIn:** [https://www.linkedin.com/in/otterpwn/](https://www.linkedin.com/in/otterpwn/)  
-  - **GitHub:** [https://github.com/otterpwnhttps://github.com/username](https://github.com/otterpwn)  
+  - **GitHub:** [https://github.com/otterpwn](https://github.com/otterpwn)  
   - **Discord:** ottersec
 
 ## 👤 Biography
