@@ -15,7 +15,7 @@
 10. InfoSec / Cybersecurity News - [link](https://allinfosecnews.com/)
 11. InfoSec Write-ups - [link](https://medium.com/@infosecwriteups)
 12. KapitanHack - [link](https://kapitanhack.pl)
-13. Krebson Security - [link](https://krebsonsecurity.com/)
+13. Krebs on Security - [link](https://krebsonsecurity.com/)
 14. List of InfoSec & Cybersecurity by foorilla - [link](https://github.com/foorilla/allinfosecnews_sources/)
 15. Mandiant - [link](https://www.mandiant.com/)
 16. MeetCyber - [link](https://medium.com/meetcyber/)
