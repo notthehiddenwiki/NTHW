@@ -67,11 +67,15 @@ to view metadata of .jpg file, just type:
 
 ```exiftool filename.jpg```
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/HTSW/metadata_for_newbies/exiftool_view.png">
+</p>
 
 this command views many of metadatas for example gps data:
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/HTSW/metadata_for_newbies/exiftool_gps.png">
+</p>
 
 **🟥 Removing metadata:**
 
@@ -79,7 +83,9 @@ to remove metadata, just type:
 
 ```exiftool -all= filename.jpg``` <br>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/HTSW/metadata_for_newbies/exiftool_remove.png">
+</p>
 
 NOTE: This command leaves a backup of your original file called filename.jpg_original
 <br>This is the simplest command but if you wanna make sure that everything will be as you want, or you want exiftool to overwrite file automatically, you can use different commands, all of them you can find on official exiftool website.
@@ -88,4 +94,6 @@ NOTE: This command leaves a backup of your original file called filename.jpg_ori
 
 Metadata is invisible to the eye, but it can reveal a surprising amount — location, time, device used, and more. Understanding how it works and taking precautions is crucial if you care about your digital privacy, especially when sharing photos online.
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/notes/HTSW/metadata_for_newbies/metadatameme.jpg">
+</p>

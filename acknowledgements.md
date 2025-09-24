@@ -6,7 +6,7 @@
 
 ## Thank You!
 
-***As the Not The Hidden Wiki community, we would like to express our sincere thanks for your significant contribution to the development of the NTHW project and for your active participation in the "Hackuj Dobroczynnie (HD)" / "Cyber ​​Advent (CA)" / "Herbatka ze Smokiem (HzS) and "Not The Hidden Knowledge (NTHK)" initiatives. Your commitment, professionalism and creative approach were of great importance for achieving success in the area of ​​knowledge sharing. We appreciate the willingness to share knowledge, experiences and ideas that have significantly influenced the success of our initiatives.***
+***As the Not The Hidden Wiki community, we would like to express our sincere thanks for your significant contribution to the development of the NTHW project and for your active participation in the "Hackuj Dobroczynnie (HD)" / "Cyber ​​Advent (CA)" / "Herbatka ze Smokiem (HzS)" / "Learn Linux with NTHW (LLwN)" and "Not The Hidden Knowledge (NTHK)" initiatives. Your commitment, professionalism and creative approach were of great importance for achieving success in the area of ​​knowledge sharing. We appreciate the willingness to share knowledge, experiences and ideas that have significantly influenced the success of our initiatives.***
 
 Below you can find a list of speakers who shared their knowledge as part of our initiatives:
 
@@ -36,6 +36,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Vibe Reverse Engineering"** - [Recording on YouTube](https://youtu.be/NDA-bSo5wxc)
 - **Oskar Klimczuk**: [LinkedIn](https://www.linkedin.com/in/oskar-klimczuk/)
   - Lecture titled (CA): **"Dziennikarstwo a cyberbezpieczeństwo"** - [Recording on YouTube](https://www.youtube.com/watch?v=CS0E5ivxp50)
+  - Lecture titled (NTHK): **"Czego nauczą Cię CTF-y"** - [Recording on YouTube](https://youtu.be/lkKCGUZayFg)
 - **Andrzej Kokocinski**: [LinkedIn](https://www.linkedin.com/in/%E2%98%81%F0%9F%94%92-andrzej-kokocinski-39024832/)
   - Lecture titled (CA): **"Bezpieczeństwo sieci w chmurze"** - [Recording on YouTube](https://www.youtube.com/watch?v=-unYtfkcA_w)
   - Lecture titled (CA): **"Analiza logów i monitorowanie"** - [Recording on YouTube](https://www.youtube.com/watch?v=4WmNYBAptTs)
@@ -96,6 +97,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"Tunnelling"** - [Recording on YouTube](https://youtu.be/A2wY4kkbrUE)
   - Lecture titled (NTHK): **"GIT - jak kontrybuować do NTHW"** - [Recording on YouTube](https://youtu.be/ko_n3w2-6nc)
   - Lecture titled (NTHK): **"HTB - Włam Się Sam"** - [Recording on YouTube](https://youtu.be/f3GzmLFAEYU)
+  - Lecture titled: **"Learn Linux with NTHW - odcinek 1"** - [Recording on YouTube](https://youtu.be/Ad8g-IvEsjg)
 - **Grzegorz Niedziela**: [LinkedIn](https://www.linkedin.com/in/gniedziela/)
   - Lecture titled (HD): **"[AMA] BugBounty"** - [Recording on YouTube](https://youtu.be/37fBGKw0UxM)
 - **Krystian Kaczmarek / Kamil S. / Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/) / [LinkedIn](https://www.linkedin.com/in/kamil-s-387a5a31b/) / [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)
