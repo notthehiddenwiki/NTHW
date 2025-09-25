@@ -60,5 +60,5 @@ I can help with many things, but I cannot list specific initiatives because I al
 ---
 
 **Ambassador status:** ✅ Active  
-*This profile was created: 24.09.2025*  
-*Last updated: 24.09.2025*
+*This profile was created: [24.09.2025]*  
+*Last updated: [24.09.2025]*

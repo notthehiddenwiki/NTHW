@@ -98,6 +98,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"GIT - jak kontrybuować do NTHW"** - [Recording on YouTube](https://youtu.be/ko_n3w2-6nc)
   - Lecture titled (NTHK): **"HTB - Włam Się Sam"** - [Recording on YouTube](https://youtu.be/f3GzmLFAEYU)
   - Lecture titled: **"Learn Linux with NTHW - odcinek 1"** - [Recording on YouTube](https://youtu.be/Ad8g-IvEsjg)
+  - Lecture titled: **"Learn Linux with NTHW - odcinek 2"** - [Recording on YouTube]()
 - **Grzegorz Niedziela**: [LinkedIn](https://www.linkedin.com/in/gniedziela/)
   - Lecture titled (HD): **"[AMA] BugBounty"** - [Recording on YouTube](https://youtu.be/37fBGKw0UxM)
 - **Krystian Kaczmarek / Kamil S. / Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/) / [LinkedIn](https://www.linkedin.com/in/kamil-s-387a5a31b/) / [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)
