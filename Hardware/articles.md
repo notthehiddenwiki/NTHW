@@ -5,6 +5,8 @@
 
 1. [PL only] Kurs Arduino, poziom I - Forbot - [link](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290)
 2. [PL only] Kurs Arduino, poziom II - Forbot - [link](https://forbot.pl/blog/kurs-arduino-ii-wstep-spis-tresci-id15494)
+3. [PL only] Kurs elektroniki, poziom I - Forbot - [link](https://forbot.pl/blog/kurs-elektroniki-dla-poczatkujacych-id5151)
+4. [PL only] Kurs elektroniki, poziom II - Forbot - [link](https://forbot.pl/blog/kurs-elektroniki-ii-spis-tresci-praktyczne-projekty-id10746)
 3. Adafruit tutorials - [link](https://learn.adafruit.com/)
 4. Bootstrapping security analysis of Arlo cameras - [link](https://www.synacktiv.com/en/publications/arlo-im-watching-you)
 5. Breaking Fortinet Firmware Encryption - [link](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
