@@ -10,6 +10,7 @@
 5. [PL only] Kurs lutowania - Forbot - [link](https://forbot.pl/blog/kurs-lutowania-wstep-spis-tresci-id12556)
 6. [PL only] Kurs Raspberry Pi, poziom I - Forbot - [link](https://forbot.pl/blog/kurs-raspberry-pi-od-podstaw-wstep-spis-tresci-id23139)
 7. [PL only] Kurs Raspberry Pi, poziom II (projekty) - Forbot - [link](https://forbot.pl/blog/kurs-raspberry-pi-projekty-wstep-spis-tresci-id27419)
+8. [PL only] Kurs techniki cyfrowej - Forbot - [link](https://forbot.pl/blog/technika-cyfrowa-wstep-spis-tresci-id18070)
 8. Adafruit tutorials - [link](https://learn.adafruit.com/)
 9. Bootstrapping security analysis of Arlo cameras - [link](https://www.synacktiv.com/en/publications/arlo-im-watching-you)
 10. Breaking Fortinet Firmware Encryption - [link](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
