@@ -25,6 +25,7 @@
 20. Hardware Hacking: chip-off for beginners - [link](https://www.tarlogic.com/blog/hardware-hacking-chip-off-for-beginners/)
 21. Hardware Hacking for beginners - [link](https://www.tinkerforge.com/en/doc/Kits/HardwareHacking/ForBeginners.html)
 22. Hardware Hacking tag on Hackaday - [link](https://hackaday.com/tag/hardware-hacking/)
+23. Instructables hardware hacking search results - [link](https://www.instructables.com/search/?q=hardware%20hacking&projects=featured)
 23. Introduction to hardware Hacking - [link](https://abrictosecurity.com/introduction-to-hardware-hacking-part-1/)
 24. Intro to hardware hacking - [link](https://www.cyberark.com/resources/threat-research-blog/an-introduction-to-hardware-hacking)
 25. Intro to IoT hardware hacking - [link](https://infosecwriteups.com/intro-to-iot-hardware-hacking-abd5f591e86e)
