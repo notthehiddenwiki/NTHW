@@ -55,7 +55,7 @@ I can help with many things, but I cannot list specific initiatives because I al
 - 3D printers and ton of filament
 
 ## 🤝 How I Can Help the Community
-> I am M. Kucharskov, and I send this message to any involved in the NTHW project who needs help: I am here. I am waiting. (Linkin Park intensifies)
+I am M. Kucharskov, and I send this message to any involved in the NTHW project who needs help: I am here. I am waiting. (Linkin Park intensifies)
 
 ---
 
