@@ -14,3 +14,5 @@
 9. Brakeman static analysis security tool specifically designed for Ruby on Rails applications - [link](https://github.com/presidentbeef/brakeman)
 10. HoruSec security tool that performs static analysis to find vulnerabilities in source code - [link](https://github.com/ZupIT/horusec)
 11. Sast Scan static application security testing (SAST) tool that scans code for security vulnerabilities - [link](https://github.com/ShiftLeftSecurity/sast-scan)
+12. cnspec - assesses your entire infrastructure's security and compliance. It finds vulnerabilities and misconfigurations across public and private cloud environments, Kubernetes clusters, containers, container registries, servers, endpoints, SaaS products, infrastructure as code, APIs, and more. [link](https://github.com/mondoohq/cnspec)
+13. cnquery - is a cloud-native tool for querying your entire infrastructure. Built upon Mondoo's security data fabric, it answers thousands of questions about your infrastructure and integrates with over 850 resources across cloud accounts, Kubernetes, containers, services, VMs, APIs, and more. [link](https://github.com/mondoohq/cnquery)
