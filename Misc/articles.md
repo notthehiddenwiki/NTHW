@@ -32,3 +32,4 @@
 27. What do Security Professionals really do? - [link](https://rafeeqrehman.com/wp-content/uploads/2023/03/CISO_Mindmap-2023-1.png)
 28. Why 3d printer is what you need for Zombie Apocalypse? Part 1: How to get Power? - [link](https://medium.com/@bartosz_sroka/why-3d-printer-is-what-you-need-for-zombie-apocalypse-part-1-how-to-get-power-dae146de86a1)
 29. Why 3d printer is what you need for Zombie Apocalypse? Part 2: How and what to print? - [link](https://medium.com/@bartosz_sroka/why-3d-printer-is-what-you-need-for-zombie-apocalypse-part-2-how-and-what-to-print-56e93b7fdaa9)
+30. Why You Have to Wait for Your CVE: Behind the Scenes of MITRE’s Process - [link](https://medium.com/@embossdotar/why-you-have-to-wait-for-your-cve-behind-the-scenes-of-mitres-process-394369fbd3b5?sk=0d0f6d40b543db96d397053a6ec5ec47)
