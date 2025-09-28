@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 3859 links on our wiki!**
+**There are already 3877 links on our wiki!**
 
 💥 Intro
 -----
