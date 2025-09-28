@@ -27,7 +27,7 @@ Collaboration & Remediation - Experienced in working closely with development te
 Kali Linux Toolkit - Hands-on experience using Kali Linux tools for penetration testing, vulnerability scanning, and security auditing to identify and exploit weaknesses in applications and infrastructure.
 User Management Functionality - Specialized in implementing critical user-related features such as authentication (login), password reset processes, user management, and role-based access control (RBAC). Focused on developing secure, scalable, and user-friendly identity and authorization mechanisms.
 
-## 🚀 Planned Initiatives as NTHW Ambassador (you can choose)
+## 🚀 Planned Initiatives as NTHW Ambassador
 - **Mini-projects:** Identity Federation Protocols: Developing practical security checklists and guidelines to help developers correctly implement identity federation protocols
 - **Community:** Answering questions, metoring, help with open source projects
 - **Content:** Cybersecurity Awareness: Creating posts or short videos addressing less obvious security risks, such as the dangers of smartwatches and other IoT devices.

@@ -27,7 +27,7 @@ I began my career as a software developer before transitioning into the field of
 - CRTO
 - OSWE
 
-## 🚀 Planned Initiatives as NTHW Ambassador (you can choose)
+## 🚀 Planned Initiatives as NTHW Ambassador
 
 - **Mini-projects:** 
 
