@@ -13,5 +13,6 @@
 8.  How to Write ARM Assembly Language for the Raspberry Pi Pico - [link](https://youtu.be/ZS_Cbmf3z-U?si=xrSaApYGPdAcby2O)
 9.  Identifying Hardware Components - [link](https://www.youtube.com/watch?v=LSQf3iuluYo)
 10. IoT Startup Scripts & The Quest For Root - [link](https://www.youtube.com/watch?v=Ai8J3FG8kys)
-11. Recover the Root Filesystem - [link](https://www.youtube.com/watch?v=-AYmTMILsM8)
-12. Run Outdated Toolchains with Docker - [link](https://www.youtube.com/watch?v=HmiWugMDeeU)
+11. Radio hacking 101: Raspberry Pi SDR with a CaribouLite by Jeff Geerling - [link](https://www.youtube.com/watch?v=Hz2WqhWmjZE)
+12. Recover the Root Filesystem - [link](https://www.youtube.com/watch?v=-AYmTMILsM8)
+13. Run Outdated Toolchains with Docker - [link](https://www.youtube.com/watch?v=HmiWugMDeeU)
