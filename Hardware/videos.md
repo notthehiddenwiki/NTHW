@@ -18,3 +18,4 @@
 13. Recover the Root Filesystem - [link](https://www.youtube.com/watch?v=-AYmTMILsM8)
 14. Run Outdated Toolchains with Docker - [link](https://www.youtube.com/watch?v=HmiWugMDeeU)
 15. SDR is an incredible tool for understanding radio by Jeff Geerling - [link](https://www.youtube.com/watch?v=tXIPQK28aJY)
+16. SDR with HackRF Training Series by Michael Ossmann - [link](https://www.youtube.com/playlist?list=PLu0BPYzTjiHru1KmPThmbY-8rRm3EWvUQ)
