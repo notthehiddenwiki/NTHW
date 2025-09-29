@@ -21,7 +21,7 @@
 16. OpenOCD - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing - [link](https://openocd.org/)
 17. Printer Exploitation Toolkit - [link](https://github.com/RUB-NDS/PRET)
 18. pyjtagbs - Python JTAG Boundary Scan tool - [link](https://github.com/colinoflynn/pyjtagbs)
-19. Sasqueatch - [link](https://github.com/devttys0/sasquatch)
+19. Sasquatch - a patched version of unsquashfs (from squashfs-tools) designed to handle non-standard SquashFS images - [link](https://github.com/devttys0/sasquatch)
 20. Script for searching the extracted firmware file system for goodies! - [link](https://github.com/craigz28/firmwalker)
 21. Sigrok: Logic Analyzer - [link](https://sigrok.org/wiki/Main_Page)
 22. UrJTAG - `UrJTAG` aims to create an enhanced, modern tool for communicating over JTAG with flash chips, CPUs, and many more - [link](https://urjtag.sourceforge.io/)
