@@ -16,3 +16,4 @@
 11. Radio hacking 101: Raspberry Pi SDR with a CaribouLite by Jeff Geerling - [link](https://www.youtube.com/watch?v=Hz2WqhWmjZE)
 12. Recover the Root Filesystem - [link](https://www.youtube.com/watch?v=-AYmTMILsM8)
 13. Run Outdated Toolchains with Docker - [link](https://www.youtube.com/watch?v=HmiWugMDeeU)
+14. SDR is an incredible tool for understanding radio by Jeff Geerling - [link](https://www.youtube.com/watch?v=tXIPQK28aJY)
