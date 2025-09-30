@@ -7,7 +7,7 @@
 ## 🌍 Basic Information & Contact
   - **Country:** Poland 
   - **Email:** [beata@zalnet.pl](mailto:beata@zalnet.pl)
-  - **LinkedIn:** [https://linkedin.com/in/beatazalewa](https://linkedin.com/in/pbeatazalewa)  
+  - **LinkedIn:** [https://linkedin.com/in/beatazalewa](https://linkedin.com/in/beatazalewa)  
   - **GitHub:** [https://github.com/beatazalewa](https://github.com/beatazalewa)  
   - **Twitter/X:** beatazalewa 
   - **Discord:** beatazalewa 

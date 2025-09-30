@@ -139,7 +139,10 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Krótka (i zabawna?) historia Linuxa"** - [Recording on YouTube](https://youtu.be/1P4LXiNw9ms)
 - **Kinga Szostko** : [LinkedIn](https://www.linkedin.com/in/kinga-szostko-985b65220/)
   - Lecture titled (HD): **"Co robią dzieci w sieci i dlaczego ich aktywność powinna zainteresować dorosłych"** - [Recording on YouTube](https://youtu.be/zezrG72RMJw)
+- **Beata Zalewa / Lena Sędkiewicz**: [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [LinkedIn](https://www.linkedin.com/in/lena-sedkiewicz/)
+  - Lecture titled (HD): **"OWASP - Pierwszy kontakt"** - [Recording on YouTube]()
       
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
+
