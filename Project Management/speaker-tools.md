@@ -31,3 +31,5 @@
 26. Streamyard: The easiest way to create professional live streams - [link](https://streamyard.com)
 27. Zoom.us: Enterprise video conferencing with real-time messaging and content sharing - [link](https://zoom.us)
 28. GoToMeeting: Seamless video meetings with up to 250 participants - [link](https://gotomeeting.com)
+
+*Provided by M. Kucharskov & miblak before HackYeah*

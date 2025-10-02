@@ -47,3 +47,5 @@
 42. Supernotes: A multi-platform notes app built around markdown notecards and card nesting - [link](https://supernotes.app)
 43. NotePlan: NotePlan combines tasks, notes, and calendar - all in one place - [link](https://noteplan.co)
 44. Taskade: A tree-structured note-taking and productivity app for individuals and teams - [link](https://taskade.com)
+
+*Provided by M. Kucharskov & miblak before HackYeah*

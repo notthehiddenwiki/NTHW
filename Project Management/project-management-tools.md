@@ -40,3 +40,5 @@
 35. Slite: Team notes & documentation - [link](https://slite.com)
 36. Codepen: An online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets - [link](https://codepen.io)
 37. Figma: A collaborative interface design tool - [link](https://figma.com)
+
+*Provided by M. Kucharskov & miblak before HackYeah*

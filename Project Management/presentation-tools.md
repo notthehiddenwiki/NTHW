@@ -29,3 +29,5 @@
 24. SlideDog: Seamlessly switch between presentation files, interact with your audience - [link](https://slidedog.com)
 25. Haiku Deck: Simple presentation software focused on visual storytelling - [link](https://haikudeck.com)
 26. Presentations.AI: ChatGPT for Presentations - [link](https://presentations.ai)
+
+*Provided by M. Kucharskov & miblak before HackYeah*
