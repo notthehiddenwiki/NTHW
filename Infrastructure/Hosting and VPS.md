@@ -18,6 +18,7 @@
 11. Cloudways - [link](https://www.cloudways.com/en/)
 12. Cyber_Folks - [link](https://cyberfolks.pl/)
 13. OVH - [link](https://www.ovhcloud.com/)
+15. Mikr.us - [link](https://mikr.us)
 14. [+Crypto]: 1G Bits - [link](https://1gbits.com/)
 15. [+Crypto]: Njalla - [link](https://njal.la/)
 16. [+Crypto]: BitHost - [link](https://bithost.io/)
