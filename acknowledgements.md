@@ -91,6 +91,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 4"** - [Recording on YouTube](https://youtu.be/CfvzlB2ov7w)
   - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 5"** - [Recording on YouTube](https://youtu.be/Y89dJu_ztaA)
   - Lecture titled (NTHK): **"AZ-900 exam workshop"** - [Recording on YouTube](https://youtu.be/0Y9fntgG6ls)
+  - Lecture titled (NTHK): **"SC-900 exam workshop"** - [Recording on YouTube](https://youtu.be/UquXdFghumc)
+  - Lecture titled (NTHK): **"AI-900 exam workshop"** - [Recording on YouTube]()
 - **Marcin Ratajczyk**: [LinkedIn](https://www.linkedin.com/in/znanyproblem/)
   - Lecture titled (HD): **"Cała ta telemetria"** - [Recording on YouTube](https://youtu.be/8mAQfXxBqOQ)
 - **Krystian Kaczmarek**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/)
@@ -140,7 +142,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 - **Kinga Szostko** : [LinkedIn](https://www.linkedin.com/in/kinga-szostko-985b65220/)
   - Lecture titled (HD): **"Co robią dzieci w sieci i dlaczego ich aktywność powinna zainteresować dorosłych"** - [Recording on YouTube](https://youtu.be/zezrG72RMJw)
 - **Beata Zalewa / Lena Sędkiewicz**: [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [LinkedIn](https://www.linkedin.com/in/lena-sedkiewicz/)
-  - Lecture titled (HD): **"OWASP - Pierwszy kontakt"** - [Recording on YouTube]()
+  - Lecture titled (HD): **"OWASP - Pierwszy kontakt"** - [Recording on YouTube](https://youtu.be/3p5zO_y0OeI)
       
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
