@@ -15,14 +15,15 @@
 7. HostGator - [link](https://www.hostgator.com/)
 8. Hostinger - [link](https://www.hostinger.com)
 9. Inmotion hosting - [link](https://www.inmotionhosting.com/)
-10. Kamatera - [link](https://www.kamatera.com)
-11. Mikr.us - [link](https://mikr.us)
-12. Netcup - [link](https://www.netcup.com/en)
-13. OVH - [link](https://www.ovhcloud.com/)
-14. SiteGround - [link](https://eu.siteground.com/)
-15. Velia - [link](https://www.velia.net/)
-16. Webhero - [link](https://webhero.com/)
-17. Websupport - [link](https://www.websupport.sk/)
+10. IONOS - [link](https://www.ionos.com)
+11. Kamatera - [link](https://www.kamatera.com)
+12. Mikr.us - [link](https://mikr.us)
+13. Netcup - [link](https://www.netcup.com/en)
+14. OVH - [link](https://www.ovhcloud.com/)
+15. SiteGround - [link](https://eu.siteground.com/)
+16. Velia - [link](https://www.velia.net/)
+17. Webhero - [link](https://webhero.com/)
+18. Websupport - [link](https://www.websupport.sk/)
 
 #### Providers accepting payments in crypto
 
