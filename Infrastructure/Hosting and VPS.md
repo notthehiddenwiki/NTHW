@@ -11,6 +11,7 @@
 3. Cyber_Folks - [link](https://cyberfolks.pl/)
 4. DonDomino- [link](https://www.dondominio.com/es/)
 5. DreamHost - [link](https://www.dreamhost.com/)
+6. Hetzner - [link](https://www.hetzner.com)
 6. HostGator - [link](https://www.hostgator.com/)
 7. Hostinger - [link](https://www.hostinger.com)
 8. Inmotion hosting - [link](https://www.inmotionhosting.com/)
