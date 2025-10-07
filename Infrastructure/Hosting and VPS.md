@@ -17,7 +17,7 @@
 7. HostGator - [HQ: US] [DC locations: HK IN US] - [link](https://www.hostgator.com/)
 8. Hostinger - [HQ: LT] [DC locations: BR DE FR ID IN LT NL SG UK US] - [link](https://www.hostinger.com)
 9. Inmotion hosting - [HQ: US] [DC locations: NL US] - [link](https://www.inmotionhosting.com/)
-10. IONOS - [link](https://www.ionos.com)
+10. IONOS - [HQ: US] [DC locations: DE ES FR UK US] - [link](https://www.ionos.com)
 11. Kamatera - [link](https://www.kamatera.com)
 12. Linode (Akamai) - [link](https://www.linode.com)
 13. Mikr.us - [link](https://mikr.us)
