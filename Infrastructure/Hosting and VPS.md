@@ -7,10 +7,10 @@
 **Info**: [DC locations: PL, DE, US] -> List of countries where provider's data centers are located.
 **Info**: [+Crypto] -> Accepting Crypto
 
-1. 50 Webs - [HQ: USA] [DC locations: USA] - [link](https://www.50webs.com/)
-2. Cloudways - [HQ: USA] [DC locations: dependent on cloud provider] - [link](https://www.cloudways.com/en/)
+1. 50 Webs - [HQ: US] [DC locations: US] - [link](https://www.50webs.com/)
+2. Cloudways - [HQ: US] [DC locations: dependent on cloud provider] - [link](https://www.cloudways.com/en/)
 3. Cyber_Folks - [HQ: PL] [DC locations: PL] - [link](https://cyberfolks.pl/)
-4. DigitalOcean - [link](https://www.digitalocean.com)
+4. DigitalOcean - [HQ: US] [DC locations: AU CA DE IN NL SG UK US] - [link](https://www.digitalocean.com)
 4. DonDomino- [link](https://www.dondominio.com/es/)
 5. DreamHost - [link](https://www.dreamhost.com/)
 6. Hetzner - [link](https://www.hetzner.com)
