@@ -19,7 +19,7 @@
 9. Inmotion hosting - [HQ: US] [DC locations: NL US] - [link](https://www.inmotionhosting.com/)
 10. IONOS - [HQ: US] [DC locations: DE ES FR UK US] - [link](https://www.ionos.com)
 11. Kamatera - [HQ: US] [DC locations: AU CA DE ES HK IL IT JP NL SE SG UK US] - [link](https://www.kamatera.com)
-12. Linode (Akamai) - [link](https://www.linode.com)
+12. Linode (Akamai) - [HQ: US] [DC locations: AU BR CA DE ES FR ID IN IT JP NL SE SG UK US] - [link](https://www.linode.com)
 13. Mikr.us - [link](https://mikr.us)
 14. Netcup - [link](https://www.netcup.com/en)
 15. OVH - [link](https://www.ovhcloud.com/)
