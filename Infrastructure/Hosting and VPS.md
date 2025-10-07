@@ -8,7 +8,7 @@
 **Info**: [+Crypto] -> Accepting Crypto
 
 1. 50 Webs - [HQ: US] [DC locations: US] - [link](https://www.50webs.com/)
-2. Cloudways - [HQ: US] [DC locations: dependent on cloud provider] - [link](https://www.cloudways.com/en/)
+2. Cloudways - [HQ: MT] [DC locations: dependent on cloud provider] - [link](https://www.cloudways.com/en/)
 3. Cyber_Folks - [HQ: PL] [DC locations: PL] - [link](https://cyberfolks.pl/)
 4. DigitalOcean - [HQ: US] [DC locations: AU CA DE IN NL SG UK US] - [link](https://www.digitalocean.com)
 4. DonDomino - [HQ: ES] [DC locations: ES] - [link](https://www.dondominio.com/es/)
