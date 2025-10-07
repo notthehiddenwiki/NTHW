@@ -22,7 +22,7 @@
 12. Linode (Akamai) - [HQ: US] [DC locations: AU BR CA DE ES FR ID IN IT JP NL SE SG UK US] - [link](https://www.linode.com)
 13. Mikr.us - [HQ: PL] [DC locations: FI] - [link](https://mikr.us)
 14. Netcup - [HQ: DE] [DC locations: AT DE NL US] - [link](https://www.netcup.com/en)
-15. OVH - [link](https://www.ovhcloud.com/)
+15. OVH - [HQ: FR] [DC locations: CA DE FR PL SG UK US] - [link](https://www.ovhcloud.com/)
 16. SiteGround - [link](https://eu.siteground.com/)
 17. Velia - [link](https://www.velia.net/)
 18. Webhero - [link](https://webhero.com/)
