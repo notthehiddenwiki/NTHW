@@ -3,8 +3,8 @@
 ## Hosting && VPS
 -----
 
-**Info**: [HQ: PL] -> Current country of origin (i.e. where headquarters are currently located).
-**Info**: [DC locations: PL, DE, US] -> List of countries where provider's data centers are located.
+**Info**: [HQ: PL] -> Current country of origin (i.e. where headquarters are currently located).  
+**Info**: [DC locations: PL, DE, US] -> List of countries where provider's data centers are located.  
 **Info**: [+Crypto] -> Accepting Crypto
 
 1. 50 Webs - [HQ: US] [DC locations: US] - [link](https://www.50webs.com/)
