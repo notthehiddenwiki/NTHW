@@ -3,12 +3,12 @@
 ## Hosting && VPS
 -----
 
-**Info**: [Origin: PL] -> Country of origin.
+**Info**: [HQ: PL] -> Current country of origin (i.e. where headquarters are currently located).
 **Info**: [DC locations: PL, DE, US] -> List of countries where provider's data centers are located.
 **Info**: [+Crypto] -> Accepting Crypto
 
-1. 50 Webs - [Origin: USA] [DC locations: USA] - [link](https://www.50webs.com/)
-2. Cloudways - [link](https://www.cloudways.com/en/)
+1. 50 Webs - [HQ: USA] [DC locations: USA] - [link](https://www.50webs.com/)
+2. Cloudways - [HQ: USA] [DC locations: dependent on cloud provider] - [link](https://www.cloudways.com/en/)
 3. Cyber_Folks - [link](https://cyberfolks.pl/)
 4. DigitalOcean - [link](https://www.digitalocean.com)
 4. DonDomino- [link](https://www.dondominio.com/es/)
