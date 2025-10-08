@@ -37,7 +37,7 @@
 5. BlueVPS - [+Crypto] [HQ: EE] [DC locations: AE AU BG CA CY DE EE ES FR HK IL IT NL PL SE SG UK US] - [link](https://bluevps.com/)
 6. Cinfu - [+Crypto] [HQ: SC] [DC locations: BG DE FR NL US] - [link](https://www.cinfu.com/)
 7. Cockbox - [+Crypto] [HQ: SC] [DC locations: RO] - [link](https://cockbox.org/)
-8. Hostiko - [+Crypto] - [link](https://hostiko.com.ua/)
+8. Hostiko - [+Crypto] [HQ: UA] [DC locations: DE PL UA] - [link](https://hostiko.com.ua/)
 9. Intech - [+Crypto] - [link](https://iws.initech.global/)
 10. LegionBox - [+Crypto] - [link](https://legionbox.com/)
 11. MonoVM - [+Crypto] - [link](https://monovm.com/vps-server/)
