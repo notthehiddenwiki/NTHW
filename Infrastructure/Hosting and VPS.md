@@ -5,7 +5,9 @@
 
 **Info**: [HQ: PL] -> Current country of origin (i.e. where headquarters are currently located).  
 **Info**: [DC locations: PL, DE, US] -> List of countries where provider's data centers are located.  
-**Info**: [+Crypto] -> Accepting Crypto
+**Info**: [+Crypto] -> Accepting Crypto  
+  
+**Notice**: Lists of DC locations might get outdated over time. Please feel free to verify and keep the lists updated.
 
 1. 50 Webs - [HQ: US] [DC locations: US] - [link](https://www.50webs.com/)
 2. Cloudways - [HQ: MT] [DC locations: dependent on cloud provider] - [link](https://www.cloudways.com/en/)
