@@ -31,7 +31,7 @@
 #### Providers accepting payments in crypto
 
 1. 1G Bits - [+Crypto] [HQ: LT] [DC locations: AU AT BE CA CH CZ DE DK ES FI FR HK IN IT JP KR LT NG NL NO RO SE SG UK US] - [link](https://1gbits.com/)
-2. 3vHost - [+Crypto] - [link](https://my.3v-host.com/)
+2. 3vHost - [+Crypto] [HQ: UA] [DC locations: NL UA US] - [link](https://my.3v-host.com/)
 3. BitHost - [+Crypto] - [link](https://bithost.io/)
 4. BitLaunch - [+Crypto] - [link](https://bitlaunch.io/)
 5. BlueVPS - [+Crypto] - [link](https://bluevps.com/)
