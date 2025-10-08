@@ -43,7 +43,7 @@
 11. MonoVM - [+Crypto] [HQ: LT] [DC locations: AE AT AU CA CH DE DK FR HK NL PL RO RU SE SG UK US] - [link](https://monovm.com/vps-server/)
 12. Njalla - [+Crypto] [HQ: KN] [DC locations: SE] - [link](https://njal.la/)
 13. PrivateAlps - [+Crypto] [HQ: PA] [DC locations: CH] - [link](https://privatealps.net/en)
-14. PrivateWeb - [+Crypto] - [link](https://privateweb.ch/)
+14. PrivateWebhost - [+Crypto] [HQ: CH] [DC locations: AT CH DE FI FR NL RU SE US] - [link](https://privateweb.ch/)
 15. ProfVDS - [+Crypto] - [link](https://control.profvds.com)
 16. Servermath - [+Crypto] - [link](https://www.servermath.com/)
 17. VPS2Day - [+Crypto] - [link](https://portal.vps2day.com/register)
