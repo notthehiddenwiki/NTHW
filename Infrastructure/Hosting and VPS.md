@@ -46,6 +46,6 @@
 14. PrivateWebhost - [+Crypto] [HQ: CH] [DC locations: AT CH DE FI FR NL RU SE US] - [link](https://privateweb.ch/)
 15. ProfVDS - [+Crypto] [HQ: SK] [DC locations: SK] - [link](https://control.profvds.com)
 16. Servermath - [+Crypto] [HQ: IN/US] [DC locations: AE DE ES HK JP KR NG NL PH PL RU SG TR UK US] - [link](https://www.servermath.com/)
-17. VPS2Day - [+Crypto] - [link](https://portal.vps2day.com/register)
+17. Servinga - [+Crypto] [HQ: ] [DC locations: ] - [link](https://servinga.com)
 18. VPSBG - [+Crypto] - [link](https://www.vpsbg.eu/)
 19. Vultr - [+Crypto] - [link](https://www.vultr.com)
