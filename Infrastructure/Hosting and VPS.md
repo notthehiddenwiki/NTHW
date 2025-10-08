@@ -24,7 +24,7 @@
 14. Netcup - [HQ: DE] [DC locations: AT DE NL US] - [link](https://www.netcup.com/en)
 15. OVH - [HQ: FR] [DC locations: CA DE FR PL SG UK US] - [link](https://www.ovhcloud.com/)
 16. SiteGround - [HQ: US] [DC locations: AU DE ES FR NL SG UK US] - [link](https://eu.siteground.com/)
-17. Velia - [link](https://www.velia.net/)
+17. Velia - [HQ: DE] [DC locations: DE FR SG US] - [link](https://www.velia.net/)
 18. Webhero - [link](https://webhero.com/)
 19. Websupport - [link](https://www.websupport.sk/)
 
