@@ -40,7 +40,7 @@
 8. Hostiko - [+Crypto] [HQ: UA] [DC locations: DE PL UA] - [link](https://hostiko.com.ua/)
 9. Initech - [+Crypto] [HQ: US] [DC locations: AE AR AU BE BH BR CA CL DE DK ES FI FR HK ID IE IL IN JP KR MX MY NG NL NZ OM PE PH PL QA SA SE SG TH TW UK US ZA] - [link](https://iws.initech.global/)
 10. LegionBox - [+Crypto] [HQ: AU] [DC locations: CH DE RU US] - [link](https://legionbox.com/)
-11. MonoVM - [+Crypto] - [link](https://monovm.com/vps-server/)
+11. MonoVM - [+Crypto] [HQ: LT] [DC locations: AE AT AU CA CH DE DK FR HK NL PL RO RU SE SG UK US] - [link](https://monovm.com/vps-server/)
 12. Njalla - [+Crypto] - [link](https://njal.la/)
 13. Privatealps - [+Crypto] - [link](https://privatealps.net/en)
 14. PrivateWeb - [+Crypto] - [link](https://privateweb.ch/)
