@@ -26,7 +26,7 @@
 16. SiteGround - [HQ: US] [DC locations: AU DE ES FR NL SG UK US] - [link](https://eu.siteground.com/)
 17. Velia - [HQ: DE] [DC locations: DE FR SG US] - [link](https://www.velia.net/)
 18. Webhero - [HQ: US] [DC locations: US] - [link](https://webhero.com/)
-19. Websupport - [link](https://www.websupport.sk/)
+19. Websupport - [HQ: SK] [DC locations: SK] - [link](https://www.websupport.sk/)
 
 #### Providers accepting payments in crypto
 
