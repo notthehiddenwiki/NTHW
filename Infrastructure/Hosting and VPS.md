@@ -5,7 +5,9 @@
 
 **Info**: [HQ: PL] -> Current country of origin (i.e. where headquarters are currently located).  
 **Info**: [DC locations: PL, DE, US] -> List of countries where provider's data centers are located.  
-**Info**: [+Crypto] -> Accepting Crypto
+**Info**: [+Crypto] -> Accepting Crypto  
+  
+**Notice**: Lists of DC locations might get outdated over time. Please feel free to verify and keep the lists updated.
 
 1. 50 Webs - [HQ: US] [DC locations: US] - [link](https://www.50webs.com/)
 2. Cloudways - [HQ: MT] [DC locations: dependent on cloud provider] - [link](https://www.cloudways.com/en/)
@@ -23,29 +25,29 @@
 13. Mikr.us - [HQ: PL] [DC locations: FI] - [link](https://mikr.us)
 14. Netcup - [HQ: DE] [DC locations: AT DE NL US] - [link](https://www.netcup.com/en)
 15. OVH - [HQ: FR] [DC locations: CA DE FR PL SG UK US] - [link](https://www.ovhcloud.com/)
-16. SiteGround - [link](https://eu.siteground.com/)
-17. Velia - [link](https://www.velia.net/)
-18. Webhero - [link](https://webhero.com/)
-19. Websupport - [link](https://www.websupport.sk/)
+16. SiteGround - [HQ: US] [DC locations: AU DE ES FR NL SG UK US] - [link](https://eu.siteground.com/)
+17. Velia - [HQ: DE] [DC locations: DE FR SG US] - [link](https://www.velia.net/)
+18. Webhero - [HQ: US] [DC locations: US] - [link](https://webhero.com/)
+19. Websupport - [HQ: SK] [DC locations: SK] - [link](https://www.websupport.sk/)
 
 #### Providers accepting payments in crypto
 
-1. 1G Bits - [+Crypto] - [link](https://1gbits.com/)
-2. 3vHost - [+Crypto] - [link](https://my.3v-host.com/)
-3. BitHost - [+Crypto] - [link](https://bithost.io/)
-4. BitLaunch - [+Crypto] - [link](https://bitlaunch.io/)
-5. BlueVPS - [+Crypto] - [link](https://bluevps.com/)
-6. Cinfu - [+Crypto] - [link](https://www.cinfu.com/)
-7. Cockbox - [+Crypto] - [link](https://cockbox.org/)
-8. Hostiko - [+Crypto] - [link](https://hostiko.com.ua/)
-9. Intech - [+Crypto] - [link](https://iws.initech.global/)
-10. LegionBox - [+Crypto] - [link](https://legionbox.com/)
-11. MonoVM - [+Crypto] - [link](https://monovm.com/vps-server/)
-12. Njalla - [+Crypto] - [link](https://njal.la/)
-13. Privatealps - [+Crypto] - [link](https://privatealps.net/en)
-14. PrivateWeb - [+Crypto] - [link](https://privateweb.ch/)
-15. ProfVDS - [+Crypto] - [link](https://control.profvds.com)
-16. Servermath - [+Crypto] - [link](https://www.servermath.com/)
-17. VPS2Day - [+Crypto] - [link](https://portal.vps2day.com/register)
-18. VPSBG - [+Crypto] - [link](https://www.vpsbg.eu/)
-19. Vultr - [+Crypto] - [link](https://www.vultr.com)
+1. 1G Bits - [+Crypto] [HQ: LT] [DC locations: AU AT BE CA CH CZ DE DK ES FI FR HK IN IT JP KR LT NG NL NO RO SE SG UK US] - [link](https://1gbits.com/)
+2. 3vHost - [+Crypto] [HQ: UA] [DC locations: NL UA US] - [link](https://my.3v-host.com/)
+3. BitHost - [+Crypto] [HQ: ?] [DC locations: BG CH DE LU MY NL RU SG] - [link](https://bithost.io/)
+4. BitLaunch - [+Crypto] [HQ: PA] [DC locations: NL RO UK US] - [link](https://bitlaunch.io/)
+5. BlueVPS - [+Crypto] [HQ: EE] [DC locations: AE AU BG CA CY DE EE ES FR HK IL IT NL PL SE SG UK US] - [link](https://bluevps.com/)
+6. Cinfu - [+Crypto] [HQ: SC] [DC locations: BG DE FR NL US] - [link](https://www.cinfu.com/)
+7. Cockbox - [+Crypto] [HQ: SC] [DC locations: RO] - [link](https://cockbox.org/)
+8. Hostiko - [+Crypto] [HQ: UA] [DC locations: DE PL UA] - [link](https://hostiko.com.ua/)
+9. Initech - [+Crypto] [HQ: US] [DC locations: AE AR AU BE BH BR CA CL DE DK ES FI FR HK ID IE IL IN JP KR MX MY NG NL NZ OM PE PH PL QA SA SE SG TH TW UK US ZA] - [link](https://iws.initech.global/)
+10. LegionBox - [+Crypto] [HQ: AU] [DC locations: CH DE RU US] - [link](https://legionbox.com/)
+11. MonoVM - [+Crypto] [HQ: LT] [DC locations: AE AT AU CA CH DE DK FR HK NL PL RO RU SE SG UK US] - [link](https://monovm.com/vps-server/)
+12. Njalla - [+Crypto] [HQ: KN] [DC locations: SE] - [link](https://njal.la/)
+13. PrivateAlps - [+Crypto] [HQ: PA] [DC locations: CH] - [link](https://privatealps.net/en)
+14. PrivateWebhost - [+Crypto] [HQ: CH] [DC locations: AT CH DE FI FR NL RU SE US] - [link](https://privateweb.ch/)
+15. ProfVDS - [+Crypto] [HQ: SK] [DC locations: SK] - [link](https://control.profvds.com)
+16. Servermath - [+Crypto] [HQ: IN/US] [DC locations: AE DE ES HK JP KR NG NL PH PL RU SG TR UK US] - [link](https://www.servermath.com/)
+17. Servinga - [+Crypto] [HQ: DE] [DC locations: CH DE EE ES NL RO SE UK US] - [link](https://servinga.com)
+18. VPSBG - [+Crypto] [HQ: BG] [DC locations: BG] - [link](https://www.vpsbg.eu/)
+19. Vultr - [+Crypto] [HQ: US] [DC locations: AU BR CA CL DE ES FR IL IN JP KR MX NL PL SE SG UK US ZA] - [link](https://www.vultr.com)
