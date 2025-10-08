@@ -34,7 +34,7 @@
 2. 3vHost - [+Crypto] [HQ: UA] [DC locations: NL UA US] - [link](https://my.3v-host.com/)
 3. BitHost - [+Crypto] [HQ: ?] [DC locations: BG CH DE LU MY NL RU SG] - [link](https://bithost.io/)
 4. BitLaunch - [+Crypto] [HQ: PA] [DC locations: NL RO UK US] - [link](https://bitlaunch.io/)
-5. BlueVPS - [+Crypto] - [link](https://bluevps.com/)
+5. BlueVPS - [+Crypto] [HQ: EE] [DC locations: AE AU BG CA CY DE EE ES FR HK IL IT NL PL SE SG UK US] - [link](https://bluevps.com/)
 6. Cinfu - [+Crypto] - [link](https://www.cinfu.com/)
 7. Cockbox - [+Crypto] - [link](https://cockbox.org/)
 8. Hostiko - [+Crypto] - [link](https://hostiko.com.ua/)
