@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 3877 links on our wiki!**
+**There are already 4069 links on our wiki!**
 
 💥 Intro
 -----
@@ -25,6 +25,14 @@ If you prefer a link browser, check out a project created by a member of our com
 Would you like to actively contribute to the growth of **Not The Hidden Wiki**? <br> Would you like to submit an idea? Or maybe you just want to send new links that are worth adding to the website?
 
 **Don't waste time!** [Join](https://discord.gg/fjwzWFWuzg) **to the community right now!**
+
+📌 NTHW-42 Unit
+-----
+**NTHW-42 Unit** is a revolutionary initiative that brings together 20+ elite cybersecurity specialists to provide world-class penetration testing and red team operations **completely free of charge**.
+
+In an era where regulations like NIS2 and DORA demand robust cybersecurity, many organizations struggle with the high costs of professional security assessments. We bridge this gap by democratizing access to enterprise-grade security testing.
+
+Interested? Check out the page dedicated to [NTHW-42](https://github.com/notthehiddenwiki/NTHW/tree/nthw/NTHW-42/README.md)
 
 🏫 Not The Hidden Knowledge - [ **NTHK** ]
 -----
@@ -110,8 +118,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
   - Threat Hunting: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/articles.md) / [Platforms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/platforms.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/videos.md)
   - Reverse Engineering: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/videos.md)
   - Vulnerability Management: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Vulnerability%20Management/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Vulnerability%20Management/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Vulnerability%20Management/videos.md) 
-- **Black Team**:
-  - Radio Frequency: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/tools.md) / [Schemats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/schemats.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Black%20Team/Radio%20Frequency/videos.md)
+- **Radio Frequency**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Radio%20Frequency/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Radio%20Frequency/tools.md) / [Schemats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Radio%20Frequency/schemats.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Radio%20Frequency/videos.md)
 - **Programming**:
   - Code Review: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Code%20Review/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Code%20Review/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Code%20Review/videos.md)
   - Assembler: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Assembler/videos.md)
@@ -148,6 +155,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 - **AppSec**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/articles.md) / [Threats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/threats.md)
 - **Privacy**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/videos.md)
 - **Automation**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Automation/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Automation/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Automation/videos.md)
+- **Project Management**: [Note Taking Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Project%20Management/note-taking-tools.md) / [Presentation Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Project%20Management/presentation-tools.md) / [Project Management](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Project%20Management/project-management-tools.md) / [Speaker Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Project%20Management/speaker-tools.md)
 - **Podcasts**: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Podcasts/links.md)
 - **Computer Networks**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Computer%20Networks/articles.md)
 - **Links from Zaufana Trzecia Strona**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Z3S%20Links/)
