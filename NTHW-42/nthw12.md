@@ -33,4 +33,3 @@
 ---
 
 We are excited to mentor the next generation of cybersecurity professionals and provide real-world experience in a supportive environment.
-![alt text](image.png)

@@ -73,8 +73,6 @@ Client testimonials, case studies, and impact reports from organizations we've s
 
 ### ⚖️ [Terms of Service](https://github.com/notthehiddenwiki/NTHW/tree/nthw/NTHW-42/ToS.md)
 
-### 😎
-
 ---
 
 ## 🚀 Engagement Process
