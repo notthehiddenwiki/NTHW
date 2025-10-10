@@ -143,6 +143,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Co robią dzieci w sieci i dlaczego ich aktywność powinna zainteresować dorosłych"** - [Recording on YouTube](https://youtu.be/zezrG72RMJw)
 - **Beata Zalewa / Lena Sędkiewicz**: [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [LinkedIn](https://www.linkedin.com/in/lena-sedkiewicz/)
   - Lecture titled (HD): **"OWASP - Pierwszy kontakt"** - [Recording on YouTube](https://youtu.be/3p5zO_y0OeI)
+- **Patryk Łabuz** : [LinkedIn](https://www.linkedin.com/in/patryklabuz/)
+  - Lecture titled (HD): **"Insider Threat - zaufanie to nie kontrola"** - [Recording on YouTube](https://youtu.be/6z5-rLl0YcQ)
       
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
