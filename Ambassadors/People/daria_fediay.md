@@ -55,7 +55,8 @@ Daria supports the NTHW community by connecting open-source initiatives with ins
 
 ---
 
-**Ambassador status:** ✅ Active
-*This profile was created: [2025-11-10]*
-*Last updated: [2025-11-10]*
+**Ambassador status:** ✅ Active  
+*This profile was created: [11.10.2025]*  
+*Last updated: [11.10.2025]*
+
 
