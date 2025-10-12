@@ -80,5 +80,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Tomasz Czyz](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/tomasz_czyz.md) [Norway]
 * [Lukas Bauer](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/lukas_bauer.md) [Czechia]
 * [Daria Fediay](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/daria_fediay.md) [Belgium]
+* [Warawut Manosong](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/warawut_manosong.md) [Thailand]
+
 
 Thank you for your interest in the NTHW Ambassadors Program! We look forward to collaborating with you to strengthen and grow our cybersecurity community.
