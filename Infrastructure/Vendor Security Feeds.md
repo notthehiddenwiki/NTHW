@@ -8,7 +8,7 @@
 3. Cisco - [link](https://blogs.cisco.com/security/feed)
 4. Cisco Talos - [link](http://feeds.feedburner.com/feedburner/Talos)
 5. Cloudflare - [link](https://blog.cloudflare.com/tag/security/rss)
-6. Crowdstrike - [link](https://www.crowdstrike.com/blog/category/threat-intel-research/feed)
+6. Crowdstrike - [link](https://www.crowdstrike.com/en-us/blog//feed)
 7. Datadog Security - [link](https://securitylabs.datadoghq.com/rss/feed.xml)
 8. Fortinet - [link](https://feeds.fortinet.com/fortinet/blog/threat-research&x=1)
 9. HPE - [link](https://support.hpe.com/hpesc/public/api/document/sec_bull_rss_feed)
