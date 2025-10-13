@@ -14,3 +14,4 @@
 9. Microsoft Security - [link](https://www.microsoft.com/security/blog/feed/)
 10. Palo Alto Unit 42 - [link](http://feeds.feedburner.com/Unit42)
 11. SentinelOne Labs - [link](https://www.sentinelone.com/labs/feed/)
+12. Synology - [link](https://www.synology.com/api/rssfeed/security/en-global)
