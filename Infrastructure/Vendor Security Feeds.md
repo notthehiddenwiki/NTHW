@@ -8,3 +8,4 @@
 3. Cisco - [link](https://blogs.cisco.com/security/feed)
 4. Cisco Talos - [link](http://feeds.feedburner.com/feedburner/Talos)
 5. Cloudflare - [link](https://blog.cloudflare.com/tag/security/rss)
+6. Crowdstrike - [link](https://www.crowdstrike.com/blog/category/threat-intel-research/feed)
