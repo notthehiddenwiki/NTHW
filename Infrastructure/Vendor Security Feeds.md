@@ -13,3 +13,4 @@
 8. Fortinet - [link](https://feeds.fortinet.com/fortinet/blog/threat-research&x=1)
 9. Microsoft Security - [link](https://www.microsoft.com/security/blog/feed/)
 10. Palo Alto Unit 42 - [link](http://feeds.feedburner.com/Unit42)
+11. SentinelOne Labs - [link](https://www.sentinelone.com/labs/feed/)
