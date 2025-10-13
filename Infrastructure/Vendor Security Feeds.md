@@ -10,3 +10,4 @@
 5. Cloudflare - [link](https://blog.cloudflare.com/tag/security/rss)
 6. Crowdstrike - [link](https://www.crowdstrike.com/blog/category/threat-intel-research/feed)
 7. Datadog Security - [link](https://securitylabs.datadoghq.com/rss/feed.xml)
+8. Fortinet - [link](https://feeds.fortinet.com/fortinet/blog/threat-research&x=1)
