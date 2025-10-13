@@ -12,3 +12,4 @@
 7. Datadog Security - [link](https://securitylabs.datadoghq.com/rss/feed.xml)
 8. Fortinet - [link](https://feeds.fortinet.com/fortinet/blog/threat-research&x=1)
 9. Microsoft Security - [link](https://www.microsoft.com/security/blog/feed/)
+10. Palo Alto Unit 42 - [link](http://feeds.feedburner.com/Unit42)
