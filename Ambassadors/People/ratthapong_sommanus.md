@@ -36,10 +36,10 @@ I specialize in offensive security, red teaming, and Active Directory exploitati
 
 ## 🤝 Available for
 - [] Community support  
-- [√] Social Media  
-- [√] Testing  
+- [x] Social Media  
+- [x] Testing  
 - [] Writing tutorials  
-- [√] Mentoring  
+- [x] Mentoring  
 - [] Presentations and webinars  
 - [] Event organization  
 - [] Content creation  
