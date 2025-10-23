@@ -24,6 +24,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Zarządzanie zespołem AI/ML/Cybersecurity Architektów"** - [Recording on YouTube](https://youtu.be/y1gofbQZhA4)
   - Lecture titled (HD): **"Configuration of Security in Copilot AI Studio, Power Platform, Power Automate & Power Apps"** - [Recording on YouTube](https://youtu.be/0hQQqtQDPW4)
   - Lecture titled (HD): **"Azure AI Foundry and Security"** - [Recording on YouTube](https://youtu.be/hTdWTW2y-04)
+  - Lecture titled (HD): **"Azure AI Services & Security"** - [Recording on YouTube](https://youtu.be/hsXGppAyE5o)
 - **Jakub Przepióra**: [LinkedIn](https://linkedin.com/in/jakub-przepiora/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/jakub-przepiora.md)
   - Lecture titled (CA): **"Wstęp do cyberbezpieczeństwa"** - [Recording on YouTube](https://www.youtube.com/watch?v=dhJCvE_Y0_I)
 - **Robert Przybylski**: [LinkedIn](https://www.linkedin.com/in/przybylskirobert/)
@@ -145,6 +146,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"OWASP - Pierwszy kontakt"** - [Recording on YouTube](https://youtu.be/3p5zO_y0OeI)
 - **Patryk Łabuz** : [LinkedIn](https://www.linkedin.com/in/patryklabuz/)
   - Lecture titled (HD): **"Insider Threat - zaufanie to nie kontrola"** - [Recording on YouTube](https://youtu.be/6z5-rLl0YcQ)
+- **Krzysztof Korozej** : [LinkedIn](https://www.linkedin.com/in/korozej/)
+  - Lecture titled (HD): **"Praktyczne aspekty detekcji sekretów w kodzie"** - [Recording on YouTube](https://youtu.be/KCSwpO9C-_c)
       
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 

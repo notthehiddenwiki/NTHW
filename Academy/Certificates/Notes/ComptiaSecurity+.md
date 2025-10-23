@@ -6,3 +6,4 @@
 2. CompTIA SY0-701 Security+ Training Course by Professor Messer - [link](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 3. Security+ Certification SY0-701 50 Practice Questions - [link](https://www.youtube.com/watch?v=yPqSLJG8Rt0&t)
 4. Get Certified Get Ahead - [link](https://www.getcertifiedgetahead.com/)
+5. CompTIA Security+ SY0-701 po polsku - [link](https://github.com/mieczyk/comptia-security-plus-po-polsku)

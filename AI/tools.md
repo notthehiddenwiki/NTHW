@@ -14,3 +14,4 @@
 9. AI automation agent for chrome - [link](https://harpa.ai/)
 10. Pinokio AI: Install, Run & Control ANYTHING on Your Computer with 1 Click - [link](https://pinokio.computer/)
 11. AutoGen – Framework for multi-agent AI apps – [link](https://github.com/microsoft/autogen)
+12. 600+ Ultimate GPTs - [link](https://aitoolsup.notion.site/09af405b91074726b57fe6da32107f7f?v=ab5e7f2174d74c9188ccfadfd8e9f7dd)
