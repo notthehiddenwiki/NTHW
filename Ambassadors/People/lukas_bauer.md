@@ -10,7 +10,7 @@
   - **LinkedIn:** [https://linkedin.com/in/lukas-bauer-cz/](https://www.linkedin.com/in/lukas-bauer-cz/)  
   - **GitHub:** [https://github.com/lukasLUKCZ](https://github.com/lukasLUKCZ)  
   - **Twitter/X:** [@lukasLUKCZ](https://x.com/lukasLUKCZ)
-  - **Discord:** lukaslukcz
+  - **Discord:** [lukaslukcz]
 
 ## 👤 Biography
 Hey, I'm Lukas online I go by lukasLUKCZ. I'm a cyber security student focused on blue team and Digital Forensics & Incident Response (DFIR). You might know me from platforms like CyberDefenders or HackTheBox, where I've earned 15+ first bloods in Sherlocks. I focus on DFIR, especially studying and experimenting with lesser-known artifacts. For me, forensics starts with understanding system behavior and feature design, then using that knowledge to build solid evidence. Because DFIR is demanding and resource-intensive, I decided to become an NTHW ambassador to help grow a community where you can learn from seasoned professionals and share practical, hands-on knowledge with others.

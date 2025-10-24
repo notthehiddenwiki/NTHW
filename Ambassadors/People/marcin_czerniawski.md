@@ -9,7 +9,7 @@
   - **Email:** [marcin.czerniawski2000@gmail.com](mailto:marcin.czerniwski2000@gmail.com)
   - **LinkedIn:** [https://www.linkedin.com/in/marcin-czerniawski](https://www.linkedin.com/in/marcin-czerniawski)  
   - **GitHub:** [https://github.com/desc3nd](https://github.com/desc3nd)  
-  - **Discord:** marcin.czer 
+  - **Discord:** [marcin.czer] 
 
 ## 👤 Biography
 I am an experienced Application Security Engineer with a strong foundation in .NET application development and over 5 years of expertise in programming and cybersecurity. Throughout my career, I have evolved from a .NET Developer to an application security specialist, combining deep technical knowledge with a practical approach to security. I worked as a .NET developer because I couldn’t decide whether I enjoyed programming or cybersecurity more. After completing my master degree in cybersecurity, I found a role that allows me to do both - most of the time I work as a cybersecurity specialist, but occasionally I also develop solutions, particularly in the area of user identity management.

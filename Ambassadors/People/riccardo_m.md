@@ -9,7 +9,7 @@
   - **Email:** [ottersec@duck.com](mailto:ottersec@duck.com) 
   - **LinkedIn:** [https://www.linkedin.com/in/otterpwn/](https://www.linkedin.com/in/otterpwn/)  
   - **GitHub:** [https://github.com/otterpwn](https://github.com/otterpwn)  
-  - **Discord:** ottersec
+  - **Discord:** [ottersec]
 
 ## 👤 Biography
 I am a self-taught cybersecurity enthusiast and professional that loves otters ʕ •ᴥ•ʔ
