@@ -60,12 +60,13 @@ Have questions about the program or need help with your application? Reach out t
 - **Email:** [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
 
 
-
 ## Countries where our ambassadors are located
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/ambassadors/nthw_ambassador_map.png">
 </p>
+
+**We officially operate in 10 unique countries.**
 
 ## Ambassadors List
 
@@ -84,6 +85,16 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Magda Harasiewicz](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/magda_harasiewicz.md) [Spain]
 * [Ratthapong Sommanus](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/ratthapong_sommanus.md) [Thailand]
 * [Will G.](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/will_g.md) [United States]
+* [Andrea Hornung](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/andrea_hornung.md) [Germany]
+
+## Local Communities
+
+The NTHW Ambassadors actively foster and strengthen local cybersecurity communities, creating spaces for collaboration, knowledge sharing, and professional growth.
+
+Our local NTHW communities:
+- NTHW Poland (home location of the project)
+- NTHW Bulgaria (Dimitar Ganev)
+- NTHW Germany (Andrea Hornung)
 
 
 Thank you for your interest in the NTHW Ambassadors Program! We look forward to collaborating with you to strengthen and grow our cybersecurity community.

@@ -148,6 +148,10 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Insider Threat - zaufanie to nie kontrola"** - [Recording on YouTube](https://youtu.be/6z5-rLl0YcQ)
 - **Krzysztof Korozej** : [LinkedIn](https://www.linkedin.com/in/korozej/)
   - Lecture titled (HD): **"Praktyczne aspekty detekcji sekretów w kodzie"** - [Recording on YouTube](https://youtu.be/KCSwpO9C-_c)
+- **Bartłomiej Błażejewski** : [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-b%C5%82a%C5%BCejewski-667507258/)
+  - Lecture titled (NTHK): **"nmap… czyli sam na sam z siecią i terminalem"** - [Recording on YouTube](https://youtu.be/onz-WlMolM8)
+- **Seweryn Stachowicz** : [LinkedIn](https://www.linkedin.com/in/seweryn-stachowicz-984197116/)
+  - Lecture titled (HD): **"Rozwiązania NSM i Cloud Secure Edge w Sonicwall"** - [Recording on YouTube](https://youtu.be/vncAsXvz93I)
       
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
