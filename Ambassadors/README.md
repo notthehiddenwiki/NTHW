@@ -66,7 +66,7 @@ Have questions about the program or need help with your application? Reach out t
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/ambassadors/nthw_ambassador_map.png">
 </p>
 
-**We officially operate in 10 unique countries.**
+**We officially operate in 11 unique countries.**
 
 ## Ambassadors List
 
@@ -86,6 +86,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Ratthapong Sommanus](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/ratthapong_sommanus.md) [Thailand]
 * [Will G.](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/will_g.md) [United States]
 * [Andrea Hornung](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/andrea_hornung.md) [Germany]
+* [Zeno Anton Barzan](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/zeno_anton_barzan.md) [Romania]
 
 ## Local Communities
 

@@ -1,4 +1,4 @@
-# [Warawut Manosong] – NTHW Ambassador
+# Warawut Manosong – NTHW Ambassador
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/ambassadors/Warawut_Manosong.png">
