@@ -70,6 +70,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 7"** - [Recording on YouTube](https://youtu.be/H8LJpZfAkeA)
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 8"** - [Recording on YouTube](https://youtu.be/Ey8Hv3n8VDY)
   - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 9"** - [Recording on YouTube](https://youtu.be/LVPaEHJ9Rrc)
+  - Lecture titled (HzS): **""Herbatka ze Smokiem" czyli na tropie higieny cyfrowej - odcinek 9"** - [Recording on YouTube](https://youtu.be/O5GHxBKRi2o)
+- **Marcin Gąstół**: [LinkedIn](https://www.linkedin.com/in/marcin-gastol/)
   - Lecture titled (CA): **"Managed Identities vs Service Principals w Azure"** - [Recording on YouTube](https://www.youtube.com/watch?v=pubmP8ixOQA)
   - Lecture titled (HD): **"Secured Infrastructure as Safe Code with Bicep in Azure"** - [Recording on YouTube](https://youtu.be/tl2f4SVDwow)
 - **Michał Kłaput**: [LinkedIn](https://www.linkedin.com/in/michalklaput/)

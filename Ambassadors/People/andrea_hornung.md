@@ -7,9 +7,10 @@
 ## 🌍 Basic Information & Contact
   - **Country:** Germany
   - **Email:** hornung_andrea@gmx.net
-  - **LinkedIn:** https://www.linkedin.com/in/andrea-hornung-cybersecurity/ 
-  - **GitHub:** https://github.com/cyrea  
+  - **LinkedIn:** [https://www.linkedin.com/in/andrea-hornung-cybersecurity/](https://www.linkedin.com/in/andrea-hornung-cybersecurity/)
+  - **GitHub:** [https://github.com/cyrea](https://github.com/cyrea)  
   - **Discord:** [cyb_rea]
+  - 
 ## 👤 Biography
 In parallel to my studies Information Science, I’ve successfully completed a trainer education, which enabled me to hold numerous workshops as a certified trainer. This became a great passion for me, as I appreciate knowledge sharing, helping and developing people. Then I gained a Master degree in Innovation Management, in which knowledge management was also an integral component. During my studies, I've gained various valuable experiences, e.g., at the SAP Innovation Center in Australia. During my time at Deloitte in the department Cyber Risk Advisory, I had the pleasure to work closely with the CISO for conceptualizing a cybersecurity awareness program.
 In my projects as a senior manager at PwC, I identify value levers but also cyber risks as part of a due diligence before an investment and advise on relevant measures after the acquisition. Moreover, I hold workshops about latest cyber threats and security measures for my clients. Besides, I am a mentor for my employees and responsible for their learning journey.
