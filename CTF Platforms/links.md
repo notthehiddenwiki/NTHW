@@ -114,3 +114,4 @@
 103. [🔵] ACE Responder - [link](https://www.aceresponder.com/)
 104. [🔵] DFIR Labs - [link](https://dfirlabs.thedfirreport.com/)
 105. [🟣] Wargames BataMladen - [link](https://wargames.batamladen.com/)
+106. [⚪] CTFLearn - [link](https://ctflearn.com)
