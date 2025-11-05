@@ -17,16 +17,13 @@ Organizations that complete engagements with NTHW-42 Unit often provide testimon
 
 ## 📊 Current Statistics
 
-**Total References:** 0  
-**Organizations Served:** 0  
-**Last Updated:** October 2025  
+**Total References:** 1  
+**Organizations Served:** 1  
+**Last Updated:** November 2025  
 
 ## 📁 Reference Documents
 
-*As we complete engagements and receive testimonials, they will be added to this section as PDF documents.*
-
-### Client Testimonials
-- Coming soon: Client testimonial PDFs will be linked here
+- **CypSec Group** - [link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/NTHW-42/References/files/CypSec_Reference_Letter.pdf)
 
 ### Case Studies
 - Coming soon: Anonymized case study documents will be available here

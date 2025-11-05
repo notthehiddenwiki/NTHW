@@ -35,14 +35,14 @@ I specialize in offensive security, red teaming, and Active Directory exploitati
 - **Content:** blog posts
 
 ## 🤝 Available for
-- [] Community support  
+- [ ] Community support  
 - [x] Social Media  
 - [x] Testing  
-- [] Writing tutorials  
+- [ ] Writing tutorials  
 - [x] Mentoring  
-- [] Presentations and webinars  
-- [] Event organization  
-- [] Content creation  
+- [ ] Presentations and webinars  
+- [ ] Event organization  
+- [ ] Content creation  
 
 ## 📚 Language Proficiency
 - **English:** Basic
