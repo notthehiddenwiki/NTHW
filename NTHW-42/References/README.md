@@ -23,6 +23,30 @@ Organizations that complete engagements with NTHW-42 Unit often provide testimon
 
 ## 📁 Reference Documents
 
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Michal "miblak" Blaszczak (miblak@notthehiddenwiki.com) can issue a certificate confirming participation in specific pentests/red teams – of course, only if you actually took part in them
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCgAGBQJpDQXRAAoJEJl0IfR7s29JjWoQAKopfPZaVKMUukTuX2FJqr2q
+J/mjtLLUxepHiv+tYceA1B6K/Fp+IX5reF2V/Z8jgINFtVbP+xfsHCgUIHfoppDG
+wjoGYBhbcBcfdMUqLxSnDj6l96jORRxaPZlTfbbH9yGOcnrOKUGB0cUdo8YSMZbK
+qlpcquW8FohcGm5q+MZa380s20C4gUcGqSqI4SDvy9cDsns908WQgWXgbpD77d7J
+dhsp+1AXnbqd1DARwLcw1AjLEUGrCam96c5+VX67uXO3Gc+tEn/+yxju0mqVYNGT
+vhtv6EO2ge3/jckDdp+g1eZkdGCB5eVGz9cIyG2VMxXMbEcgKhGT1Cq59924W9by
+ZdwYV62s1YrjfpIw7f9sgwSCOD135thcwSlKX0ptn0Jw/9pOSv4PJetG9FXaFnQj
+kdtRBs3wst6ypbHKZZ8pCJlWNiWUcBN2S3ahZPGpY8tveiuYNCXVnVrSLPo7d3pR
+aLo56e7GP5h/DlEIzMhChUw4nFWv3+ZzQz3t7tYAyjeE/fSK6u81F56p5DEhAOtU
+L3qms1sDpabIVvag/PyJaGX+RoNX6zStmsluiK2Ity7WGdwZJiUQbap/fbMdw5o6
+vMdiNrec96DP1Bjq4Y/rHC9VjOpa3fGEzbU+2h2JRDqhY5GQTF8EeOVxQQoYpcQE
+c4i4Hgm1aijvvMGgp/II
+=IF43
+-----END PGP SIGNATURE-----
+```
+
 - **CypSec Group** - [link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/NTHW-42/References/files/CypSec_Reference_Letter.pdf)
 
 ### Case Studies
