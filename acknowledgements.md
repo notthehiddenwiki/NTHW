@@ -50,6 +50,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Wyzwania dotyczące tożsamości w chmurze z perspektywy dewelopera aplikacji"** - [The lecture was not recorded]
 - **Adrian Kapczyński**: [LinkedIn](https://www.linkedin.com/in/hpar3s/)
   - Lecture titled (CA): **"Stegomalware"** - [Recording on YouTube](https://www.youtube.com/watch?v=65a4FV0cNg8)
+  - Lecture titled (HD): **"Systemy biometryczne: architektura, podatności i zabezpieczenia"** - [Recording on YouTube](https://youtu.be/lPmBEjrE18I)
 - **Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/mblaszczak.md)
   - Lecture titled (CA): **"Urodziny NTHW + Wprowadzenie do testów penetracyjnych"** - [Recording on YouTube](https://www.youtube.com/watch?v=zWiPjd2hN8w)
 - **Marcin Naskręt**: [LinkedIn](https://www.linkedin.com/in/marcin-naskr%C4%99t-940383219/)
@@ -95,7 +96,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled: **"Sierpniowe kolonie na chmurze Azure - odcinek 5"** - [Recording on YouTube](https://youtu.be/Y89dJu_ztaA)
   - Lecture titled (NTHK): **"AZ-900 exam workshop"** - [Recording on YouTube](https://youtu.be/0Y9fntgG6ls)
   - Lecture titled (NTHK): **"SC-900 exam workshop"** - [Recording on YouTube](https://youtu.be/UquXdFghumc)
-  - Lecture titled (NTHK): **"AI-900 exam workshop"** - [Recording on YouTube]()
+  - Lecture titled (NTHK): **"AI-900 exam workshop"** - [Recording on YouTube](https://youtu.be/73ZZMum4H0M)
 - **Marcin Ratajczyk**: [LinkedIn](https://www.linkedin.com/in/znanyproblem/)
   - Lecture titled (HD): **"Cała ta telemetria"** - [Recording on YouTube](https://youtu.be/8mAQfXxBqOQ)
 - **Krystian Kaczmarek**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/)
@@ -154,6 +155,9 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"nmap… czyli sam na sam z siecią i terminalem"** - [Recording on YouTube](https://youtu.be/onz-WlMolM8)
 - **Seweryn Stachowicz** : [LinkedIn](https://www.linkedin.com/in/seweryn-stachowicz-984197116/)
   - Lecture titled (HD): **"Rozwiązania NSM i Cloud Secure Edge w Sonicwall"** - [Recording on YouTube](https://youtu.be/vncAsXvz93I)
+- **Paweł Łakomski** : [LinkedIn](https://www.linkedin.com/in/plakom/)
+  - Lecture titled (HD): **"Podstawy tożsamości w Entra ID"** - [Recording on YouTube](https://youtu.be/I8pUmDO5bPk)
+  - Lecture titled (NTHK): **"Zaawansowana ochrona tożsamości w Entra ID"** - [Recording on YouTube]()
       
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 

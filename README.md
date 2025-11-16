@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 4204 links on our wiki!**
+**There are already 4241 links on our wiki!**
 
 💥 Intro
 -----
@@ -146,6 +146,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
     - VMs: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/videos.md)
     - Threat Modeling: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Threat%20Modeling/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Threat%20Modeling/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Threat%20Modeling/videos.md)
 - **Hardware**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/videos.md)
+- **Biometrics**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Biometrics/articles.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Biometrics/videos.md)
 - **Infrastructure**: [Hosting and VPS](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Infrastructure/Hosting%20and%20VPS.md) / [Vendor Security Feeds](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Infrastructure/Vendor%20Security%20Feeds.md)
 - **Misc**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/videos.md) / [Cyber News](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Misc/cyber_news.md)
 - **CTF Platforms**: [Platforms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/CTF%20Platforms/links.md) / [Tips](https://github.com/notthehiddenwiki/NTHW/blob/nthw/CTF%20Platforms/tips.md) / [Writeups](https://github.com/notthehiddenwiki/NTHW/blob/nthw/CTF%20Platforms/writeups.md)
