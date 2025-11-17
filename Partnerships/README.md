@@ -18,3 +18,4 @@ Below you will find companies that we have **partnerships** with and that suppor
 * [MailerLite](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/MailerLite.md)
 * [MailerSend](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/MailerSend.md)
 * [InsideDarknet](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/InsideDarknet.md)
+* [MessageFlow](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/MessageFlow.md)
