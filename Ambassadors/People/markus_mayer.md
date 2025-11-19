@@ -60,5 +60,5 @@ Markus contributes by creating accessible content, enabling open discussions, an
 ---
 
 **Ambassador status:** ✅ Active  
-*This profile was created: 7 November 2025
-*Last updated: 17 November 2025
+*This profile was created: [19.11.2025]*  
+*Last updated: [19.11.2025]*
