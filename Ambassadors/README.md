@@ -88,6 +88,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Andrea Hornung](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/andrea_hornung.md) [Germany]
 * [Zeno Anton Barzan](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/zeno_anton_barzan.md) [Romania]
 * [Samy Medjahed](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/samy_medjahed.md) [France]
+* [Markus Mayer](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/markus_mayer.md) [Austria]
 
 ## Local Communities
 
