@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 4241 links on our wiki!**
+**There are already 4270 links on our wiki!**
 
 💥 Intro
 -----
@@ -54,7 +54,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 
 📖 Category list
 -----
-- **Our partnerships**: [Check](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/README.md)
+- **Our collaborations**: [Check](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/README.md)
 - [Cybersecurity Stars](https://github.com/notthehiddenwiki/NTHW/blob/nthw/stars.md)
 - **Notes - Articles from our community**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Notes)
 - **How To Start With... - Tutorials from our community**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Notes/HowToStartWith/)

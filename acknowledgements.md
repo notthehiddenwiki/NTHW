@@ -158,7 +158,11 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 - **Paweł Łakomski** : [LinkedIn](https://www.linkedin.com/in/plakom/)
   - Lecture titled (HD): **"Podstawy tożsamości w Entra ID"** - [Recording on YouTube](https://youtu.be/I8pUmDO5bPk)
   - Lecture titled (NTHK): **"Zaawansowana ochrona tożsamości w Entra ID"** - [Recording on YouTube]()
-      
+- **Paweł Zwierzyński** : [LinkedIn](https://www.linkedin.com/in/pawel-zwierzynski/)
+  - Lecture titled (HD): **"Phishing, zero-day czy botnet? Czy Twój firewall Cię ochroni?"** - [Recording on YouTube](https://youtu.be/5EunWlCjn7A)
+- **Mateusz Ozimek** : [LinkedIn](https://www.linkedin.com/in/mateuszozimek/)
+  - Lecture titled (NTHK): **"Incydenty bezpieczeństwa w NPM i porównanie z rejestrem NuGet."** - [Recording on YouTube](https://youtu.be/SRmCZdCC2nQ)
+        
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)

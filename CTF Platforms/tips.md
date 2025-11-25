@@ -10,3 +10,4 @@
 5. 0xBEN Offensive Security Notes - [link](https://notes.benheater.com/shelves/offensive-cybersecurity)
 6. The Machine Creator's Wiki - [link](https://ruycr4fts-notes.gitbook.io/the-machine-creators-wiki)
 7. 0xA5h Notes - [link](https://sashactf.gitbook.io/pwn-notes)
+8. lineeralgebra Notes - [link](https://lineeralgebra.gitbook.io/lineeralgebra)

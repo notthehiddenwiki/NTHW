@@ -66,7 +66,7 @@ Have questions about the program or need help with your application? Reach out t
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/ambassadors/nthw_ambassador_map.png">
 </p>
 
-**We officially operate in 12 unique countries.**
+**We officially operate in 13 unique countries.**
 
 ## Ambassadors List
 
