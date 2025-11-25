@@ -1,7 +1,7 @@
-# Say Hello to Hack The Box - poprawic zgodnie z grafiką!~!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# Say Hello to Hack The Box, Our Community Supporter
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/companies/Z3S/HackTheBox.png">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/companies/HackTheBox.png">
 </p>
 
 * Hack The Box Main Website: [https://www.hackthebox.com/](https://www.hackthebox.com/)<br>
