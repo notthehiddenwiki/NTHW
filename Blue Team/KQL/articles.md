@@ -13,3 +13,4 @@
 8. KQL Cheat Sheet for Real Time Intelligence – [link](https://github.com/kustonaut/kql-cheat-sheet)
 9. KQL queries by Sergio Albea – [link](https://github.com/Sergio-Albea-Git/Threat-Hunting-KQL-Queries)
 10. KQLIntel – Converts threat intelligence to KQL queries – [link](https://github.com/Var5h1l/KQLIntel)
+11. Bert-JanP Hunting-Queries-Detection-Rules (KQL Community Repositories) - [link](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Community%20Repositories.md)
