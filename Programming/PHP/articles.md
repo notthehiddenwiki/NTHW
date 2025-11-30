@@ -7,5 +7,5 @@
 2. php.net - official website with comprehensive language documentation - [link](https://www.php.net)
 3. PHP.Watch - news, articles, upcoming changes, tutorials, etc. - [link](https://php.watch)
 4. PHP The Right Way - reference guide for best practices in modern PHP programming - [link](https://phptherightway.com)
-4. The best PHP blogs to read in 2025 - subjective list made by Benjamin Crozat - [link](https://benjamincrozat.com/best-php-blogs)
-5. The PHP Foundation - official news revolving around PHP and its progress in development - [link](https://thephp.foundation)
+5. The best PHP blogs to read in 2025 - subjective list made by Benjamin Crozat - [link](https://benjamincrozat.com/best-php-blogs)
+6. The PHP Foundation - official news revolving around PHP and its progress in development - [link](https://thephp.foundation)
