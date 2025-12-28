@@ -8,4 +8,3 @@
 3. QubesOS - [link](https://www.qubes-os.org/) 
 4. Septor - [link](https://septor.sourceforge.io/)
 5. Kicksecure - [link](https://www.kicksecure.com/)
-6. DevestOS - [link](https://divestos.org/)

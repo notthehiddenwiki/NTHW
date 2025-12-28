@@ -8,5 +8,4 @@
 3. Intel x86 Assembly Language Cheat Sheet - [link](https://scadahacker.com/library/Documents/Cheat_Sheets/Programming%20-%20x86%20Instructions%201.pdf)
 4. x64 Cheat Sheet - [link](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
 5. Linux Assembly website - [link](https://asm.sourceforge.net/)
-6. Assembly Optimization Tips - [link](https://mark.masmcode.com/)
-7. Linux System Call Table (arm & x86) - [link](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#arm-32_bit_EABI)
+6. Linux System Call Table (arm & x86) - [link](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#arm-32_bit_EABI)

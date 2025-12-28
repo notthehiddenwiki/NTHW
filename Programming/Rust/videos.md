@@ -3,4 +3,4 @@
 ## Learn Rust
 -----
 
-It's empty here for now. Come back in a while and if you have links, let me know!
+1. Learning Rust with Gynvael - [link](https://www.youtube.com/playlist?list=PL0ZCORAYPo2BKxiUc0DD0xUQNREvJpyhZ)

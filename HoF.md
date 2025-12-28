@@ -51,5 +51,6 @@
 * **Beata Zalewa** - [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [Website](https://zalnet.pl/)
 * **Michal Biesiada** - [LinkedIn](https://www.linkedin.com/in/michal-biesiada/) / [GitHub](https://github.com/mbiesiad) / [Twitter](https://twitter.com/michalbiesiada) / [Medium](https://medium.com/@embossdotar)
 * **Razz** -  [Linkedin](https://www.linkedin.com/in/jeremiasz-pluta/) / [GitHub](https://github.com/LongWayHomie/) / [HTB](https://app.hackthebox.com/profile/33420)
+* **Andrzej Machnik vel Debian Machnikov**
   
 **Want to join the list?** Share interesting links. Write to me at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)

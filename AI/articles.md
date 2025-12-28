@@ -16,3 +16,4 @@
 11. AI pentest scoping in a nutshell - [link](https://fkai.bearblog.dev/ai-pentest-scoping/)
 12. The architecure of AI and LLM risk - [link](https://fkai.bearblog.dev/the-architecture-of-aiandllm-risk/)
 13. Microsoft Copilot Echoleak (CVE-2025-32711) - [link](https://fkai.bearblog.dev/microsoft-copilot-echoleak-cve-2025-32711/)
+14. AI pentest scoping playbook - [link](https://devansh.bearblog.dev/ai-pentest-scoping/)

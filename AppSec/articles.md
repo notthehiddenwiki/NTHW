@@ -10,5 +10,4 @@
 5. Explanation of CORS mechanism - [link](https://roadtooscp.medium.com/demystifying-cors-7072cfbc0c43)
 6. Good rules for implementing password management - [link](https://scotthelme.co.uk/boosting-account-security-pwned-passwords-and-zxcvbn/)
 7. The explanation of AWS S3 presigned URLs - [link](https://fourtheorem.com/the-illustrated-guide-to-s3-pre-signed-urls/)
-8. Approaches to implement rate limiting - [link](https://blog.maartenballiauw.be/post/2022/10/03/rate-limiting-web-applications-concepts-approaches.html)
-9. Mitigations for SSRF - [link](https://blog.includesecurity.com/2023/03/mitigating-ssrf-in-2023/)
+8. Mitigations for SSRF - [link](https://blog.includesecurity.com/2023/03/mitigating-ssrf-in-2023/)
