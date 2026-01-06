@@ -34,6 +34,5 @@
 29. Threat Hunting Part 1: Improving Through Hunting - [link](https://www.dragos.com/blog/industry-news/threat-hunting-part-1-improving-through-hunting/)
 30. Threat Hunting Part 2: Hunting on ICS Networks - [link](https://www.dragos.com/blog/industry-news/threat-hunting-part-2-hunting-on-ics-networks/)
 31. What Is OT Cyber Threat Intelligence? - [link](https://www.dragos.com/blog/what-is-ot-cyber-threat-intelligence/)
-32. Tracking Down the Bulgarian Marketplace Scams - [link](https://sy1.sh/posts/2024-19-12-investigation-on-scams/)
-33. Insider Threat TTP Knowledge Base - [link](https://github.com/center-for-threat-informed-defense/insider-threat-ttp-kb)
-34. Insider Threat Matrix - [link](https://github.com/Insider-Threat/Insider-Threat?tab=readme-ov-file)
+32. Insider Threat TTP Knowledge Base - [link](https://github.com/center-for-threat-informed-defense/insider-threat-ttp-kb)
+33. Insider Threat Matrix - [link](https://github.com/Insider-Threat/Insider-Threat?tab=readme-ov-file)
