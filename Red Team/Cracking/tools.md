@@ -8,6 +8,5 @@
 3. Hashcat Automation Tool - [link](https://github.com/sp00ks-git/hat)
 4. Hashcat - [link](https://hashcat.net/hashcat/)
 5. John The Ripper - [link](https://github.com/openwall/john)
-6. Fitcrack:  Distributed password cracking system  - [link](https://fitcrack.fit.vutbr.cz/)
-7. Hashtopolis - [link](https://github.com/hashtopolis/server)
-8. NTLM to password - [link](https://ntlm.pw/)
+6. Hashtopolis - [link](https://github.com/hashtopolis/server)
+7. NTLM to password - [link](https://ntlm.pw/)
