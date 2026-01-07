@@ -19,4 +19,5 @@ Below you will find companies that we have **partnerships / collaborations** wit
 * [MailerSend](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/MailerSend.md) - [partnership]
 * [InsideDarknet](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/InsideDarknet.md) - [partnership]
 * [MessageFlow](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/MessageFlow.md) - [partnership]
-* [HackTheBox](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/HackTheBox.md)  - [community supporter]
+* [HackTheBox](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/HackTheBox.md) - [community supporter]
+* [HejHey](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/HejHey.md) - [partnership]
