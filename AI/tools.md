@@ -26,5 +26,9 @@
 11. AutoGen – Framework for multi-agent AI apps – [link](https://github.com/microsoft/autogen)
 12. 600+ Ultimate GPTs - [link](https://aitoolsup.notion.site/09af405b91074726b57fe6da32107f7f?v=ab5e7f2174d74c9188ccfadfd8e9f7dd)
 13. Offensive AI Compilation - [link](https://github.com/jiep/offensive-ai-compilation?tab=readme-ov-file)
+<<<<<<< Updated upstream
+14. Awesome Claude Skills - [link](https://github.com/ComposioHQ/awesome-claude-skills)
+>>>>>>> Stashed changes
+=======
 14. Awesome Claude Skills - [link](https://github.com/ComposioHQ/awesome-claude-skills)
 >>>>>>> Stashed changes
