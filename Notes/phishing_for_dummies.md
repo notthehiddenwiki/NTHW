@@ -421,9 +421,9 @@ nano /etc/opendkim/TrustedHosts
 In the `TrustedHosts` file, add:
 
 ```
-127.0.0.1
+- 0.0.1
 localhost
-192.168.0.1/24
+- 168.0.1/24
 <ip> Instead of <ip>, enter the IP address of your VPS
 
 .<domain> ## Instead of `<domain>` enter your domain name
