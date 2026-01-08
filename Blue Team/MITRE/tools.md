@@ -3,6 +3,6 @@
 ## MITRE
 -----
 
-1. MITRE ATT&CK navigator - [link](https://attack.mitre.org/resources/attack-data-and-tools/)
-2. Tidal community - [link](https://www.tidalcyber.com/communityedition)
+-  MITRE ATT&CK navigator - [link](https://attack.mitre.org/resources/attack-data-and-tools/)
+-  Tidal community - [link](https://www.tidalcyber.com/communityedition)
 

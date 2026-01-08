@@ -3,5 +3,5 @@
 ## Learn Anonymity
 -----
 
-1. Windows Privacy Setup - [link](https://www.youtube.com/watch?v=O1SfdjeWVSk)
-2. Windows Privacy & Security Guide - [link](https://www.youtube.com/watch?v=vNRics7tlqw)
+-  Windows Privacy Setup - [link](https://www.youtube.com/watch?v=O1SfdjeWVSk)
+-  Windows Privacy & Security Guide - [link](https://www.youtube.com/watch?v=vNRics7tlqw)

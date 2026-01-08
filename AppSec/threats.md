@@ -3,5 +3,5 @@
 ## Application Security threats
 -----
 
-1. Dependency Confusion - [link](https://www.blazeinfosec.com/post/dependency-confusion-exploitation/)
+-  Dependency Confusion - [link](https://www.blazeinfosec.com/post/dependency-confusion-exploitation/)
 

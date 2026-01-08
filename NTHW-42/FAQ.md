@@ -108,13 +108,13 @@ A: **Standard Timeline:**
 
 **Q: What is the application process?**  
 A:
-1. **Initial Contact**: Contact [us](mailto:miblak@notthehiddenwiki.com) with subject line [nthw-42]
-2. **Application Review**: Our team evaluates the request
-3. **Preliminary Discussion**: We need to understand requirements
-4. **Scope Definition**: Detailed planning of testing approach
-5. **Testing Execution**: Active security assessment
-6. **Reporting**: Detailed findings and recommendations
-7. **Follow-up**: Post-engagement support and clarification
+-  **Initial Contact**: Contact [us](mailto:miblak@notthehiddenwiki.com) with subject line [nthw-42]
+-  **Application Review**: Our team evaluates the request
+-  **Preliminary Discussion**: We need to understand requirements
+-  **Scope Definition**: Detailed planning of testing approach
+-  **Testing Execution**: Active security assessment
+-  **Reporting**: Detailed findings and recommendations
+-  **Follow-up**: Post-engagement support and clarification
 
 **Q: How many organizations can you serve simultaneously?**  
 A: Currently, we can handle **1-2 concurrent engagements** depending on scope and complexity. We prioritize:
