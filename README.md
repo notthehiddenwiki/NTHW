@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 4335 links on our wiki!**
+**There are already 4372 links on our wiki!**
 
 💥 Intro
 -----
@@ -55,10 +55,10 @@ To thanks and appreciate the contribution to the development of the "**Hackuj Do
       - Comptia Security+: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/ComptiaSecurity+.md)
       - CBBH: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/CBBH.md)
   - Compliance:
-    - GDPR: [link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/GDPR.md)
-    - NIS2: [link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/NIS2.md)
-    - ISO 27001: [link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/ISO27001.md)
-    - Other: [link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/other.md)
+    - GDPR: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/GDPR.md)
+    - NIS2: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/NIS2.md)
+    - ISO 27001: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/ISO27001.md)
+    - Other: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/other.md)
   - Courses:
     - PL Courses: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Courses/PL.md)
     - EN Courses: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Courses/EN.md)
@@ -143,7 +143,7 @@ To thanks and appreciate the contribution to the development of the "**Hackuj Do
   - Malware: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Malware/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Malware/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Malware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Malware/videos.md)
   - Web Hacking: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/articles.md) / [Payload Lists](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/payload_lists.md) / [Plugins](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/plugins.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/videos.md)
   - Binary Pwn: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Binary%20PWN/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Binary%20PWN/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Binary%20PWN/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Binary%20PWN/videos.md)
-  - Pentest Reports: [link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/pentest_reports.md)
+  - Pentest Reports: [Links](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/pentest_reports.md)
 
 ⚖️ Disclaimer
 -----
