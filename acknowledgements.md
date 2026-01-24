@@ -194,6 +194,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Oprogramowanie szpiegujące - omówienie działania, mechanizmów, możliwości i sposobów zapobiegania atakom na użytkowników urządzeń mobilnych"** - [Recording on YouTube](https://youtu.be/xsTxWgfyjDs)
 - **Sergio Albea**: [LinkedIn](https://www.linkedin.com/in/sergioalbea/)
   - Lecture titled (CA): **"Leveraging ISP and ASN as New Indicators of Compromise (IOC) in Cyber Threat Intelligence"** - [Recording on YouTube](https://youtu.be/xxwkf6Y44AM)
-  
+- **Adam Haertle**: [LinkedIn](https://www.linkedin.com/in/adamhaertle/)
+  - Lecture titled (HD): **"Czy komputer może zabić?"** - [Recording on YouTube](https://youtu.be/3gKna6EQx4U)
+    
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
 

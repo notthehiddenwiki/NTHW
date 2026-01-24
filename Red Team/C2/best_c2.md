@@ -18,3 +18,4 @@
 -  Ninja - [link](https://github.com/ahmedkhlief/Ninja)
 -  Kubesploit - [link](https://github.com/cyberark/kubesploit)
 -  NimPlant - [link](https://github.com/chvancooten/NimPlant)
+-  Ankou: Next-Generation Command & Control Framework - [link](https://github.com/Red-Hex-Consulting/Ankou)
