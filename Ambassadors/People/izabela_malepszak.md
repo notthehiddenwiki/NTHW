@@ -1,4 +1,4 @@
-# IzabelaMalepszak – NTHW Ambassador
+# Izabela Malepszak – NTHW Ambassador
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/ambassadors/Izabela_Malepszak.png">
