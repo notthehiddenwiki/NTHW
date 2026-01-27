@@ -60,6 +60,6 @@ I can support the NTHW project by creating accessible educational materials, men
 
 ---
 
-**Ambassador status:** ✅ Active
+**Ambassador status:** ✅ Active  
 *This profile was created: [16.10.2025]*  
 *Last updated: [16.10.2025]*
