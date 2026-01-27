@@ -92,6 +92,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Helmut Karl](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/helmut_karl.md) [Austria]
 * [Claude Manoti](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/claude_manoti.md) [Kenya]
 * [Izabela Malepszak](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/izabela_malepszak.md) [Poland]
+* [Jeremiasz Pluta](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/jeremiasz_pluta.md) [Poland]
 
 ## Local Communities
 
