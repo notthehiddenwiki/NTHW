@@ -26,3 +26,4 @@
 -  SMS4SATS - Send and receive SMS without giving away your phone number - [link](https://sms4sats.com)
 -  Crypton - Your 2nd phone number in the cloud - [link](https://crypton.sh)
 -  Am I Unique? - Browser fingerprinting research tool to assess your digital identifiability - [link](https://amiunique.org)
+-  Privacy Tools guide: website for encrypted software & apps alternatives - [link](https://www.privacytools.io)
