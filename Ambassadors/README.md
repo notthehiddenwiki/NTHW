@@ -93,6 +93,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Claude Manoti](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/claude_manoti.md) [Kenya]
 * [Izabela Malepszak](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/izabela_malepszak.md) [Poland]
 * [Jeremiasz Pluta](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/jeremiasz_pluta.md) [Poland]
+* [Kacper Czech](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/kacper_czech.md) [Poland]
 
 ## Local Communities
 
