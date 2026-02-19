@@ -18,6 +18,7 @@
 -  [🔴] Portswigger Web Security Academy - [link](https://portswigger.net/web-security)
 -  [⚪] CTFTime - [link](https://ctftime.org/)
 -  [⚪] PicoCTF - [link](https://picoctf.org)
+-  [⚪] CanYouHack - [link](https://canyouhack.org)
 -  [🔴] PWNable - [link](https://pwnable.kr/)
 -  [🔴] RE Challenges - [link](https://challenges.re/)
 -  [🔴] Game Of Active Directory - [link](https://github.com/Orange-Cyberdefense/GOAD)
