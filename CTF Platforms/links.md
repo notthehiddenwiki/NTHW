@@ -116,3 +116,4 @@
 -  [🟣] Wargames BataMladen - [link](https://wargames.batamladen.com/)
 -  [⚪] CTFLearn - [link](https://ctflearn.com)
 -  [🟣] SCADA: Cybersecurity Simulation Game - [link](https://scadabreach.com/)
+-  [🔵] Malops: Advanced Malware Analysis Training Platform - [link](https://malops.io/)
