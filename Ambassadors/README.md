@@ -94,7 +94,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Izabela Malepszak](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/izabela_malepszak.md) [Poland]
 * [Jeremiasz Pluta](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/jeremiasz_pluta.md) [Poland]
 * [Kacper Czech](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/kacper_czech.md) [Poland]
-* [Maharram Maharramov](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/maharram_maharramov.md)[Poland / Azerbaijan]
+* [Maharram Maharramov](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/maharram_maharramov.md) [Poland / Azerbaijan]
 
 ## Local Communities
 
