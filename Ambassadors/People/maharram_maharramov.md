@@ -8,7 +8,7 @@
   - **Country:** Poland/Azerbaijan  
   - **Email:** [zeroxmm@protonmail.com](mailto:zeroxmm@protonmail.com)
   - **LinkedIn:** [https://www.linkedin.com/in/maharram-maharramov-55300a304/](https://www.linkedin.com/in/maharram-maharramov-55300a304/)  
-  - **GitHub:** [https://github.com/zeroxmm](ttps://github.com/zeroxmm)  
+  - **GitHub:** [https://github.com/zeroxmm](https://github.com/zeroxmm)  
 
 ## 👤 Biography
 Maharram Maharramov is a Cyber Security Analyst based in Poland, with a focus on both defensive and offensive security. He works daily identifying, analyzing, and responding to threats, combining defensive operations with offensive techniques to better understand adversaries and improve overall security. He worked as an IoT engineer and in the gaming industry, and is currently training through HackTheBox, planning to complete all the paths to deepen his expertise. 
