@@ -27,3 +27,4 @@
 -  Crypton - Your 2nd phone number in the cloud - [link](https://crypton.sh)
 -  Am I Unique? - Browser fingerprinting research tool to assess your digital identifiability - [link](https://amiunique.org)
 -  Privacy Tools guide: website for encrypted software & apps alternatives - [link](https://www.privacytools.io)
+- Device Info - A web browser security testing, privacy testing, and troubleshooting tool - [link](https://www.deviceinfo.me)
