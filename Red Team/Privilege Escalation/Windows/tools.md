@@ -13,3 +13,4 @@
 -  Windows Post-Exploitation tools wrapper - [link](https://github.com/Karmaz95/crimson_wisp)
 -  A GitHub repository for Watson, a tool for enumerating missing Windows updates and suggesting exploits for privilege escalation vulnerabilities - [link](https://github.com/rasta-mouse/Watson)
 -  dploot - DPAPI looting remotly from linux (using python) - [link](https://github.com/zblurx/dploot)
+-  LOLGlobs: Process execution through wildcard pattern evasion A catalog of glob-based command obfuscation - [link](https://0xv1n.github.io/LOLGlobs/)
