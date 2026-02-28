@@ -119,3 +119,4 @@
 -  Blackbird – OSINT username/email search tool – [link](https://github.com/p1ngul1n0/blackbird)
 -  LeakBaseCTI – Investigative framework for malicious actors – [link](https://github.com/VECERTUSA/LeakBaseCTI)
 -  Car-Info - Sprawdzanie numeru VIN pojazdu oraz podstawowych informacji po samym numerze rejestracyjnym - [link](https://www.car-info.pl)
+- user-scanner - OSINT tool for scanning email registrations and checking username availability across multiple platforms - [link](https://github.com/kaifcodec/user-scanner)
