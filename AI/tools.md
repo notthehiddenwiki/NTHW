@@ -32,3 +32,6 @@
 -  datasig – dataset fingerprinting for AIBOM/governance (data origin identification & control) - [link](https://github.com/EleutherAI/datasig)
 -  CleverHans – library for testing model vulnerabilities to adversarial examples - [link](https://github.com/cleverhans-lab/cleverhans)
 -  Foolbox – toolbox for generating adversarial examples and robustness benchmarks - [link](https://github.com/bethgelab/foolbox)
+-  Awesome Claude Code Subagents - [link](https://github.com/VoltAgent/awesome-claude-code-subagents/)
+-  Anthropic Cybersecurity Skills - [link](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+-  Public Skills Builder - [link](https://github.com/shuvonsec/public-skills-builder)

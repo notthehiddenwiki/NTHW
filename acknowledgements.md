@@ -6,7 +6,7 @@
 
 ## Thank You!
 
-***As the Not The Hidden Wiki community, we would like to express our sincere thanks for your significant contribution to the development of the NTHW project and for your active participation in the "Hackuj Dobroczynnie (HD)" / "Cyber ​​Advent (CA)" / "Herbatka ze Smokiem (HzS)" / "Learn Linux with NTHW (LLwN)" and "Not The Hidden Knowledge (NTHK)" initiatives. Your commitment, professionalism and creative approach were of great importance for achieving success in the area of ​​knowledge sharing. We appreciate the willingness to share knowledge, experiences and ideas that have significantly influenced the success of our initiatives.***
+***As the Not The Hidden Wiki community, we would like to express our sincere thanks for your significant contribution to the development of the NTHW project and for your active participation in the "Hackuj Dobroczynnie (HD)" / "Cyber ​​Advent (CA)" / "Herbatka ze Smokiem (HzS)" / "Learn Linux with NTHW (LLwN)" and "Not The Hidden Knowledge (NTHK)" / "Hack The Knowledge (HTK)" initiatives. Your commitment, professionalism and creative approach were of great importance for achieving success in the area of ​​knowledge sharing. We appreciate the willingness to share knowledge, experiences and ideas that have significantly influenced the success of our initiatives.***
 
 Below you can find a list of speakers who shared their knowledge as part of our initiatives:
 
@@ -197,6 +197,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Leveraging ISP and ASN as New Indicators of Compromise (IOC) in Cyber Threat Intelligence"** - [Recording on YouTube](https://youtu.be/xxwkf6Y44AM)
 - **Adam Haertle**: [LinkedIn](https://www.linkedin.com/in/adamhaertle/)
   - Lecture titled (HD): **"Czy komputer może zabić?"** - [Recording on YouTube](https://youtu.be/3gKna6EQx4U)
-    
+- **Dorota Kozłowska**: [LinkedIn](https://www.linkedin.com/in/dorota-kozlowska/)
+  - Lecture titled (HTK): **"Social Engineering for Covert Access Engagements"** - [Recording on YouTube](https://youtu.be/0AF_FY462C0)
+
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
 
