@@ -18,3 +18,5 @@
 -  Microsoft Certified: Security Operations Analyst Associate - SC:200 [link](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification) 
 -  CompTIA Security+ - [link](https://www.comptia.org/certifications/security)
 -  PortSwigger - Burp Suite Certified Practitioner - BSCP - [link](https://portswigger.net/web-security/certification)
+-  Certified CyberDefender Level 1 (CCDL1) - [link](https://cyberdefenders.org/certifications/certified-cyberdefender-level1/)
+-  Certified CyberDefender Level 2 (CCDL2, former CCD) - [link](https://cyberdefenders.org/certifications/certified-cyberdefender-level2/)
