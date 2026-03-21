@@ -35,3 +35,5 @@
 -  Awesome Claude Code Subagents - [link](https://github.com/VoltAgent/awesome-claude-code-subagents/)
 -  Anthropic Cybersecurity Skills - [link](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 -  Public Skills Builder - [link](https://github.com/shuvonsec/public-skills-builder)
+-  Open-source AI agent for investigating production incidents and finding root causes - [link](https://github.com/HolmesGPT/holmesgpt)
+-  Explore Specialized Agent Skills - [link](https://agentskills.so/)
