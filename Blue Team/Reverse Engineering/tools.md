@@ -76,3 +76,4 @@
 -  text to Little endian converter - [link](https://github.com/YxZi5/-random-programming-stuff-/tree/main/text2LE)
 -   Rizin - Free and Open Source Reverse Engineering Framework - [link](https://rizin.re/)
 -   MCP Server for Ghidra - [link](https://github.com/LaurieWired/GhidraMCP/tree/main)
+-   Malware Analysis Crash Course - [link](https://github.com/mandiant/flare-learning-hub)

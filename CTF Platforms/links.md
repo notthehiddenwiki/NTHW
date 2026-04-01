@@ -117,3 +117,4 @@
 -  [⚪] CTFLearn - [link](https://ctflearn.com)
 -  [🟣] SCADA: Cybersecurity Simulation Game - [link](https://scadabreach.com/)
 -  [🔵] Malops: Advanced Malware Analysis Training Platform - [link](https://malops.io/)
+-  [🔵] Cyberchef Playground - [link](https://github.com/ChickenLoner/CyberChef-Playground)

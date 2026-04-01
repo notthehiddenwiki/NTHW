@@ -37,3 +37,6 @@
 -  Public Skills Builder - [link](https://github.com/shuvonsec/public-skills-builder)
 -  Open-source AI agent for investigating production incidents and finding root causes - [link](https://github.com/HolmesGPT/holmesgpt)
 -  Explore Specialized Agent Skills - [link](https://agentskills.so/)
+-  PentAGI: Advanced AI-Powered Penetration Testing - [link](https://pentagi.com/)
+-  Public repository for Agent Skills - [link](https://github.com/anthropics/skills)
+-  45 Claude Code Tips: From Basics to Advanced - [link](https://github.com/ykdojo/claude-code-tips)
