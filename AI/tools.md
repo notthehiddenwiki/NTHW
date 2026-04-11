@@ -40,3 +40,4 @@
 -  PentAGI: Advanced AI-Powered Penetration Testing - [link](https://pentagi.com/)
 -  Public repository for Agent Skills - [link](https://github.com/anthropics/skills)
 -  45 Claude Code Tips: From Basics to Advanced - [link](https://github.com/ykdojo/claude-code-tips)
+-  VulnMCP: A modular MCP server providing AI-driven vulnerability management skills, including severity classification and automated insights - [link](https://github.com/vulnerability-lookup/VulnMCP)
