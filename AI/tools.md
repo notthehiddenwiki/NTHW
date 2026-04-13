@@ -41,3 +41,4 @@
 -  Public repository for Agent Skills - [link](https://github.com/anthropics/skills)
 -  45 Claude Code Tips: From Basics to Advanced - [link](https://github.com/ykdojo/claude-code-tips)
 -  VulnMCP: A modular MCP server providing AI-driven vulnerability management skills, including severity classification and automated insights - [link](https://github.com/vulnerability-lookup/VulnMCP)
+-  MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines - [link](https://github.com/microsoft/markitdown)
