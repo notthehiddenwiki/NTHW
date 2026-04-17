@@ -42,3 +42,5 @@
 -  45 Claude Code Tips: From Basics to Advanced - [link](https://github.com/ykdojo/claude-code-tips)
 -  VulnMCP: A modular MCP server providing AI-driven vulnerability management skills, including severity classification and automated insights - [link](https://github.com/vulnerability-lookup/VulnMCP)
 -  MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines - [link](https://github.com/microsoft/markitdown)
+-  Claude Skills for Governance, Risk & Compliance - [link](https://sushegaad.github.io/Claude-Skills-Governance-Risk-and-Compliance/)
+-  AI Templates - [link](https://www.aitmpl.com/skills/)

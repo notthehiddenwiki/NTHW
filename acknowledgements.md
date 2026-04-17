@@ -201,6 +201,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HTK): **"Social Engineering for Covert Access Engagements"** - [Recording on YouTube](https://youtu.be/0AF_FY462C0)
   - **Lukas Bauer / Warawut Manosong**: [LinkedIn](https://www.linkedin.com/in/lukas-bauer-cz/) / [LinkedIn](https://www.linkedin.com/in/warawut-manosong/)
   - Lecture titled (HTK): **"CyberChef for BlueTeamers"** - [Recording on YouTube](https://youtu.be/lOaHYUC0-50)
-
+- **Iwo Tylus**: [LinkedIn](https://www.linkedin.com/in/iwo-tylus/)
+  - Lecture titled (HTK): **"From $HOME to root shell - Exploiting environment variables in privileged binaries"** - [Recording on YouTube](https://youtu.be/Ss4gHKaWqsQ)
+  
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
 

@@ -118,3 +118,4 @@
 -  [🟣] SCADA: Cybersecurity Simulation Game - [link](https://scadabreach.com/)
 -  [🔵] Malops: Advanced Malware Analysis Training Platform - [link](https://malops.io/)
 -  [🔵] Cyberchef Playground - [link](https://github.com/ChickenLoner/CyberChef-Playground)
+-  [🔴] Ronin66 - [link](https://ronin66.io/)
