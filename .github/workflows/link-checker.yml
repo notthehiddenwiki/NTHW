@@ -1,0 +1,31 @@
+name: Link Checker
+
+on:
+  push:
+    branches: [ nthw ]
+  pull_request:
+    branches: [ nthw ]
+  schedule:
+    - cron: "0 0 * * 0" # Every Sunday at midnight
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lychee Link Checker
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: --verbose --no-progress --exclude "linkedin.com" --exclude "discord.gg" "**/*.md"
+          fail: true
+
+      - name: Create Issue From Failures
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: "🔗 Broken Link Report"
+          content-filepath: ./lychee/out.md
+          labels: report, broken-links
