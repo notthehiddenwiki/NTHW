@@ -44,3 +44,7 @@
 -  MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines - [link](https://github.com/microsoft/markitdown)
 -  Claude Skills for Governance, Risk & Compliance - [link](https://sushegaad.github.io/Claude-Skills-Governance-Risk-and-Compliance/)
 -  AI Templates - [link](https://www.aitmpl.com/skills/)
+-  PromptFoo: Automated testing that finds & fixes AI risk in development - [link](https://www.promptfoo.dev/)
+-  Rebugg: Self-hardening prompt injection detector - [link](https://github.com/protectai/rebuff)
+-  LLMFuzzer: Fuzzing Framework for Large Language Models - [link](https://github.com/mnns/LLMFuzzer)
+-  garak: LLM vulnerability scanner - [link](https://github.com/NVIDIA/garak)

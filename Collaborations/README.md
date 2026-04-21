@@ -21,3 +21,5 @@ Below you will find companies that we have **partnerships / collaborations** wit
 * [MessageFlow](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/MessageFlow.md) - [partnership]
 * [HackTheBox](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/HackTheBox.md) - [community supporter]
 * [HejHey](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/HejHey.md) - [partnership]
+* [Validato](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/Validato.md) - [partnership]
+* [PortSwigger](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/PortSwigger.md) - [community supporter]

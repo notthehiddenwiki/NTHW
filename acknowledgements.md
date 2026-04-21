@@ -203,6 +203,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HTK): **"CyberChef for BlueTeamers"** - [Recording on YouTube](https://youtu.be/lOaHYUC0-50)
 - **Iwo Tylus**: [LinkedIn](https://www.linkedin.com/in/iwo-tylus/)
   - Lecture titled (HTK): **"From $HOME to root shell - Exploiting environment variables in privileged binaries"** - [Recording on YouTube](https://youtu.be/Ss4gHKaWqsQ)
-  
+- **Markus Mayer**: [LinkedIn](https://www.linkedin.com/in/markus-mayer-57b2971b7/)
+  - Lecture titled (HTK): **"Agentic Threats: Discovering Vulnerabilities in AI-Driven Systems"** - [Recording on YouTube](https://youtu.be/omrGvJN0Vh4) 
+
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
 
