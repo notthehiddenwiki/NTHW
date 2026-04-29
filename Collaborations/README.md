@@ -23,3 +23,4 @@ Below you will find companies that we have **partnerships / collaborations** wit
 * [HejHey](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/HejHey.md) - [partnership]
 * [Validato](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/Validato.md) - [partnership]
 * [PortSwigger](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/PortSwigger.md) - [community supporter]
+* [ElevenLabs](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/ElevenLabs.md) - [partnership]
