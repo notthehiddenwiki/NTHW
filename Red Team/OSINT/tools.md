@@ -29,6 +29,7 @@
 -  SMAT - Social Media Analysis Toolkit - [link](https://www.smat-app.com/) 
 -  Advisor - Open Source Intelligence Tools - [link](https://www.advisor-bm.com/osint-tools) 
 -  CSE Utopia - Custom Search Engine Collection - [link](https://start.me/p/EL84Km/cse-utopia) 
+-  NiamonX - Platform for breach monitoring, threat intelligence and OSINT investigations - [link](https://niamonx.io/)
 -  Awesome OSINT - A Curated List of Awesome Open Source Intelligence Tools and Resources - [link](https://github.com/jivoi/awesome-osint)
 -  Datasets & Databases - [link](https://start.me/p/9E8BrL/datasets-databases) 
 -  Google Docs Spreadsheet - Open Source Intelligence Tools and Resources Handbook - [link](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit?usp=drivesdk) 
