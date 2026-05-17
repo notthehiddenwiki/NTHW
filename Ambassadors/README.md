@@ -96,6 +96,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Kacper Czech](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/kacper_czech.md) [Poland]
 * [Maharram Maharramov](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/maharram_maharramov.md) [Poland / Azerbaijan]
 * [Nigar Abasli](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/nigar_abasli.md) [Azerbaijan]
+* [Josselin Poupeney](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/josselin_poupeney.md) [Brazil]
 
 ## Local Communities
 
