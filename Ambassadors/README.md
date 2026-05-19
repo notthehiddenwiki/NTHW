@@ -66,7 +66,7 @@ Have questions about the program or need help with your application? Reach out t
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/ambassadors/nthw_ambassador_map.png">
 </p>
 
-**We officially operate in 15 unique countries.**
+**We officially operate in 17 unique countries.**
 
 ## Ambassadors List
 
@@ -97,6 +97,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Maharram Maharramov](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/maharram_maharramov.md) [Poland / Azerbaijan]
 * [Nigar Abasli](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/nigar_abasli.md) [Azerbaijan]
 * [Josselin Poupeney](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/josselin_poupeney.md) [Brazil]
+* [Albert Miechowicz](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/albert_miechowicz.md) [Poland]
 
 ## Local Communities
 
