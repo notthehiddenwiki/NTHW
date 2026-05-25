@@ -6,7 +6,7 @@
 -  Hacking Alarm System - [link](https://www.diva-portal.org/smash/get/diva2:1600180/FULLTEXT04.pdf)
 -  Intro to SDR and RF Signal Analysis - [link](https://www.elttam.com/blog/intro-sdr-and-rf-analysis/)
 -  Guide to RF Signals - [link](https://www.cnrood.com/en/media/solutions/Guide_to_RF_Signals.pdf)
--  Radio Bacics for Hackers - [link](https://www.hackers-arise.com/post/radio-basics-for-hackers-part-1-electrmagnetic-radiation-frequency-and-wavelength)
+-  Radio Basics for Hackers - [link](https://www.hackers-arise.com/post/radio-basics-for-hackers-part-1-electrmagnetic-radiation-frequency-and-wavelength)
 -  Setting Up Your HackRF One - [link](https://www.hackers-arise.com/post/software-defined-radio-sdr-for-hackers-setting-up-your-hackrf-one)
 -  Car Hacking - [link](https://cri-lab.net/wp-content/uploads/2018/08/CarHacking.pdf)
 -  Hacking The IoT - [link](https://owasp.org/www-pdf-archive/AppSecIL2016_HackingTheIoT-PenTestingRFDevices_ErezMetula.pdf)
