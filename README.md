@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 4963 links on our wiki!**
+**There are already 5000 links on our wiki!**
 
 💥 Intro
 -----
@@ -170,6 +170,7 @@ Violations will be pursued under applicable intellectual property laws. <br>Full
 14. **14.08.2025** - 250 forks on NTHW
 15. **06.09.2025** - 2500 subscribers on LinkedIn
 16. **12.12.2025** - Second anniversary 🍰🎈
+17. **13.06.2026** - 5000 links on NTHW
 
 🔑 Disclaimer
 -----
