@@ -107,6 +107,7 @@ Our local NTHW communities:
 - NTHW Poland (home location of the project)
 - NTHW Bulgaria (Dimitar Ganev)
 - NTHW Germany (Andrea Hornung)
+- NTHW Brazil (Josselin Poupeney)
 
 
 Thank you for your interest in the NTHW Ambassadors Program! We look forward to collaborating with you to strengthen and grow our cybersecurity community.
