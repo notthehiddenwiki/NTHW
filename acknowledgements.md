@@ -175,6 +175,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Jak zacząć przygodę z urządzeniami Cisco?"** - [Recording on YouTube](https://youtu.be/YX-kBGp5aQk)
 - **Paweł Kabata**: [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-kabata/)
   - Lecture titled (CA): **"Zhakowali moją stronę! - Prawdziwe historie, które uczą jak chronić CMS"** - [Recording on YouTube](https://youtu.be/4eoretqDG3w)
+  - Lecture titled (HTK): **"WordPress bez hardeningu - prosta droga do hackingu"** - [Recording on YouTube](https://youtu.be/Yf24IPGLDUM)
 - **Gynvael Coldwind**: [LinkedIn](https://www.linkedin.com/in/gynvael/)
   - Lecture titled (CA): **"Security-reviewing AI generated code"** - [Recording on YouTube](https://youtu.be/btE-dQAn0bA)
 - **Fisnik Doko**: [LinkedIn](https://www.linkedin.com/in/fisnikdoko/)

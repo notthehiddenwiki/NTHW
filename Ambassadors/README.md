@@ -98,6 +98,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Nigar Abasli](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/nigar_abasli.md) [Azerbaijan]
 * [Josselin Poupeney](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/josselin_poupeney.md) [Brazil]
 * [Albert Miechowicz](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/albert_miechowicz.md) [Poland]
+* [Lena Sędkiewicz](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/lena_sedkiewicz.md) [Poland]
 
 ## Local Communities
 
