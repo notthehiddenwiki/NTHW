@@ -1,4 +1,4 @@
-# [Ahmed Amine Derbali] – NTHW Ambassador
+# Ahmed Amine Derbali – NTHW Ambassador
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/ambassadors/Ahmed_Amine_Derbali.png">
