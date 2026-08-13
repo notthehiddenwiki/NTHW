@@ -9,3 +9,4 @@
 4. Ochrona Danych Osobowych, RODO – porady i aktualności - [link](https://blog-daneosobowe.pl/)
 5. GDPR Compliance Checklist - [link](https://gdprchecklist.io/)
 6. [PL] Poradnik dotyczący naruszeń ochrony danych osobowych - [link](https://uodo.gov.pl/pl/138/3561)
+7. UK GDPR guidance and resources for organizations (GDPR in genuinely plain English) - [link](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/)
