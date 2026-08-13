@@ -26,11 +26,11 @@ On the virtual machine, you can see three applications that run on three differe
 
 I could write down my learning of Docker in several points - in retrospect, I know that that approach was not entirely good. I would now suggest the following approach, combining theory with practice.
 
-1. **Understanding the idea of ​​containers** – in this step I would try to understand what containers are and how I can use them in my current work or when creating my project. If possible, I would take a piece of paper and a pen at this step to pre-design what I want to do.
+-  **Understanding the idea of ​​containers** – in this step I would try to understand what containers are and how I can use them in my current work or when creating my project. If possible, I would take a piece of paper and a pen at this step to pre-design what I want to do.
 
-2. **Preparing the environment** - for learning, I would suggest setting up a virtual machine with Linux and installing Docker.
+-  **Preparing the environment** - for learning, I would suggest setting up a virtual machine with Linux and installing Docker.
 
-3. **Practice, practice, practice** – eventually the moment must come to launch the first container. The standard example used is hello-world, but you can go a step further and design a small, simple Dockerfile, which will be a further phase in the development of the project.
+-  **Practice, practice, practice** – eventually the moment must come to launch the first container. The standard example used is hello-world, but you can go a step further and design a small, simple Dockerfile, which will be a further phase in the development of the project.
 
 ### What is Dockerfile?
 

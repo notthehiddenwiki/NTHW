@@ -3,4 +3,4 @@
 ## Miscellaneous Links
 -----
 
-It’s empty here for now. Come back in a while and if you have links, let me know!
+-  Tib3rius' "Getting Into Cybersecurity" interview series - [link](https://www.youtube.com/playlist?list=PLkCYUwlLOT2p1S8KJUsL-4lOBlTl2gtgs)

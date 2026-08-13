@@ -3,4 +3,5 @@
 ## Learn C++
 -----
 
-It's empty here for now. Come back in a while and if you have links, let me know!
+-  Botan - one of the best modern cryptography libraries for C++ - [link](https://botan.randombit.net)
+-  Cppcheck - static analysis tool for C/C++ code - [link](https://cppcheck.sourceforge.io)

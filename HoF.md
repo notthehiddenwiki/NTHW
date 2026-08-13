@@ -3,7 +3,7 @@
 🏆 Hall Of Fame List 🏆
 -----
 
-* **miblak** -  [Linkedin](https://www.linkedin.com/in/michal-blaszczak/) / [Discord](https://discordapp.com/users/854806814573985853) / [HTB](https://app.hackthebox.com/profile/1246594)
+* **miblak** -  [Linkedin](https://www.linkedin.com/in/michal-blaszczak/) / [Discord](https://discordapp.com/users/854806814573985853) / [HTB](https://app.hackthebox.com/public/users/1246594)
 * **k0aziu: NTHW FE DEV** - [Linkedin](https://www.linkedin.com/in/micha%C5%82-kazienko-39abb52aa/) / [GitHub](https://github.com/k0aziu)
 * **d4xc** - [Mail](mailto:d4xc@airmail.cc) / [Linkedin](https://www.linkedin.com/in/dcwikla)
 * **NOMAD** - [Linkedin]( https://pl.linkedin.com/in/marcinmotwicki) / [Website](https://marcinmotwicki.com/)
@@ -49,5 +49,9 @@
 * **Mateusz Zacki** - [LinkedIn](https://www.linkedin.com/in/mzacki/) / [Website](https://mzacki.github.io/) / [GitHub](https://github.com/mzacki)
 * **Sławomir Baran Johansen** - [LinkedIn](https://www.linkedin.com/in/slawomir-johansen/) / [GitHub](https://github.com/sbjohansen)
 * **Beata Zalewa** - [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [Website](https://zalnet.pl/)
-
+* **Michal Biesiada** - [LinkedIn](https://www.linkedin.com/in/michal-biesiada/) / [GitHub](https://github.com/mbiesiad) / [Twitter](https://twitter.com/michalbiesiada) / [Medium](https://medium.com/@embossdotar)
+* **Razz** -  [Linkedin](https://www.linkedin.com/in/jeremiasz-pluta/) / [GitHub](https://github.com/LongWayHomie/) / [HTB](https://app.hackthebox.com/profile/33420)
+* **Andrzej Machnik vel Debian Machnikov**
+* **Ozelot** - [Website](https://ozelot.fyi) / [GitHub](https://github.com/0zelot)
+  
 **Want to join the list?** Share interesting links. Write to me at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)

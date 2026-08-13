@@ -90,15 +90,15 @@ I think it's worth starting with the fact that my achievement would not have hap
 
 Over two years, I have benefited from the support of many great people, but also from write-ups regarding challenges that were retired (i.e. their points did not count towards the ranking). I think that, especially among Hack The Box players, write-ups are somewhat of a taboo topic. That's why I wanted to present my point of view on writeups below. I believe that we need to be able to use writeups and we should use them differently depending on what stage we are at. I have presented three such situations below:
 
-1. **I'm a beginner:** If we are starting our adventure with CTFs, especially the first machines/challenges may be problematic for us, for example, because of the requirement for specific thinking that we have to get used to. Therefore, if you are a beginner and want to start your adventure with CTFs, you can enable writeup on one screen and perform a given challenge on the other. It is important to do it step by step without copying the command etc (you need to rewrite all commands). If we only copy, we will not learn much. Scrolling the writeup directly to the solution will not bring us any closer to development. Thanks to this use of writeups, we will learn how they work, the methodology, and many different tools. Remember that if a concept is new to you, it is worth reading about it a little deeper, for example using Google.
+-  **I'm a beginner:** If we are starting our adventure with CTFs, especially the first machines/challenges may be problematic for us, for example, because of the requirement for specific thinking that we have to get used to. Therefore, if you are a beginner and want to start your adventure with CTFs, you can enable writeup on one screen and perform a given challenge on the other. It is important to do it step by step without copying the command etc (you need to rewrite all commands). If we only copy, we will not learn much. Scrolling the writeup directly to the solution will not bring us any closer to development. Thanks to this use of writeups, we will learn how they work, the methodology, and many different tools. Remember that if a concept is new to you, it is worth reading about it a little deeper, for example using Google.
 
 <br>
 
-2. **I'm intermediate:** After some time, we should gain enough experience to pwn at least half of the machine ourselves. In such a case, we only look at the writeup when we are stuck in a given place for a long time and do not know which direction to go. If we pass a problematic moment, we continue without writeup until we get stuck again. If you can't do anything without writeup, go back to point 1. 
+-  **I'm intermediate:** After some time, we should gain enough experience to pwn at least half of the machine ourselves. In such a case, we only look at the writeup when we are stuck in a given place for a long time and do not know which direction to go. If we pass a problematic moment, we continue without writeup until we get stuck again. If you can't do anything without writeup, go back to point 1. 
 
 <br>
 
-3. **I'm advanced:** I have the impression that for people who consider themselves very experienced, using writeup is like a crime. Fortunately, I do not consider myself such a person, so I will present my point of view on the use of writeups by experienced people. I think the key thing here is to say why exactly should such a person use a writeup. Certainly not to do a challenge/machine! In my opinion, writeups for advanced people are a very interesting read that shows different approaches depending on the person who created the writeup. Additionally, such materials often contain information about paths that were not planned by the creators of the given challenges. Very often it may turn out that instead of escalating privileges by 2 users, we could get to root directly from www-data (on the one hand it is very irritating, but on the other hand it is fascinating that someone found such a possibility). If we think about it, I think that every person, regardless of their level of advancement, should also use writeups in this way. In addition to learning about different paths, we will also see a lot of custom scripts and more. That's why such write-ups are a treasure trove of knowledge.
+-  **I'm advanced:** I have the impression that for people who consider themselves very experienced, using writeup is like a crime. Fortunately, I do not consider myself such a person, so I will present my point of view on the use of writeups by experienced people. I think the key thing here is to say why exactly should such a person use a writeup. Certainly not to do a challenge/machine! In my opinion, writeups for advanced people are a very interesting read that shows different approaches depending on the person who created the writeup. Additionally, such materials often contain information about paths that were not planned by the creators of the given challenges. Very often it may turn out that instead of escalating privileges by 2 users, we could get to root directly from www-data (on the one hand it is very irritating, but on the other hand it is fascinating that someone found such a possibility). If we think about it, I think that every person, regardless of their level of advancement, should also use writeups in this way. In addition to learning about different paths, we will also see a lot of custom scripts and more. That's why such write-ups are a treasure trove of knowledge.
 
 If you have a different opinion about writeups, let me know! I will be happy to read about it and update the article with your observations!
 
@@ -135,9 +135,9 @@ After I published information on LinkedIn that I was the only person who had man
 
 **Q:** `miblak how do i exit vim?`<br>
 **A:** We actually have several options here:
-1. Save and exit: If you want to save your changes and exit Vim, you can use the **:wq** command. This writes (saves) your changes to the file and then quits Vim.
-2. Exit without saving: If you don’t want to save your changes and just want to exit Vim, you can use the **:q!** command. This will exit Vim without saving your changes, discarding any changes you made since the last time you saved.
-3. Save and exit multiple files: If you have multiple files open in Vim and want to save and exit all of them at once, you can use the **:wqa** command. This will write and quit all open files. This is very unlikely to happen if you ended up in Vim unintentionally.
+-  Save and exit: If you want to save your changes and exit Vim, you can use the **:wq** command. This writes (saves) your changes to the file and then quits Vim.
+-  Exit without saving: If you don’t want to save your changes and just want to exit Vim, you can use the **:q!** command. This will exit Vim without saving your changes, discarding any changes you made since the last time you saved.
+-  Save and exit multiple files: If you have multiple files open in Vim and want to save and exit all of them at once, you can use the **:wqa** command. This will write and quit all open files. This is very unlikely to happen if you ended up in Vim unintentionally.
 
 <br>
 
@@ -237,6 +237,6 @@ Remember to also follow the **Not The Hidden Wiki** project on social media!
 
 #### Sources of some elements of the article
 
-1. Gynvael Coldwind: Rok CTFów z Dragon Sector - [link](https://gynvael.coldwind.pl/?id=525)
-2. Hack The Box: How to Play Challanges - [link](https://help.hackthebox.com/en/articles/5185436-how-to-play-challenges)
-3. How to Exit VIM - [link](https://builtin.com/articles/how-to-exit-vim)
+-  Gynvael Coldwind: Rok CTFów z Dragon Sector - [link](https://gynvael.coldwind.pl/?id=525)
+-  Hack The Box: How to Play Challanges - [link](https://help.hackthebox.com/en/articles/5185436-how-to-play-challenges)
+-  How to Exit VIM - [link](https://builtin.com/articles/how-to-exit-vim)
