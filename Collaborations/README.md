@@ -6,6 +6,7 @@
 
 Below you will find companies that we have **partnerships / collaborations** with and that support **Not The Hidden Wiki**
 
+* [OWNROOT](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/OWNROOT.md) - [a company founded by the creator of NTHW]
 * [EmailLabs](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/EmailLabs.md) - [partnership]
 * [Unshade](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/Unshade.md) - [partnership]
 * [CypSec](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Collaborations/Companies/CypSec.md) - [partnership]
