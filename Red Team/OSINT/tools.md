@@ -39,6 +39,7 @@
 -  Search by email or phone number over 200 websites. Generate cool report. (Needs free account and credits) - [link](https://osint.industries/)
 -  Photo search tool using face to find social media accounts of people - [link](https://facecheck.id)
 -  Easy to use photo forensics tool - [link](https://fotoforensics.com/)
+- Browser-local EXIF/IPTC/XMP metadata viewer for images and documents; corroborate metadata because it can be edited or removed - [link](https://metadataremover.ai/metadata-viewer)
 -  Surface, deep and dark web intelligence - [link](https://sosintel.co.uk)
 -  Powerfull, easy to use darkweb engine with browser sandbox built-in - [link](https://bluestoneanalytics.com/darkblue)
 -  Darkweb intelligence multi tool - [link](https://www.darkowl.com/)
