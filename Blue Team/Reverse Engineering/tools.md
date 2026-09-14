@@ -48,7 +48,7 @@
 -  edb - [link](https://github.com/eteran/edb-debugger)
 -  Interactive Delphi Reconstructor IDR: a decompiler of executable files (EXE) and dynamic libraries (DLL), written in Delphi and executed in Windows32 environment. - [link](https://github.com/crypto2011/IDR)
 -  Reverse Engineer's Toolkit - [link](https://github.com/mentebinaria/retoolkit)
--  REDasm: Crossplatform, interactive, multiarchitecture disassembler - [link](https://github.com/REDasmOrg/REDasm)
+-  REDasm: The Open Source Disassembler - [link](https://redasm.dev)
 -  Xori: Custom disassembly framework - [link](https://github.com/endgameinc/xori)
 -  rattle: Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts. - [link](https://github.com/trailofbits/rattle)
 -  starshipraider: High performance embedded systems debug/reverse engineering platform - [link](https://github.com/azonenberg/starshipraider)
