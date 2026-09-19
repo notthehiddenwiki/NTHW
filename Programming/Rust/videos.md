@@ -4,3 +4,4 @@
 -----
 
 -  Learning Rust with Gynvael - [link](https://www.youtube.com/playlist?list=PL0ZCORAYPo2BKxiUc0DD0xUQNREvJpyhZ)
+-  Rust Basics - Morpheus Tutorials (*de*) - [link](https://www.youtube.com/playlist?list=PLNmsVeXQZj7r4HuTyVCDLKlsD9EQzoncP)
