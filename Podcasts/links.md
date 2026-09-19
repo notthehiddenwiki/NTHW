@@ -18,3 +18,9 @@
 -  Critical Thinking - Bug Bounty Podcast (*en*) - [link](https://open.spotify.com/show/4GiJnv8f4a4ZR6Jc6TQJ3k)
 -  Cybernews Podcast (*en*) - [link](https://podcasts.apple.com/us/podcast/cybernews-podcast/id1773242231?itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1773242231&at=1001l3cxF&ct=cybernews)
 -  Ethical Hacking, Guests and Wholesomeness Podcast (*en*) - [link](https://www.twitch.tv/womaninredpresents) live, and [link](https://www.youtube.com/@womaninredpresents) archival episodes
+-  Einführung in die Cyber Security (*de*) - [link](https://open.spotify.com/show/6dPFGm9JSwj0cUrqQiNVIk)
+-  Netzsicher - Der Hacking Podcast (*de*) - [link](https://open.spotify.com/show/5hClVK2LPQ4mnSYMdU3JCM)
+-  Passwort - der Podcast von heise security (*de*) - [link](https://open.spotify.com/show/5OD0uqQbQyrW2vtLrxMNCj)
+-  Security-as-a-Podcast (*de*) - [link](https://open.spotify.com/show/3LtunFqsY4VJs8M4bXSk0h)
+-  Darknet Diaries Deutsch - heise (*de*) - [link](https://open.spotify.com/show/1ypoEKKWUhnSOjZU02oUve)
+-  White Hat Café (*de*) - [link](https://open.spotify.com/show/1Ndr3k4tpCbElZ4WnMpu1A)
