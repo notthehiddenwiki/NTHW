@@ -50,6 +50,7 @@
 -  Searchcode - [link](https://searchcode.com/)
 -  Whois, dns lookup, hostname, domains data - [link](https://securitytrails.com/)
 -  URL scan - [link](https://urlscan.io/)
+-  ScanMalware - URL sandbox with a public scan archive, searchable by domain, IP, ASN, JARM and favicon hash - [link](https://scanmalware.com/)
 -  Analyzing network infrastructure - [link](https://www.domaintools.com/resources/blog/analyzing-network-infrastructure-as-composite-objects/)
 -  Header analyzer - [link](https://toolbox.googleapps.com/apps/messageheader/)
 -  Wheregoes - [link](https://wheregoes.com/)
