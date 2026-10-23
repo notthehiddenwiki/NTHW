@@ -119,3 +119,6 @@
 -  [🔵] Malops: Advanced Malware Analysis Training Platform - [link](https://malops.io/)
 -  [🔵] Cyberchef Playground - [link](https://github.com/ChickenLoner/CyberChef-Playground)
 -  [🔴] Ronin66 - [link](https://ronin66.io/)
+-  [🔴] WebVerse Pro Labs - [link](https://webverselabs-pro.com/)
+-  [🔴] Hack Smarter Labs - [link](https://www.hacksmarter.org/)
+-  [🔴] Hacker Blueprint AD ChainLabs - [link](https://hackerblueprint.com/labs)
