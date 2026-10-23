@@ -10,3 +10,4 @@
 -  Validin - [link](https://www.validin.com/)
 -  Lupovis - [link](https://prowl.lupovis.io/)
 -  Pulsedive: Frictionless threat intelligence for growing teams - [link](https://pulsedive.com/)
+-  ICHI Internet Cyber Health Index: free, source-transparent daily barometer of global internet cyber health — aggregates public threat feeds and news for threat hunters and SOC analysts - [link](https://ichi.global/)
