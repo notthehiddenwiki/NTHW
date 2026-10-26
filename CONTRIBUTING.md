@@ -30,7 +30,7 @@ We welcome various forms of contributions:
   - Add or update the link in the list, maintaining alphabetical order if applicable.
   - Use the following format:
     ```markdown
-    1. Resource Name - Brief description of the resource - [link](https://example.com) 
+    - Resource Name - Brief description of the resource - [link](https://example.com) 
     ```
 - **Commit Your Changes**: Write clear and concise commit messages.
   ```bash
