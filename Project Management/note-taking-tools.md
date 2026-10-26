@@ -31,7 +31,7 @@
 -  Hypothes.is: Annotate anything online - [link](https://web.hypothes.is)
 -  Fossil: Source control software with built-in stand-alone wiki pages - [link](https://fossil-scm.org)
 -  SilverBullet: Free, open-source self-hosted PWA for markdown notes - [link](https://silverbullet.md)
--  Obsidian: Free for personal use app, that works on top of a local folder of plain text Markdown files - [link](https://obsidian.md)
+-  Obsidian: Free multiplatform app, that works on top of a local folder of plain text Markdown files. Supports linking notes to each other - [link](https://obsidian.md)
 -  Wridea: Web service to organize and improve ideas and notes by sharing with friends and necessary tools - [link](https://wridea.com)
 -  Google Keep: Google Keep is a note-taking service developed by Google - [link](https://keep.google.com)
 -  OneNote: Microsoft OneNote is a program for free-form information gathering and multi-user collaboration - [link](https://onenote.com)
