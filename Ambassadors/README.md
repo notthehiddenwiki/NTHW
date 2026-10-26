@@ -100,6 +100,7 @@ Below you will find the people who are **ambassadors** for **Not The Hidden Wiki
 * [Albert Miechowicz](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/albert_miechowicz.md) [Poland]
 * [Lena Sędkiewicz](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/lena_sedkiewicz.md) [Poland]
 * [Ahmed Amine Derbali](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/ahmed_amine_derbali.md) [Tunisia]
+* [Krzysztof Smaga](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Ambassadors/People/krzysztof_smaga.md) [Poland]
 
 ## Local Communities
 
