@@ -10,7 +10,7 @@
 -  Active Directory Exploitation Cheat Sheet - [link](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
 -  Active Directory Exploitation Cheat Sheet - [link](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
 -  Active Directory MindMap - [link](https://github.com/esidate/pentesting-active-directory/blob/main/v2/pentesting_active_directory.svg)
- 8. Enumeration MindMap - [link](https://github.com/Ignitetechnologies/Mindmap/tree/main/Enumeration)
+-  Enumeration MindMap - [link](https://github.com/Ignitetechnologies/Mindmap/tree/main/Enumeration)
 -  Alternative ways to Pass the Hash (PtH) - [link](https://www.n00py.io/2020/12/alternative-ways-to-pass-the-hash-pth/)
 -  Kerberos cheatsheet - [link](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
 -  Critical Unauthenticated RCE Vulnerability in MSMQ Service - [link](https://research.checkpoint.com/2023/queuejumper-critical-unauthorized-rce-vulnerability-in-msmq-service/)
