@@ -37,6 +37,7 @@
 -  Terrorism & Radicalisation Research Dashboard - [link](https://start.me/p/OmExgb/terrorism-radicalisation-research-dashboard) 
 -  Digital Methods Initiative - Tool Database - [link](https://wiki.digitalmethods.net/Dmi/ToolDatabase) 
 -  Search by email or phone number over 200 websites. Generate cool report. (Needs free account and credits) - [link](https://osint.industries/)
+-  Opsis - Reverse email lookup. Finds the accounts linked to an email address, username or domain across 1000+ source modules (free account gets 3 searches a month) - [link](https://useopsis.com/)
 -  Photo search tool using face to find social media accounts of people - [link](https://facecheck.id)
 -  Face2social - face search across public social media profile pictures on Instagram, Facebook, TikTok and X; does not crawl the open web - [link](https://face2social.com)
 -  Easy to use photo forensics tool - [link](https://fotoforensics.com/)
