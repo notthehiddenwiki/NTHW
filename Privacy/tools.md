@@ -28,3 +28,4 @@
 -  Am I Unique? - Browser fingerprinting research tool to assess your digital identifiability - [link](https://amiunique.org)
 -  Privacy Tools guide: website for encrypted software & apps alternatives - [link](https://www.privacytools.io)
 - Device Info - A web browser security testing, privacy testing, and troubleshooting tool - [link](https://www.deviceinfo.me)
+-  MyIPScan WebRTC Leak Test - Check whether your browser exposes your real IP address through WebRTC, even with a VPN on - [link](https://myipscan.net/tools/webrtc-leak-test)
